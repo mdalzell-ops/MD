@@ -1,12 +1,12 @@
 # Boston Wealth Management Networking Contacts
-**For:** Marc Dalzell | IU Kelley '28 | mdalzell@iu.edu | (617) 480-6715  
+**For:** Marc Dalzell | Indiana University '28 | mdalzell@iu.edu | (617) 480-6715  
 **Target:** Wealth Management Internship — Boston, MA  
 **Compiled:** June 2026
 
 ---
 
 ## About Marc (Resume Summary for Outreach Context)
-- **School:** Indiana University — Kelley School of Business, BS Public Financial Management + Minor Business/Informatics, GPA 3.68, May 2028
+- **School:** Indiana University — O'Neill School of Public and Environmental Affairs, BS Public Financial Management, Minor in Business (Kelley) + Informatics, GPA 3.68, May 2028
 - **Home:** Wellesley, MA (born and raised — strong local credibility)
 - **Experience:** Investment Analyst at White Rose Capital (managed $50K fund, beat market benchmarks by 14%); Incoming Financial Summer Analyst at Zafiro Hotels (Madrid)
 - **Activities:** SEO Career, IU Dance Marathon Accounting Committee, Lambda Chi Alpha, KSG Business Presentations
@@ -27,7 +27,7 @@
 | 1 | **Daniel Shipman, CFA** | Private Wealth Management | [linkedin.com/in/danielshipman3](https://www.linkedin.com/in/danielshipman3) | Boston PWM office — direct target role |
 | 2 | **Dan Flaherty** | Global Markets Associate | [linkedin.com/in/dancflaherty](https://www.linkedin.com/in/dancflaherty) | **IU Kelley alum** — strongest cold opener |
 
-> **Outreach tip:** Dan Flaherty is an IU Kelley alum — lead with that shared connection immediately. For Daniel Shipman, reference your interest in the PWM Analyst program GS actively recruits for in Boston.
+> **Outreach tip:** Dan Flaherty is an IU alum — lead with the shared Indiana University connection. Do not claim to be a Kelley student; you have a Kelley minor but are in O'Neill. "Fellow Hoosier" is the right framing. For Daniel Shipman, reference your interest in the PWM Analyst program GS actively recruits for in Boston.
 
 ---
 
@@ -39,7 +39,7 @@
 | 3 | **Dan Curtin** | Private Bank | [linkedin.com/in/dan-curtin-9964a11](https://www.linkedin.com/in/dan-curtin-9964a11) | Located Greater Boston — primary contact |
 | 4 | **Jeremy Friedman** | JP Morgan Private Bank | [linkedin.com/in/jeremymaxfriedman](https://www.linkedin.com/in/jeremymaxfriedman) | **IU Kelley alum** |
 
-> **Outreach tip:** Jeremy Friedman attended IU Kelley — open with that. Ask about the Private Bank summer analyst track.
+> **Outreach tip:** Jeremy Friedman attended IU — open with the shared Indiana University connection. You're a fellow Hoosier, not a Kelley student specifically, so frame it as "I'm a student at IU studying finance" rather than "fellow Kelley student."
 
 ---
 
@@ -103,7 +103,7 @@
 | 13 | **Nicolas Wolf** | Fidelity Investments | [linkedin.com/in/nicolasgwolf](https://www.linkedin.com/in/nicolasgwolf) | **IU Kelley alum**, Boston |
 | 14 | **Matthew White** | Fidelity Investments | [linkedin.com/in/mwhite7](https://www.linkedin.com/in/mwhite7) | **IU Kelley alum**, Boston |
 
-> **Outreach tip:** Fidelity is Boston's largest employer in finance. Three IU Kelley alums here — reference shared Kelley background in every message. Fidelity has a robust internship program for undergrads.
+> **Outreach tip:** Fidelity is Boston's largest employer in finance. Three IU alums here — open every message with the shared Indiana University connection. Fidelity has a robust internship program for undergrads. Do not claim to be a Kelley student; simply say you're studying finance at IU.
 
 ---
 
@@ -137,7 +137,7 @@
 |---|------|--------|----------|------------|
 | 18 | **Gaurav Juneja** | Wellington Management | [linkedin.com/in/gauravjuneja](https://www.linkedin.com/in/gauravjuneja) | **IU Kelley alum**, Boston ⭐ |
 
-> **Outreach tip:** Gaurav is an IU Kelley alum at Wellington's Boston HQ — this is a top-tier contact. Wellington manages $1T+ and is one of the most prestigious investment firms in Boston.
+> **Outreach tip:** Gaurav is an IU alum at Wellington's Boston HQ — open with the shared Indiana University connection. Wellington manages $1T+ and is one of the most prestigious investment firms in Boston.
 
 ---
 
@@ -149,7 +149,7 @@
 | 19 | **Dima Makhnovetskiy, MBA** | Cambridge Associates | [linkedin.com/in/dmakhnovetskiy](https://www.linkedin.com/in/dmakhnovetskiy) | **IU Kelley MBA alum**, Greater Boston ⭐ |
 | 20 | **Christopher E. Houston** | Partner, Head of Private Wealth Strategies | [linkedin.com/in/christopherehouston](https://www.linkedin.com/in/christopherehouston) | Boston — senior PWM leader |
 
-> **Outreach tip:** Dima holds an IU Kelley MBA and works in Boston — lead with the Kelley connection. Cambridge Associates is a top destination for wealth analytics and OCIO work, highly relevant to Marc's analytical background.
+> **Outreach tip:** Dima holds an IU MBA and works in Boston — lead with the shared Indiana University connection. Cambridge Associates is a top destination for wealth analytics and OCIO work, highly relevant to Marc's analytical background.
 
 ---
 
@@ -182,7 +182,7 @@
 | 5 | **Cole Sussman** | Cerity Partners | [linkedin.com/in/cole-sussman](https://www.linkedin.com/in/cole-sussman) | **IU Kelley alum** ⭐ |
 | 6 | **Nate Dashiell** | Associate | [linkedin.com/in/natedashiell](https://www.linkedin.com/in/natedashiell) | **IU Kelley alum** ⭐ |
 
-> **Outreach tip:** Three IU Kelley alumni at Cerity Partners — this is your highest-probability firm for a warm reception in Bucket 2. Lead every message with the shared Kelley connection. Ask about their internship or summer program specifically.
+> **Outreach tip:** Three IU alumni at Cerity Partners — this is your highest-probability firm for a warm reception in Bucket 2. Lead every message with the shared Indiana University connection ("I'm a current IU student studying finance..."). Ask about their internship or summer program specifically.
 
 ---
 
@@ -268,14 +268,16 @@
 
 | Hook | Firms/Contacts to Prioritize |
 |------|------------------------------|
-| **IU Kelley Alumni** (highest response rate) | Dan Flaherty (GS), Jeremy Friedman (JPM), Emily Burt + Nicolas Wolf + Matthew White (Fidelity), Gaurav Juneja (Wellington), Dima Makhnovetskiy (Cambridge), Hannah Rutledge + Cole Sussman + Nate Dashiell (Cerity) |
+| **IU Alumni** (highest response rate) | Dan Flaherty (GS), Jeremy Friedman (JPM), Emily Burt + Nicolas Wolf + Matthew White (Fidelity), Gaurav Juneja (Wellington), Dima Makhnovetskiy (Cambridge), Hannah Rutledge + Cole Sussman + Nate Dashiell (Cerity) — note: many attended Kelley specifically; you share IU but are in O'Neill with a Kelley minor. Frame as "fellow Hoosier" not "fellow Kelley student." |
 | **Wellesley Hometown** | Scott Brody at Morgan Stanley ("Wellesley Hills Group") — this is a top-1 contact |
 | **SEO Career** | Mention at BBH (Diversity Mentorship Program), and any firm with DEI-forward culture |
 | **Investment Analyst Experience** (14% above benchmark) | All firms — lead with this in your value prop |
 | **Boston Local** | Emphasize local roots at every firm — you're not a tourist, you're coming home |
 
 ### Message Framework
-> *"Hi [Name], my name is Marc Dalzell — I'm a sophomore at Indiana University Kelley School of Business studying Public Financial Management, originally from Wellesley. [IU/local hook]. I'm actively exploring wealth management opportunities in Boston and would love to learn about your path and any advice you have for someone early in their career. Would you be open to a brief 15-minute call?"*
+> *"Hi [Name], my name is Marc Dalzell — I'm a sophomore at Indiana University studying Public Financial Management (O'Neill School), originally from Wellesley. [IU/local hook]. I'm actively exploring wealth management opportunities in Boston and would love to learn about your path and any advice you have for someone early in their career. Would you be open to a brief 15-minute call?"*
+>
+> **Note:** If reaching out to a Kelley alum, you can say "I noticed you went to IU — I'm currently a student there as well." Do not say "fellow Kelley student." You have a Kelley minor, which you can mention naturally ("I'm taking business courses through Kelley") but it should not be your opener.
 
 ### Priority Order
 1. **All IU Kelley alums** — highest probability of response
