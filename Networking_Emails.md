@@ -3,6 +3,53 @@
 
 ---
 
+## Subject Lines (all 40)
+
+| # | Contact | Firm | Subject Line |
+|---|---------|------|--------------|
+| 1 | Daniel Shipman | Goldman Sachs | IU Student Interested in Goldman Sachs PWM — Boston |
+| 2 | Dan Flaherty | Goldman Sachs | Fellow Hoosier — Interested in Learning About Your Path at Goldman Sachs |
+| 3 | Dan Curtin | JP Morgan Private Bank | IU Student Exploring Private Banking in Boston |
+| 4 | Jeremy Friedman | JP Morgan Private Bank | Fellow Hoosier — Interested in Your Path to J.P. Morgan Private Bank |
+| 5 | Scott Brody | Morgan Stanley | Wellesley Native — Interested in Learning About the Wellesley Hills Group |
+| 6 | Ryan Connolly | Morgan Stanley | IU Student Interested in Private Wealth Management at Morgan Stanley |
+| 7 | Matthew Bartolini | State Street | IU Student Interested in Asset Management at State Street |
+| 8 | Elise McNamara | State Street | IU Student Interested in a Career at State Street Global Advisors |
+| 9 | Michael Boucher | Wells Fargo Advisors | IU Student Exploring Wealth Management in Boston |
+| 10 | Trammel Martin | UBS | IU Student Interested in Wealth Management at UBS |
+| 11 | Robert Cummins | Merrill Lynch | IU Student Interested in Wealth Management at Merrill Lynch — Boston |
+| 12 | Emily Burt | Fidelity Investments | Fellow Hoosier — Interested in Learning About Your Experience at Fidelity |
+| 13 | Nicolas Wolf | Fidelity Investments | Fellow Hoosier — Interested in Wealth Management at Fidelity |
+| 14 | Matthew White | Fidelity Investments | Fellow Hoosier — Exploring Opportunities at Fidelity Investments |
+| 15 | Daniel Head | Brown Brothers Harriman | IU Student Interested in Private Wealth Management at BBH |
+| 16 | Avery Munroe | Brown Brothers Harriman | IU Student Interested in a Career at Brown Brothers Harriman |
+| 17 | C.J. Young | William Blair | IU Student Interested in Wealth Management at William Blair |
+| 18 | Gaurav Juneja | Wellington Management | Fellow Hoosier — Interested in Your Path to Wellington Management |
+| 19 | Dima Makhnovetskiy | Cambridge Associates | Fellow Hoosier — Interested in Private Wealth Strategies at Cambridge Associates |
+| 20 | Christopher Houston | Cambridge Associates | IU Student Interested in Private Wealth at Cambridge Associates |
+| 21 | Elliot Rotstein | Ballentine Partners | IU Student Interested in the Multi-Family Office Model at Ballentine Partners |
+| 22 | James Pleat | Ballentine Partners | IU Student Interested in Wealth Planning at Ballentine Partners |
+| 23 | Peter Chiappinelli | Ballentine Partners | IU Student Interested in Investment Management at Ballentine Partners |
+| 24 | Hannah Rutledge | Cerity Partners | Fellow Hoosier — Interested in Your Path from IU to Cerity Partners |
+| 25 | Cole Sussman | Cerity Partners | Fellow Hoosier — Interested in Learning About Cerity Partners |
+| 26 | Nate Dashiell | Cerity Partners | Fellow Hoosier — Interested in the Associate Role at Cerity Partners |
+| 27 | Jeffrey Cole | Loring Wolcott & Coolidge | IU Student Interested in Trust Advisory at Loring Wolcott & Coolidge |
+| 28 | Jonathan Korb | Loring Wolcott & Coolidge | IU Student Interested in Wealth Management at Loring Wolcott & Coolidge |
+| 29 | Robert Lepson | RWA Wealth Partners | IU Student Interested in the Fee-Only Advisory Model at RWA Wealth Partners |
+| 30 | Fran Lee | RWA Wealth Partners | IU Student Interested in Wealth Advisory at RWA Wealth Partners |
+| 31 | Christopher Hagan | RWA Wealth Partners | IU Student Interested in a Career at RWA Wealth Partners |
+| 32 | Nathaniel Riley | Boston Trust Walden | IU Student Interested in Investment Management at Boston Trust Walden |
+| 33 | Jennifer Shea | Boston Trust Walden | IU Student Interested in Wealth Planning at Boston Trust Walden |
+| 34 | Doug Chamberlain | Appleton Partners | IU Student Interested in Wealth Management at Appleton Partners |
+| 35 | Jennifer Hall | Appleton Partners | IU Student Interested in Financial Planning at Appleton Partners |
+| 36 | Jason Audette | Appleton Partners | IU Student Interested in Wealth Management at Appleton Partners |
+| 37 | Matthew Johnson | Welch & Forbes | IU Student Interested in Private Wealth Management at Welch & Forbes |
+| 38 | Charlie Haydock | Welch & Forbes | IU Student Interested in Wealth Management at Welch & Forbes |
+| 39 | Ryan Carroll | CW Advisors | IU Student Interested in Learning About CW Advisors |
+| 40 | Clinton Lynch | CW Advisors | IU Student Interested in Wealth Advisory at CW Advisors |
+
+---
+
 ## BUCKET 1 — Major Institutions
 
 ---
