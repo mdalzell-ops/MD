@@ -1,39 +1,34 @@
-# PGIM (Prudential) — Boston Office Outreach
-**Goal:** Build relationships before 2027 Summer Analyst Program opens (typically Fall 2026)
-**Application note:** PGIM's summer internship is highly competitive and posts ~October 2026 on their careers site (careers.pgim.com). Reaching out now = 4-month networking head start.
+# PGIM (Prudential) — Boston Office Outreach — Ready to Send
+**Marc Dalzell Villalonga | mdalzell@iu.edu | (617) 480-6715**
+*All 6 contacts are new — no overlap with Waves 1–5*
+*Focus: Build relationships before 2027 Summer Analyst Program opens (typically October 2026)*
 
 ---
 
-## ⚠️ Important Context on PGIM
+## 2027 Application Status
 
-PGIM is Prudential Financial's **institutional** asset management division — not a retail wealth management firm. Their roles are investment/asset management (fixed income, real estate, private capital, equities), not client-facing financial advisor roles. However:
+| Firm | 2027 Status | When to Apply |
+|---|---|---|
+| PGIM Real Estate (Boston) | Opens Fall 2026 — est. October | Network NOW |
+| PGIM Investments (Distribution) | Opens Fall 2026 — est. October | Network NOW |
+| PGIM Fixed Income | Opens Fall 2026 — est. October | Network NOW |
+| PGIM Private Capital | Opens Fall 2026 — est. October | Network NOW |
 
-- PGIM does have a **Wealth Solutions** group that interfaces with wealth management clients
-- Their Summer Analyst Program covers investment, real estate, and client/distribution tracks
-- Boston office focuses on **PGIM Real Estate** (large presence) and **PGIM Investments** distribution
-- Reaching out to analysts here still builds WM-adjacent credibility and IB-alternative optionality
-
-**Your angle:** "I'm interested in institutional investment management and how it intersects with private wealth" — connects your WM focus to their institutional side.
-
----
-
-## Contact List
+**Note on PGIM:** PGIM is Prudential Financial's institutional asset management arm. Their Boston office is strongest in Real Estate and Fixed Income. Their internship program is called the **PGIM Summer Analyst Program** — apply at careers.pgim.com when it posts. Your angle: "interested in how institutional investment management connects to private wealth" — bridges your WM focus to their platform.
 
 ---
 
-### 1. Drew Kenn
-**Title:** Incoming Investment Analyst – PGIM Fixed Income
-**Firm:** PGIM Fixed Income
-**LinkedIn:** linkedin.com/in/drew-kenn-3b7018247
-**School:** Boston College
-**Flag:** Boston-area school ⭐
+## 1. Drew Kenn
+**Title:** Incoming Investment Analyst — PGIM Fixed Income
+**Firm:** PGIM Fixed Income — Boston
+**LinkedIn:** https://www.linkedin.com/in/drew-kenn-3b7018247
+**Connection:** Boston College ⭐ (Boston-area school)
 
-**Subject:** BC → PGIM Fixed Income — Quick Question from IU Student
+**Subject:** BC → PGIM Fixed Income — Rising Junior Interested in Your Path
 
-**Email:**
 Hi Drew,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am interested in PGIM's investment analyst track and how fixed income work intersects with the broader wealth solutions space. I would greatly appreciate a brief call in the next few weeks to learn about your experience at PGIM.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's investment analyst track and how fixed income analysis fits into the broader institutional asset management space. I would greatly appreciate a brief call in the next few weeks to hear about your experience and how you recruited into the role.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -42,19 +37,17 @@ Marc Dalzell Villalonga
 
 ---
 
-### 2. Jack Quinn
-**Title:** Regional Internal Consultant – PGIM Investments
-**Firm:** PGIM Investments (distribution/sales side)
-**LinkedIn:** linkedin.com/in/jack-quinn1
-**School:** Muhlenberg College, Finance
-**Flag:** Recent grad, client-facing distribution role — most WM-adjacent role at PGIM
+## 2. Jack Quinn
+**Title:** Regional Internal Consultant — PGIM Investments
+**Firm:** PGIM Investments — Boston
+**LinkedIn:** https://www.linkedin.com/in/jack-quinn1
+**Connection:** Finance major, recent grad
 
-**Subject:** PGIM Investments Distribution — Quick Question from IU Student
+**Subject:** PGIM Investments Distribution — Rising Junior Would Love Your Perspective
 
-**Email:**
 Hi Jack,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am interested in PGIM's client-facing investment consulting track and how the distribution side of asset management connects to wealth management practices. I would greatly appreciate a brief call in the next few weeks to hear about your path into the role and your experience at PGIM.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Investments' client-facing distribution and consulting track — I find it fascinating how institutional investment solutions get brought to wealth management clients — and I would greatly appreciate a brief call in the next few weeks to hear about your day-to-day and what the role looks like early in your career.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -63,19 +56,17 @@ Marc Dalzell Villalonga
 
 ---
 
-### 3. Kaitlyn Feeney
-**Title:** Real Estate Investment Analyst – PGIM Real Estate
-**Firm:** PGIM Real Estate
-**LinkedIn:** linkedin.com/in/kaitlyn-feeney-502767174
-**School:** Verify on profile
-**Flag:** PGIM Real Estate has a large Boston office — high likelihood she is Boston-based
+## 3. Kaitlyn Feeney
+**Title:** Real Estate Investment Analyst — PGIM Real Estate
+**Firm:** PGIM Real Estate — Boston
+**LinkedIn:** https://www.linkedin.com/in/kaitlyn-feeney-502767174
+**Connection:** Verify school on profile — PGIM Real Estate has large Boston presence
 
-**Subject:** PGIM Real Estate Boston — Quick Question from IU Student
+**Subject:** PGIM Real Estate Boston — Rising Junior Interested in Your Experience
 
-**Email:**
 Hi Kaitlyn,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am interested in PGIM Real Estate's Boston office and the investment analyst role more broadly. I would greatly appreciate a brief call in the next few weeks to learn about your experience on the team.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Real Estate's Boston office and the investment analyst role — real estate is a major component of institutional wealth allocation and I would love to hear how you approach that work day-to-day. I would greatly appreciate a brief call in the next few weeks.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -84,19 +75,17 @@ Marc Dalzell Villalonga
 
 ---
 
-### 4. Luke Simpson
-**Title:** Investment Analyst – PGIM Real Estate
-**Firm:** PGIM Real Estate
-**LinkedIn:** linkedin.com/in/lukewilliamsimpson
-**School:** Verify on profile
-**Flag:** Same team as Kaitlyn — Boston Real Estate office
+## 4. Luke Simpson
+**Title:** Investment Analyst — PGIM Real Estate
+**Firm:** PGIM Real Estate — Boston
+**LinkedIn:** https://www.linkedin.com/in/lukewilliamsimpson
+**Connection:** Verify school on profile — same Boston Real Estate team as Kaitlyn
 
-**Subject:** PGIM Real Estate Analyst Role — Quick Question from IU Student
+**Subject:** PGIM Real Estate Analyst Role — Rising Junior Would Love to Connect
 
-**Email:**
 Hi Luke,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Real Estate's analyst program and would greatly appreciate a brief call in the next few weeks to hear about your experience and what the day-to-day looks like.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Real Estate's investment analyst program and would greatly appreciate a brief call in the next few weeks to hear about your experience on the team and any advice you might have for a student hoping to explore similar opportunities.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -105,19 +94,17 @@ Marc Dalzell Villalonga
 
 ---
 
-### 5. Nandini Goyal
-**Title:** Investment Analyst – PGIM
-**Firm:** PGIM
-**LinkedIn:** linkedin.com/in/nandini-goyal-
-**School:** Verify on profile
-**Flag:** Verify Boston location before sending
+## 5. Nandini Goyal
+**Title:** Investment Analyst — PGIM
+**Firm:** PGIM — Boston (verify location on profile before sending)
+**LinkedIn:** https://www.linkedin.com/in/nandini-goyal-
+**Connection:** Verify school on profile
 
-**Subject:** PGIM Investment Analyst — Quick Question from IU Student
+**Subject:** PGIM Investment Analyst — Rising Junior Interested in Your Path
 
-**Email:**
 Hi Nandini,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am interested in PGIM's investment analyst program and would greatly appreciate a brief call in the next few weeks to learn about your experience at the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's analyst program and would greatly appreciate a brief call in the next few weeks to learn about your experience at the firm and what you would recommend for a student looking to explore the space.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -126,19 +113,17 @@ Marc Dalzell Villalonga
 
 ---
 
-### 6. Jaden May
-**Title:** Senior Investment Analyst – PGIM Private Capital
-**Firm:** PGIM Private Capital
-**LinkedIn:** linkedin.com/in/jaden-may
-**School:** Verify on profile
-**Flag:** Senior analyst = 3-5 years out; still worth a reach-out for mentorship framing
+## 6. Jaden May
+**Title:** Senior Investment Analyst — PGIM Private Capital
+**Firm:** PGIM Private Capital — Boston (verify location on profile before sending)
+**LinkedIn:** https://www.linkedin.com/in/jaden-may
+**Connection:** Verify school on profile — senior analyst = 3–5 years out, worth a mentorship-framed outreach
 
-**Subject:** PGIM Private Capital — Quick Question from IU Student
+**Subject:** PGIM Private Capital — Rising Junior Seeking Career Advice
 
-**Email:**
 Hi Jaden,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am interested in PGIM's private capital platform and how it intersects with broader investment management career paths. I would greatly appreciate a brief call in the next few weeks to hear about your experience at PGIM and any advice you might have.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's private capital platform and how private credit and equity exposure fits into broader wealth and investment management careers. I would greatly appreciate a brief call in the next few weeks to hear about your experience at PGIM and any advice you might have for a student exploring the space.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -150,23 +135,21 @@ Marc Dalzell Villalonga
 ## Before You Send — Checklist
 
 For each contact above, open their LinkedIn profile and confirm:
-- [ ] Current location: Greater Boston area
-- [ ] Graduation year: 2021–2025 (for analysts) or 2018–2022 (for senior)
-- [ ] Still at PGIM (check "Experience" section)
-- [ ] School: note if IU/Big Ten/Boston-area for your reference
+- [ ] Current location shows Greater Boston / Massachusetts
+- [ ] Still currently at PGIM (check "Experience" for end date)
+- [ ] Graduation year 2021–2025 (analysts) — skip if they graduated before 2019
+- [ ] Note their school — add a school connection hook if IU / Big Ten / Boston-area
 
-## PGIM Application Timeline
+## Recommended Send Order
 
-- **Now (June 2026):** Send these networking emails
-- **August-September 2026:** Follow up with anyone who responded — mention you are watching for the internship posting
-- **October 2026 (estimated):** PGIM Summer Analyst Program opens on careers.pgim.com
-- **October-November 2026:** Submit application, reference your conversations
+1. **Jack Quinn** (#2) — most WM-adjacent role at PGIM (client-facing distribution), send first
+2. **Drew Kenn** (#1) — recent grad, Boston College, likely to respond
+3. **Kaitlyn Feeney + Luke Simpson** (#3 & #4) — PGIM Real Estate Boston, send same week
+4. **Nandini Goyal + Jaden May** (#5 & #6) — send only after confirming Boston location
 
-## PGIM's Boston Internship Tracks (based on prior years)
+## PGIM Internship Tracks (best fit for you)
 
-1. PGIM Real Estate — real estate investment analyst intern
-2. PGIM Fixed Income — credit research / investment intern
-3. PGIM Investments — distribution/client services intern (most WM-adjacent)
-4. PGIM Private Capital — private credit/equity analyst intern
-
-**Your best-fit track:** PGIM Investments (distribution) or PGIM Real Estate given your Public Financial Management background and WM goals.
+- **PGIM Investments (Distribution)** — client-facing, most aligned with WM goals
+- **PGIM Real Estate** — large Boston office, high internship availability
+- **PGIM Fixed Income** — strong analytical track, connects to portfolio management
+- **PGIM Private Capital** — private credit/equity, more selective
