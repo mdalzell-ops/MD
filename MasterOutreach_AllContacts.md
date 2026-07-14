@@ -75,11 +75,11 @@
 
 ---
 
-### F. Putnam Investments / Franklin Templeton — Equity Associate Intern
-- **Start:** Summer 2026 / check for fall extension
-- **Location:** Boston, MA (One Post Office Square)
-- **Note:** Listed as invitation-only — reach out to PT1 (Matt Doody) in Section 2 first for a referral
-- **Apply here:** https://franklintempletoncareers.com → search "Putnam Equity Associate Intern Boston"
+### F. Putnam Investments / Franklin Templeton — Monitor for Summer 2027
+- **Status:** Summer 2026 role has already started — **do NOT apply now, it is closed**
+- **Action:** Email PT1 (Matt Doody, Section 2) now to build a connection, then apply when Summer 2027 posts in Fall 2026
+- **Where to watch:** https://franklintempletoncareers.com → search "Putnam Equity Associate Intern"
+- **Note:** Role is invitation-only on Workday — a warm contact referral is essential
 
 ---
 
