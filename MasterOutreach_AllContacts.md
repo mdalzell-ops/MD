@@ -253,6 +253,66 @@ Marc Dalzell Villalonga
 
 ---
 
+### S8. Pearson Harrington
+**Title:** Business Analyst — State Street
+**Firm:** State Street — Boston
+**LinkedIn:** https://www.linkedin.com/in/pearson-harrington-110a22223
+**Connection:** Connecticut College — recent grad, analyst level
+**⚠️ Verify still at State Street before sending — may have moved to AGF Management**
+
+**Subject:** State Street Boston — Rising Junior Interested in Your Path
+
+Hi Pearson,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in State Street's asset management and investment platform and the analyst opportunities in the Boston office. I would greatly appreciate a brief call in the next few weeks to hear about your experience and what you would recommend for a student hoping to explore similar paths.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### S9. Matthew Maskell
+**Title:** VP, Regional Consultant — State Street Global Advisors
+**Firm:** State Street Global Advisors — Boston
+**LinkedIn:** https://www.linkedin.com/in/matthew-maskell-62b4a25a
+**Connection:** Verify school on profile
+**⚠️ Senior contact (VP) — send LAST, use mentorship framing**
+
+**Subject:** SSGA Regional Consulting — Rising Junior Interested in the Client-Facing Track
+
+Hi Matthew,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in SSGA's regional consulting and distribution track — the client-facing side of institutional asset management is especially appealing given my interest in wealth management. I would greatly appreciate even 15 minutes to hear about your career path and any advice you might have for a student hoping to explore similar roles.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### S10. Casey McMahon
+**Title:** Portfolio Manager — State Street Investment Management
+**Firm:** State Street Investment Management — Boston
+**LinkedIn:** https://www.linkedin.com/in/casey-j-mcmahon
+**Connection:** Skidmore College — verify current role on profile
+**⚠️ Senior contact (Portfolio Manager) — send LAST, use mentorship framing**
+
+**Subject:** Portfolio Management at State Street — Rising Junior Seeking Career Advice
+
+Hi Casey,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in State Street's investment management platform and the portfolio management track. I would greatly appreciate even 15 minutes to hear about your experience and any advice you might have for a student hoping to break into investment and wealth management.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
 ## MFS INVESTMENT MANAGEMENT (3 contacts)
 *Confirmed: Financial Sales, Corporate Finance & Marketing Co-ops OPEN NOW — apply immediately*
 
