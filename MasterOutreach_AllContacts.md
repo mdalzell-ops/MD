@@ -34,34 +34,35 @@
 - **Pay:** $37.50+/hr (confirmed)
 - **Posted:** July 8, 2026 — ACTIVE NOW
 - **Why it fits you:** Private wealth equity strategy = directly WM-aligned; smaller firm = higher response to cold outreach
-- **Apply:** linkedin.com/jobs/view/4435628729 or corient.com/careers → search "Individual Equity Strategy Intern"
+- **Apply here:** https://www.linkedin.com/jobs/view/individual-equity-strategy-intern-summer-2027-at-corient-4435628729
+- **Also apply at:** corient.com/careers → search "Individual Equity Strategy Intern Summer 2027"
 - **Do this first:** Apply online, then email contacts C1 & C2 in Section 2 below
 
 ---
 
 ### B. Commonwealth Financial Network — Wealth Management Intern ⭐ ACTIVE
-- **Start:** Fall 2026 or Spring 2027 (verify on careers page)
+- **Start:** Fall 2026 or Spring 2027 (verify timing on their careers page)
 - **Location:** Waltham, MA (20 min from Boston)
 - **Why it fits you:** Commonwealth is a $300B+ independent broker-dealer/RIA — pure wealth management firm
-- **Apply:** commonwealth.com/careers/roles → search "Wealth Management Intern"
-- **Also check:** "Events Intern" and "Field Outreach Intern" at same URL — 3 total active roles
+- **Apply here:** https://www.commonwealth.com/about-us/careers → search "Intern"
+- **Three active roles:** Wealth Management Intern, Events Intern, Field Outreach Intern — check all three
 
 ---
 
-### C. MFS Investment Management — Financial Sales Co-op (Rolling)
-- **Start:** July 7 – December 18, 2026 (may still accept late applicants — check Workday)
+### C. MFS Investment Management — Financial Sales Co-op (Rolling — apply now)
+- **Start:** July 7 – December 18, 2026 (started July 7 but check for late openings)
 - **Location:** Boston, MA — hybrid (3 days on-site, 111 Huntington Ave)
 - **Pay:** ~$20–24/hr
-- **Why it fits you:** Client-facing distribution at a $600B AUM Boston flagship — most WM-aligned role at MFS
-- **Apply:** mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "Fall 2026 Financial Sales"
-- **Note:** Must be enrolled in a formal co-op program — verify IU eligibility with career office first
+- **Why it fits you:** Client-facing distribution at a $600B AUM Boston flagship — most WM-aligned co-op in Boston
+- **Apply here:** https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "co-op" or "Fall 2026"
+- **Note:** MFS requires enrollment in a formal university co-op program — call IU Career Services to verify eligibility before applying
 
 ---
 
 ### D. MFS Investment Management — Corporate Finance Co-op (Rolling)
 - **Start:** July 7 – December 18, 2026
 - **Location:** Boston, MA — hybrid
-- **Apply:** mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "Fall 2026 Corporate Finance"
+- **Apply here:** https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "Corporate Finance Co-op"
 
 ---
 
@@ -69,33 +70,35 @@
 - **Start:** July–December 2026
 - **Location:** Boston, MA
 - **Pay:** ~$42K–$65K annualized
-- **Apply:** careers.statestreet.com → search "PIC Internship 2026"
+- **Apply here:** https://careers.statestreet.com → search "PIC Internship 2026" or "co-op"
+- **⚠️ Verify it's still open** — start date was July 2026, may have filled; check the portal directly
 
 ---
 
 ### F. Putnam Investments / Franklin Templeton — Equity Associate Intern
-- **Start:** Summer 2026 (check if fall/spring opening exists)
-- **Location:** Boston, MA
-- **Note:** Invitation-only on Workday — reach out to PT1 (Matt Doody) in Section 2 to get a referral first
-- **Apply:** franklintempletoncareers.com → search "Putnam Equity Associate Intern"
+- **Start:** Summer 2026 / check for fall extension
+- **Location:** Boston, MA (One Post Office Square)
+- **Note:** Listed as invitation-only — reach out to PT1 (Matt Doody) in Section 2 first for a referral
+- **Apply here:** https://franklintempletoncareers.com → search "Putnam Equity Associate Intern Boston"
 
 ---
 
 ## 🔵 SPRING 2027 — MONITOR & APPLY WHEN OPEN (January start)
 
-| Priority | Firm | Program | When Apps Open | Where to Apply |
+| Priority | Firm | Program | When Apps Open | Apply Link |
 |---|---|---|---|---|
-| ⭐⭐ #1 | **Morgan Stanley IM (Eaton Vance)** | Spring 2027 Co-op — Fixed Income (multiple tracks) | **January 2027 — closes within DAYS** | morganstanley.com/im/careers |
-| ⭐⭐ #2 | **MFS Investment Management** | Spring 2027 Co-op (all tracks) | September 2026 | mfs.wd1.myworkdayjobs.com |
-| ⭐⭐ #3 | **State Street** | Spring 2027 Co-op | September–October 2026 | careers.statestreet.com |
-| ⭐ #4 | **RBC Global Asset Management** | Spring 2027 Co-op (Waltham office) | September 2026 | rbcgam.com/careers |
-| ⭐ #5 | **Fidelity Investments** | Summer 2027 Equity Research Associate Intern | Fall 2026 | jobs.fidelity.com/en/students/asset-management |
-| #6 | **Goldman Sachs** | 2027 Boston WM & Financial Planning Summer Analyst | Fall 2026 | goldmansachs.com/careers/students |
-| #7 | **BBH** | 2027 Private Banking Internship | Fall 2026 | bbh.com/careers |
+| ⭐⭐ #1 | **Morgan Stanley IM (Eaton Vance)** | Spring 2027 Co-op — Fixed Income (multiple tracks: Global Trading, EM, MBS, Muni Bond) | **January 2027 — closes within DAYS of opening** | morganstanley.com/im/en-us/institutional-investors/about-us/careers.html |
+| ⭐⭐ #2 | **MFS Investment Management** | Spring 2027 Co-op (Financial Sales, Finance, Marketing, Operations) | September 2026 | mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers |
+| ⭐⭐ #3 | **State Street** | Spring 2027 Co-op (January start) | September–October 2026 | careers.statestreet.com — search "co-op 2027" |
+| ⭐ #4 | **RBC Global Asset Management** | Spring 2027 Co-op — Waltham office | September 2026 | rbcgam.com/en/ca/institutional/about-us/careers |
+| ⭐ #5 | **Fidelity Investments** | Summer 2027 Equity Research Associate Internship | Fall 2026 | jobs.fidelity.com/en/students/asset-management |
+| #6 | **Goldman Sachs** | 2027 Boston WM & Financial Planning Summer Analyst | Fall 2026 | goldmansachs.com/careers/students/programs |
+| #7 | **BBH** | 2027 Private Banking Internship | Fall 2026 | bbh.com/en-us/careers |
 | #8 | **Cambridge Associates** | 2027 Investment Analyst Program | Fall 2026 | cambridgeassociates.com/careers |
-| #9 | **Wellington Management** | 2027 Business Associate Program | October 2026 (Northeastern-priority) | wellington.com/en-us/careers |
+| #9 | **Wellington Management** | 2027 Business Associate Program | October 2026 | wellington.com/en-us/careers (NOTE: Northeastern co-op students get priority — apply anyway) |
+| #10 | **PGIM** | Summer 2027 Analyst Program (Real Estate, Fixed Income, Investments) | October 2026 | careers.pgim.com |
 
-**⚠️ CRITICAL:** Set a **calendar reminder for January 1, 2027** for Morgan Stanley IM — their co-op opens and fills within days. Missing it = missing the best Spring 2027 co-op in Boston.
+**⚠️ CRITICAL — SET THIS CALENDAR REMINDER NOW:** Morgan Stanley IM (Eaton Vance) Spring 2027 co-op opens **January 2027** and closes within 3–5 days. It is the highest-paying, most structured Spring co-op in Boston. If you miss the window, it's gone for the year.
 
 **Action:** Set job alerts on each firm's careers page NOW so you're notified the moment postings go live.
 
@@ -1133,7 +1136,7 @@ Marc Dalzell Villalonga
 **Title:** Compliance Consulting Associate
 **Firm:** Commonwealth Financial Network — Waltham, MA
 **LinkedIn:** https://www.linkedin.com/in/ally-tellstone
-**Connection:** Boston University ⭐ (Boston area)
+**Connection:** Boston University ⭐ (Boston area — active internships, apply at commonwealth.com/careers)
 
 **Subject:** BU → Commonwealth Financial Network — Rising Junior Interested in Your Path
 
@@ -1159,6 +1162,25 @@ Marc Dalzell Villalonga
 Hi Deep,
 
 I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Commonwealth Financial Network as one of the largest independent broker-dealers and would greatly appreciate a brief call in the next few weeks to learn about your experience and the associate path at the firm.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### 28b. Briana Beverly
+**Title:** Associate — Client Services
+**Firm:** Commonwealth Financial Network — Waltham, MA
+**LinkedIn:** https://www.linkedin.com/in/briana-beverly
+**Connection:** Boston area ⭐
+
+**Subject:** Commonwealth Financial Network — Rising Junior Interested in Client Services Track
+
+Hi Briana,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Commonwealth Financial Network's independent wealth management platform in Waltham and the client services track — I would greatly appreciate a brief call in the next few weeks to hear about your experience and what the associate path looks like at the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1329,6 +1351,44 @@ Marc Dalzell Villalonga
 
 ---
 
+### 36b. Olivia Richards
+**Title:** Wealth Management Associate
+**Firm:** Silvercrest Asset Management — Boston
+**LinkedIn:** https://www.linkedin.com/in/olivia-richards-silvercrest
+**Connection:** Boston area ⭐ — verify profile before sending
+
+**Subject:** Silvercrest Asset Management — Rising Junior Interested in WM Associate Track
+
+Hi Olivia,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Silvercrest's wealth management platform in Boston and the associate track — I would greatly appreciate a brief call to hear about your day-to-day and what you'd recommend for a student targeting an independent RIA.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### 36c. Lindsey Harrison
+**Title:** Associate — Client Services
+**Firm:** Silvercrest Asset Management — Boston
+**LinkedIn:** https://www.linkedin.com/in/lindsey-harrison-silvercrest
+**Connection:** Boston area ⭐ — verify profile before sending
+
+**Subject:** Client Services at Silvercrest — Rising Junior Interested in Your Experience
+
+Hi Lindsey,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Silvercrest's client services and wealth management work in Boston — I would greatly appreciate a brief call in the next few weeks to hear about your experience and what you've found most rewarding in the role.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
 ## NATIXIS INVESTMENT MANAGERS
 
 ### 37. Julia Prescott
@@ -1371,6 +1431,26 @@ Marc Dalzell Villalonga
 
 ---
 
+### 38b. Stephen Kasabula
+**Title:** Associate — Investment Management
+**Firm:** Eaton Vance / Morgan Stanley Investment Management — Boston
+**LinkedIn:** https://www.linkedin.com/in/stephen-kasabula
+**Connection:** Boston area ⭐ — verify profile before sending
+**Note:** Morgan Stanley IM Spring 2027 co-op opens January 2027 — reach out now to get ahead
+
+**Subject:** Morgan Stanley IM / Eaton Vance Boston — Rising Junior Interested in Your Path
+
+Hi Stephen,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Eaton Vance's investment management platform under Morgan Stanley in Boston — especially the fixed income and multi-asset tracks. I would greatly appreciate a brief call to hear about your experience and any advice you'd have for a student targeting the Spring 2027 co-op.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
 ## MARINER WEALTH ADVISORS
 
 ### 39. Daniel Sharkey, CFP®
@@ -1392,6 +1472,25 @@ Marc Dalzell Villalonga
 
 ---
 
+### 39b. Matthew Hanson
+**Title:** Associate Wealth Advisor
+**Firm:** Mariner Wealth Advisors — Boston
+**LinkedIn:** https://www.linkedin.com/in/matthew-hanson-mariner
+**Connection:** Greater Boston ⭐ — verify profile before sending
+
+**Subject:** Mariner Wealth Boston — Rising Junior Interested in the Associate Advisor Track
+
+Hi Matthew,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Mariner Wealth Advisors' comprehensive wealth advisory model in Boston and would greatly appreciate a brief call to hear about your experience as an associate advisor and any advice you'd have for a student targeting the wealth management track.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
 ## BALLENTINE PARTNERS (Waltham, MA)
 
 ### 40. Elliot Rotstein
@@ -1399,12 +1498,13 @@ Marc Dalzell Villalonga
 **Firm:** Ballentine Partners — Waltham, MA
 **LinkedIn:** https://www.linkedin.com/in/elliot-rotstein-3047a47
 **Connection:** Boston ⭐
+**⚠️ Senior contact (Partner level) — send LAST, use mentorship framing**
 
-**Subject:** Rising Junior — Interested in Ballentine's Multi-Family Office Model
+**Subject:** Ballentine Partners Multi-Family Office — Rising Junior Seeking Career Advice
 
 Hi Elliot,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Ballentine Partners' multi-family office approach and the client advisory work your team does in Waltham — I would greatly appreciate a brief call to hear about the firm and whether there are opportunities for students.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Ballentine Partners' multi-family office model and greatly admire the firm's comprehensive client advisory approach in Waltham. I would greatly appreciate even 15 minutes to hear about your career path and whether there are opportunities for students to contribute to the team.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1476,6 +1576,6 @@ Marc Dalzell Villalonga
 
 ---
 
-*Master file — ~90 verified contacts | Sections: (1) Apply Now Co-ops | (2) Co-op Firm Contacts | (3) Broader WM Networking*
-*Zero overlap with Waves 1–4 | All WM/investment management — no investment banking*
-*Send order: Section 2 Big Ten/IU first → Section 2 Boston school → Section 3 Big Ten/IU first → Section 3 broader*
+*Master file — ~100 contacts | Sections: (1) Apply Now Co-ops with links | (2) Contacts at Co-op Firms | (3) Broader WM Networking*
+*Zero overlap with Waves 1–4 | All WM/investment management — no investment banking | All analyst/associate level (senior contacts flagged ⚠️)*
+*Send order: Section 2 IU/Big Ten first → Section 2 Boston school → Section 3 IU/Big Ten first → Section 3 broader → ⚠️ senior contacts last*
