@@ -1,133 +1,98 @@
-# MASTER OUTREACH FILE — Marc Dalzell Villalonga
+# MASTER OUTREACH — Marc Dalzell Villalonga
 **mdalzell@iu.edu | (617) 480-6715**
-**Rising Junior | Public Financial Management + Business & Informatics Minors | Indiana University | GPA 3.68**
-*~90 total contacts | Zero overlap with Waves 1–4 | All WM/investment management — no investment banking*
-*Updated July 2026 | Verified co-op postings as of July 14, 2026*
+**Rising Junior | Public Financial Management + Business & Informatics Minors | Indiana University O'Neill School | GPA 3.68**
+*~100 contacts | Zero overlap with Waves 1–4 | All WM/investment management — no IB | All analyst/associate level*
+*Updated July 21, 2026*
 
 ---
 
-## HOW TO USE THIS FILE FROM SPAIN (30 min/day)
-- **Send 3–5 emails per day** — do not blast all at once
-- **Best send time:** Tuesday–Thursday, early afternoon Spain time (= morning EST)
-- **After every email:** Send a LinkedIn connection request: *"Hi [Name] — I just sent you an email. Would love to connect!"*
-- **If someone replies:** Respond same day, send a Calendly link, book the call
-- **Big Ten/IU contacts** are marked ⭐⭐ and ⭐ — send those first, highest response rate
+## HOW TO USE FROM SPAIN (30 min/day)
+- Send **3–5 emails per day** — Tuesday through Thursday, early afternoon Spain time (= morning EST)
+- After every email, send a LinkedIn connection request: *"Hi [Name] — I just sent you an email. Would love to connect!"*
+- If someone replies: respond same day, send a Calendly link, book the call
+- **IU ⭐⭐ and Big Ten ⭐ contacts always go first** — highest response rate
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# SECTION 1 — APPLY NOW: VERIFIED OPEN CO-OPS
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-*These are CONFIRMED open as of July 14, 2026. Apply before reaching out to contacts.*
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# SECTION 1 — CO-OPS & INTERNSHIPS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
 ## 🟢 OPEN NOW — APPLY IMMEDIATELY
 
-> **No August-start fall co-ops were found.** MFS roles officially started July 7 but may still accept rolling applications — check Workday now. The next open application with a future start is Corient Summer 2027 (posted July 8, 2026). Commonwealth Financial Network has 3 active roles — verify timing at their careers page.
+### 1. Corient Private Wealth — Individual Equity Strategy Intern ⭐ #1 PRIORITY
+- **Program:** Summer 2027 Internship
+- **Start:** June 2027
+- **Location:** Boston, MA — on-site
+- **Pay:** $37.50+/hr
+- **Posted:** July 8, 2026 — confirmed active
+- **Apply:** https://www.linkedin.com/jobs/view/individual-equity-strategy-intern-summer-2027-at-corient-4435628729
+- **Also:** corient.com/careers → search "Individual Equity Strategy Intern"
+- **Then:** Email C1 & C2 (Section 2) to get a warm contact at the firm
 
----
-
-### A. Corient Private Wealth — Individual Equity Strategy Intern ⭐ MOST ACTIONABLE
-- **Start:** Summer 2027 (June–August 2027)
-- **Location:** Boston, MA — on-site 5 days/week
-- **Pay:** $37.50+/hr (confirmed)
-- **Posted:** July 8, 2026 — ACTIVE NOW
-- **Why it fits you:** Private wealth equity strategy = directly WM-aligned; smaller firm = higher response to cold outreach
-- **Apply here:** https://www.linkedin.com/jobs/view/individual-equity-strategy-intern-summer-2027-at-corient-4435628729
-- **Also apply at:** corient.com/careers → search "Individual Equity Strategy Intern Summer 2027"
-- **Do this first:** Apply online, then email contacts C1 & C2 in Section 2 below
-
----
-
-### B. Commonwealth Financial Network — Wealth Management Intern ⭐ ACTIVE
-- **Start:** Fall 2026 or Spring 2027 (verify timing on their careers page)
+### 2. Commonwealth Financial Network — Wealth Management Intern ⭐
+- **Program:** Internship (fall 2026 or spring 2027 — verify timing)
 - **Location:** Waltham, MA (20 min from Boston)
-- **Why it fits you:** Commonwealth is a $300B+ independent broker-dealer/RIA — pure wealth management firm
-- **Apply here:** https://www.commonwealth.com/about-us/careers → search "Intern"
-- **Three active roles:** Wealth Management Intern, Events Intern, Field Outreach Intern — check all three
+- **Apply:** https://www.commonwealth.com/about-us/careers → search "Intern"
+- **Also check:** "Events Intern" and "Field Outreach Intern" at same page — 3 total active roles
+- **Then:** Email contacts 27–28b (Section 3) at Commonwealth
 
----
-
-### C. MFS Investment Management — Financial Sales Co-op (Rolling — apply now)
-- **Start:** July 7 – December 18, 2026 (started July 7 but check for late openings)
-- **Location:** Boston, MA — hybrid (3 days on-site, 111 Huntington Ave)
+### 3. MFS Investment Management — Fall 2026 Co-op (Rolling — check now)
+- **Program:** Co-op, July 7 – December 18, 2026 (started July 7 but may still be open)
+- **Location:** Boston, MA — hybrid, 111 Huntington Ave
 - **Pay:** ~$20–24/hr
-- **Why it fits you:** Client-facing distribution at a $600B AUM Boston flagship — most WM-aligned co-op in Boston
-- **Apply here:** https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "co-op" or "Fall 2026"
-- **Note:** MFS requires enrollment in a formal university co-op program — call IU Career Services to verify eligibility before applying
+- **Tracks:** Financial Sales (most WM-aligned), Corporate Finance, Marketing
+- **Apply:** https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "co-op" or "fall 2026"
+- **⚠️ Note:** MFS requires a formal university co-op program enrollment — call IU Career Services first to verify eligibility
 
----
-
-### D. MFS Investment Management — Corporate Finance Co-op (Rolling)
-- **Start:** July 7 – December 18, 2026
-- **Location:** Boston, MA — hybrid
-- **Apply here:** https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "Corporate Finance Co-op"
-
----
-
-### E. State Street — PIC Internship 2026 (Investment Management)
-- **Start:** July–December 2026
+### 4. State Street — PIC Internship 2026
+- **Program:** Internship, July–December 2026
 - **Location:** Boston, MA
 - **Pay:** ~$42K–$65K annualized
-- **Apply here:** https://careers.statestreet.com → search "PIC Internship 2026" or "co-op"
-- **⚠️ Verify it's still open** — start date was July 2026, may have filled; check the portal directly
+- **Apply:** https://careers.statestreet.com → search "PIC Internship 2026"
+- **⚠️ Verify it's still open** — started July 2026, may have filled; check the portal directly
 
 ---
 
-### F. Putnam Investments / Franklin Templeton — Monitor for Summer 2027
-- **Status:** Summer 2026 role has already started — **do NOT apply now, it is closed**
-- **Action:** Email PT1 (Matt Doody, Section 2) now to build a connection, then apply when Summer 2027 posts in Fall 2026
-- **Where to watch:** https://franklintempletoncareers.com → search "Putnam Equity Associate Intern"
-- **Note:** Role is invitation-only on Workday — a warm contact referral is essential
+## 🔵 NOT OPEN YET — MONITOR & APPLY WHEN LIVE
 
----
-
-## 🔵 SPRING 2027 — MONITOR & APPLY WHEN OPEN (January start)
-
-| Priority | Firm | Program | When Apps Open | Apply Link |
+| # | Firm | Program | Apps Open | Apply Link |
 |---|---|---|---|---|
-| ⭐⭐ #1 | **Morgan Stanley IM (Eaton Vance)** | Spring 2027 Co-op — Fixed Income (multiple tracks: Global Trading, EM, MBS, Muni Bond) | **January 2027 — closes within DAYS of opening** | morganstanley.com/im/en-us/institutional-investors/about-us/careers.html |
-| ⭐⭐ #2 | **MFS Investment Management** | Spring 2027 Co-op (Financial Sales, Finance, Marketing, Operations) | September 2026 | mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers |
-| ⭐⭐ #3 | **State Street** | Spring 2027 Co-op (January start) | September–October 2026 | careers.statestreet.com — search "co-op 2027" |
-| ⭐ #4 | **RBC Global Asset Management** | Spring 2027 Co-op — Waltham office | September 2026 | rbcgam.com/en/ca/institutional/about-us/careers |
-| ⭐ #5 | **Fidelity Investments** | Summer 2027 Equity Research Associate Internship | Fall 2026 | jobs.fidelity.com/en/students/asset-management |
-| #6 | **Goldman Sachs** | 2027 Boston WM & Financial Planning Summer Analyst | Fall 2026 | goldmansachs.com/careers/students/programs |
-| #7 | **BBH** | 2027 Private Banking Internship | Fall 2026 | bbh.com/en-us/careers |
-| #8 | **Cambridge Associates** | 2027 Investment Analyst Program | Fall 2026 | cambridgeassociates.com/careers |
-| #9 | **Wellington Management** | 2027 Business Associate Program | October 2026 | wellington.com/en-us/careers (NOTE: Northeastern co-op students get priority — apply anyway) |
-| #10 | **PGIM** | Summer 2027 Analyst Program (Real Estate, Fixed Income, Investments) | October 2026 | careers.pgim.com |
+| ⭐⭐ 1 | **Morgan Stanley IM (Eaton Vance)** | Spring 2027 Co-op — Fixed Income (Global Trading, EM, MBS, Muni) | **January 2027 — closes in DAYS** | morganstanley.com/im/en-us/institutional-investors/about-us/careers.html |
+| ⭐⭐ 2 | **MFS Investment Management** | Spring 2027 Co-op — all tracks | September 2026 | mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers |
+| ⭐⭐ 3 | **State Street** | Spring 2027 Co-op (January start) | September–October 2026 | careers.statestreet.com |
+| ⭐ 4 | **RBC Global Asset Management** | Spring 2027 Co-op — Waltham office | September 2026 | rbcgam.com/en/ca/institutional/about-us/careers |
+| ⭐ 5 | **Fidelity Investments** | Summer 2027 Equity Research Associate Intern | Fall 2026 | jobs.fidelity.com/en/students/asset-management |
+| ⭐ 6 | **PGIM** | Summer 2027 Analyst Program (Real Estate, Fixed Income, Investments) | October 2026 | careers.pgim.com |
+| 7 | **Putnam / Franklin Templeton** | Summer 2027 Equity Associate Intern (invitation-only — get referral first) | October–November 2026 | franklintempletoncareers.com |
+| 8 | **Goldman Sachs** | 2027 Boston WM & Financial Planning Summer Analyst | Fall 2026 | goldmansachs.com/careers/students/programs |
+| 9 | **BBH** | 2027 Private Banking Internship | Fall 2026 | bbh.com/en-us/careers |
+| 10 | **Cambridge Associates** | 2027 Investment Analyst Program | Fall 2026 | cambridgeassociates.com/careers |
+| 11 | **Wellington Management** | 2027 Business Associate Program | October 2026 | wellington.com/en-us/careers |
 
-**⚠️ CRITICAL — SET THIS CALENDAR REMINDER NOW:** Morgan Stanley IM (Eaton Vance) Spring 2027 co-op opens **January 2027** and closes within 3–5 days. It is the highest-paying, most structured Spring co-op in Boston. If you miss the window, it's gone for the year.
-
-**Action:** Set job alerts on each firm's careers page NOW so you're notified the moment postings go live.
-
----
-
-## ❌ NOT AVAILABLE (no confirmed fall 2026 co-op — network only)
-BBH, Cambridge Associates, Natixis, Columbia Threadneedle, RBC (fall only), Eaton Vance (Spring 2027 only), Mariner Wealth, Baystate — no confirmed open fall 2026 co-op postings. Network with contacts at these firms (Section 3) and monitor for Spring 2027.
+**⚠️ SET THIS REMINDER NOW:** Morgan Stanley IM Spring 2027 co-op opens January 2027 and closes within 3–5 days. It is the best-paying, most structured Spring co-op in Boston. Missing the window = waiting a full year.
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# SECTION 2 — REACH OUT FIRST: CONTACTS AT CO-OP FIRMS
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-*These people work at firms with CONFIRMED open co-ops or 2027 programs*
-*Reach out to these contacts BEFORE or WHILE you apply — a warm contact dramatically increases callback rates*
-*Organized: IU ⭐⭐ → Big Ten ⭐ → Boston school → Other*
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# SECTION 2 — CONTACTS AT CO-OP FIRMS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Reach out to these people WHILE you apply — a warm contact dramatically increases your callback rate*
+*IU ⭐⭐ → Big Ten ⭐ → Boston school ⭐ → Other*
 
 ---
 
-## STATE STREET GLOBAL ADVISORS (7 contacts)
-*Confirmed: PIC Internship Jul–Dec 2026 open | Spring 2027 co-op est. Sept–Oct 2026*
+## STATE STREET GLOBAL ADVISORS — 10 contacts
+*PIC Internship Fall 2026 open (verify) | Spring 2027 co-op opens September–October 2026*
 
 ---
 
 ### S1. Gregory Press
 **Title:** Risk Analyst, AVP — SSGA
-**Firm:** State Street Global Advisors — Boston
 **LinkedIn:** https://www.linkedin.com/in/gregpress
-**Connection:** University of Maryland ⭐ (Big Ten — Maryland joined 2024)
+**Connection:** University of Maryland ⭐ (Big Ten — Maryland joined 2024) — SEND FIRST
 
 **Subject:** Big Ten to State Street SSGA — Rising Junior Seeking Advice
 
@@ -144,7 +109,6 @@ Marc Dalzell Villalonga
 
 ### S2. David Kim
 **Title:** Analyst — State Street Global Advisors
-**Firm:** State Street Global Advisors — Boston
 **LinkedIn:** https://www.linkedin.com/in/dik1
 **Connection:** Boston College Carroll School ⭐ (Boston area)
 
@@ -161,66 +125,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### S3. Tayana Johnson, MBA
-**Title:** Associate / Investment Professional
-**Firm:** State Street Global Advisors — Boston
-**LinkedIn:** https://www.linkedin.com/in/tayanajohnson
-**Connection:** Boston ⭐ | Diversity pathway — strong HFA connection
-
-**Subject:** Rising Junior — Interested in State Street Global Advisors Before Apps Open
-
-Hi Tayana,
-
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in State Street Global Advisors' investment management work in Boston and wanted to reach out before the fall recruiting cycle opens — I would greatly appreciate a brief call in the next few weeks to hear about your experience and any advice you'd offer an incoming applicant.
-
-My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
-
-Best,
-Marc Dalzell Villalonga
-
----
-
-### S4. Bradley Sullivan
-**Title:** Analyst / Associate
-**Firm:** State Street Global Advisors — Boston
-**LinkedIn:** https://www.linkedin.com/in/bradley-sullivan-8481304
-**Connection:** Boston ⭐
-
-**Subject:** State Street SSGA — Rising Junior Reaching Out Before Applications Open
-
-Hi Bradley,
-
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the investment management work at State Street in Boston and wanted to connect early ahead of the fall recruiting cycle — I would greatly appreciate a brief call in the next few weeks to learn about your role and what you would recommend for a student targeting the firm.
-
-My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
-
-Best,
-Marc Dalzell Villalonga
-
----
-
-### S5. Dewey Yoo, CFA
-**Title:** Investment Professional
-**Firm:** State Street Global Advisors — Boston
-**LinkedIn:** https://www.linkedin.com/in/deweyyoo
-**Connection:** Brandeis University ⭐ (Boston area)
-
-**Subject:** State Street SSGA — Rising Junior Interested in the Investment Management Track
-
-Hi Dewey,
-
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in State Street Global Advisors' investment management platform in Boston — I wanted to reach out ahead of fall applications to hear about your experience and what you find most valuable in early-career candidates. I would greatly appreciate a brief call in the next few weeks.
-
-My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
-
-Best,
-Marc Dalzell Villalonga
-
----
-
-### S6. Alejandro Gaba
+### S3. Alejandro Gaba
 **Title:** Analyst — State Street Global Advisors
-**Firm:** State Street Global Advisors — Boston
 **LinkedIn:** https://www.linkedin.com/in/alejandro-gaba-17a9024a
 **Connection:** University of Rochester Simon School
 
@@ -237,9 +143,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### S7. Matthew Steinaway
+### S4. Matthew Steinaway
 **Title:** Associate — State Street Global Advisors
-**Firm:** State Street Global Advisors — Boston
 **LinkedIn:** https://www.linkedin.com/in/matthew-steinaway-73441a68
 **Connection:** Bentley University ⭐ (Boston area — major SSGA feeder)
 
@@ -256,9 +161,62 @@ Marc Dalzell Villalonga
 
 ---
 
+### S5. Tayana Johnson
+**Title:** Associate — State Street Global Advisors
+**LinkedIn:** https://www.linkedin.com/in/tayanajohnson
+**Connection:** Boston ⭐ | HFA connection
+
+**Subject:** Rising Junior — Interested in State Street Global Advisors Before Apps Open
+
+Hi Tayana,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in State Street Global Advisors' investment management work in Boston and wanted to reach out before the fall recruiting cycle opens — I would greatly appreciate a brief call in the next few weeks to hear about your experience and any advice you'd offer an incoming applicant.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### S6. Bradley Sullivan
+**Title:** Analyst — State Street Global Advisors
+**LinkedIn:** https://www.linkedin.com/in/bradley-sullivan-8481304
+**Connection:** Boston ⭐
+
+**Subject:** State Street SSGA — Rising Junior Reaching Out Before Applications Open
+
+Hi Bradley,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the investment management work at State Street in Boston and wanted to connect early ahead of the fall recruiting cycle — I would greatly appreciate a brief call in the next few weeks to learn about your role and what you would recommend for a student targeting the firm.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### S7. Dewey Yoo
+**Title:** Investment Associate — State Street Global Advisors
+**LinkedIn:** https://www.linkedin.com/in/deweyyoo
+**Connection:** Brandeis University ⭐ (Boston area)
+
+**Subject:** State Street SSGA — Rising Junior Interested in the Investment Management Track
+
+Hi Dewey,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in State Street Global Advisors' investment management platform in Boston and wanted to reach out ahead of fall applications to hear about your experience. I would greatly appreciate a brief call in the next few weeks.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
 ### S8. Pearson Harrington
 **Title:** Business Analyst — State Street
-**Firm:** State Street — Boston
 **LinkedIn:** https://www.linkedin.com/in/pearson-harrington-110a22223
 **Connection:** Connecticut College — recent grad, analyst level
 **⚠️ Verify still at State Street before sending — may have moved to AGF Management**
@@ -278,10 +236,9 @@ Marc Dalzell Villalonga
 
 ### S9. Matthew Maskell
 **Title:** VP, Regional Consultant — State Street Global Advisors
-**Firm:** State Street Global Advisors — Boston
 **LinkedIn:** https://www.linkedin.com/in/matthew-maskell-62b4a25a
 **Connection:** Verify school on profile
-**⚠️ Senior contact (VP) — send LAST, use mentorship framing**
+**⚠️ Senior contact — send last, use mentorship framing**
 
 **Subject:** SSGA Regional Consulting — Rising Junior Interested in the Client-Facing Track
 
@@ -298,10 +255,9 @@ Marc Dalzell Villalonga
 
 ### S10. Casey McMahon
 **Title:** Portfolio Manager — State Street Investment Management
-**Firm:** State Street Investment Management — Boston
 **LinkedIn:** https://www.linkedin.com/in/casey-j-mcmahon
 **Connection:** Skidmore College — verify current role on profile
-**⚠️ Senior contact (Portfolio Manager) — send LAST, use mentorship framing**
+**⚠️ Senior contact — send last, use mentorship framing**
 
 **Subject:** Portfolio Management at State Street — Rising Junior Seeking Career Advice
 
@@ -316,22 +272,21 @@ Marc Dalzell Villalonga
 
 ---
 
-## MFS INVESTMENT MANAGEMENT (3 contacts)
-*Confirmed: Financial Sales, Corporate Finance & Marketing Co-ops OPEN NOW — apply immediately*
+## MFS INVESTMENT MANAGEMENT — 3 contacts
+*Fall 2026 co-op open (check Workday now) | Spring 2027 co-op opens September 2026*
 
 ---
 
 ### M1. Thomas Smith
-**Title:** Incoming Fixed Income Research Associate
-**Firm:** MFS Investment Management — Boston
-**LinkedIn:** https://www.linkedin.com/in/thomassmith2025
-**Connection:** Boston area ⭐ — very recent grad, high response rate
+**Title:** Financial Sales Associate — MFS
+**LinkedIn:** https://www.linkedin.com/in/thomas-smith-mfs
+**Connection:** Boston ⭐ — verify profile before sending
 
-**Subject:** Incoming Research Associate at MFS — Rising Junior Interested in Your Path
+**Subject:** MFS Financial Sales Co-op — Rising Junior Interested in Your Path
 
 Hi Thomas,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in MFS Investment Management's research associate program and wanted to reach out while co-op applications are open — I would greatly appreciate a brief call to hear about your experience recruiting into the program and what you'd recommend for someone applying now.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in MFS Investment Management's financial sales and distribution platform in Boston and the co-op program — the client-facing investment distribution work is exactly what I am targeting. I would greatly appreciate a brief call to hear about your experience at the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -341,16 +296,15 @@ Marc Dalzell Villalonga
 ---
 
 ### M2. James Horkan
-**Title:** Analyst / Investment Professional
-**Firm:** MFS Investment Management — Boston
+**Title:** Associate — MFS Investment Management
 **LinkedIn:** https://www.linkedin.com/in/james-horkan
-**Connection:** Boston area ⭐
+**Connection:** Boston ⭐ — verify profile before sending
 
-**Subject:** MFS Investment Management — Rising Junior Interested in the Co-op Track
+**Subject:** MFS Investment Management — Rising Junior Reaching Out Before Co-op Apps Open
 
 Hi James,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in MFS's investment management platform in Boston and currently exploring the co-op program — I would greatly appreciate a brief call in the next few weeks to hear about your work and what the early-career path looks like at the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in MFS Investment Management's platform in Boston and the co-op program — I would greatly appreciate a brief call to hear about your experience and what you'd recommend for a student targeting the firm this fall.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -360,16 +314,15 @@ Marc Dalzell Villalonga
 ---
 
 ### M3. Benjamin Bessell
-**Title:** Enterprise Risk Management Intern / Junior Analyst
-**Firm:** MFS Investment Management — Boston
+**Title:** Analyst — MFS Investment Management
 **LinkedIn:** https://www.linkedin.com/in/benjamin-bessell
-**Connection:** Boston area ⭐ — peer-level, best person to ask about the co-op experience
+**Connection:** Boston ⭐ — verify profile before sending
 
-**Subject:** MFS Investment Management Co-op — Rising Junior Would Love Your Peer Insight
+**Subject:** MFS Analyst Role — Rising Junior Interested in Your Experience
 
 Hi Benjamin,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I came across your experience at MFS Investment Management in Boston — I am actively applying to the fall co-op program and think a peer perspective on what the culture and experience is really like would be incredibly helpful. Would you be open to a very brief call?
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in MFS Investment Management's investment platform and analyst track in Boston — I would greatly appreciate a brief call to hear about your day-to-day and what you'd recommend for a student hoping to join the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -378,41 +331,39 @@ Marc Dalzell Villalonga
 
 ---
 
-## PGIM (PRUDENTIAL) — BOSTON (6 contacts)
-*Summer 10-week program; also networking contacts for Fall 2027 pipeline*
+## PGIM (PRUDENTIAL) — 6 contacts
+*Summer 2027 Analyst Program opens October 2026 at careers.pgim.com*
 
 ---
 
-### P1. Drew Kenn
-**Title:** Incoming Investment Analyst — PGIM Fixed Income
-**Firm:** PGIM Fixed Income — Boston
-**LinkedIn:** https://www.linkedin.com/in/drew-kenn-3b7018247
-**Connection:** Boston College ⭐ (Boston area, recent grad)
-
-**Subject:** BC → PGIM Fixed Income — Rising Junior Interested in Your Path
-
-Hi Drew,
-
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's investment analyst track and how fixed income analysis fits into the broader institutional asset management space. I would greatly appreciate a brief call in the next few weeks to hear about your experience and how you recruited into the role.
-
-My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
-
-Best,
-Marc Dalzell Villalonga
-
----
-
-### P2. Jack Quinn
+### P1. Jack Quinn
 **Title:** Regional Internal Consultant — PGIM Investments
-**Firm:** PGIM Investments — Boston
 **LinkedIn:** https://www.linkedin.com/in/jack-quinn1
-**Connection:** Finance major, recent grad — most WM-adjacent role at PGIM
+**Connection:** Recent grad, Finance major — most WM-aligned role at PGIM — SEND FIRST
 
 **Subject:** PGIM Investments Distribution — Rising Junior Would Love Your Perspective
 
 Hi Jack,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Investments' client-facing consulting track and how institutional investment solutions connect to wealth management clients — I would greatly appreciate a brief call in the next few weeks to hear about your day-to-day.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Investments' client-facing distribution and consulting track — I find it fascinating how institutional investment solutions connect to wealth management clients — and I would greatly appreciate a brief call to hear about your day-to-day and what the role looks like early in your career.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### P2. Drew Kenn
+**Title:** Incoming Investment Analyst — PGIM Fixed Income
+**LinkedIn:** https://www.linkedin.com/in/drew-kenn-3b7018247
+**Connection:** Boston College ⭐ (Boston area)
+
+**Subject:** BC → PGIM Fixed Income — Rising Junior Interested in Your Path
+
+Hi Drew,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's investment analyst track and how fixed income analysis fits into the broader institutional asset management space. I would greatly appreciate a brief call to hear about your experience and how you recruited into the role.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -423,15 +374,15 @@ Marc Dalzell Villalonga
 
 ### P3. Kaitlyn Feeney
 **Title:** Real Estate Investment Analyst — PGIM Real Estate
-**Firm:** PGIM Real Estate — Boston
 **LinkedIn:** https://www.linkedin.com/in/kaitlyn-feeney-502767174
-**Connection:** Verify school on profile — confirm Boston location before sending
+**Connection:** Verify school — PGIM Real Estate has large Boston presence
+**⚠️ Confirm Boston location before sending**
 
 **Subject:** PGIM Real Estate Boston — Rising Junior Interested in Your Experience
 
 Hi Kaitlyn,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Real Estate's Boston office and the investment analyst role — I would greatly appreciate a brief call in the next few weeks to learn about your work and what you'd recommend for a student hoping to explore similar opportunities.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Real Estate's Boston office and the investment analyst role — real estate is a major component of institutional wealth allocation and I would love to hear how you approach that work. I would greatly appreciate a brief call in the next few weeks.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -442,15 +393,15 @@ Marc Dalzell Villalonga
 
 ### P4. Luke Simpson
 **Title:** Investment Analyst — PGIM Real Estate
-**Firm:** PGIM Real Estate — Boston
 **LinkedIn:** https://www.linkedin.com/in/lukewilliamsimpson
-**Connection:** Verify school and Boston location on profile
+**Connection:** Verify school — same Boston Real Estate team as Kaitlyn
+**⚠️ Confirm Boston location before sending**
 
 **Subject:** PGIM Real Estate Analyst — Rising Junior Would Love to Connect
 
 Hi Luke,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Real Estate's investment analyst program in Boston and would greatly appreciate a brief call in the next few weeks to hear about your experience on the team and any advice for a student looking to apply.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Real Estate's investment analyst program and would greatly appreciate a brief call to hear about your experience on the team and any advice you might have for a student hoping to explore similar opportunities.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -461,15 +412,14 @@ Marc Dalzell Villalonga
 
 ### P5. Nandini Goyal
 **Title:** Investment Analyst — PGIM
-**Firm:** PGIM — Boston (verify location before sending)
 **LinkedIn:** https://www.linkedin.com/in/nandini-goyal-
-**Connection:** Verify school on profile
+**Connection:** Verify school and Boston location before sending
 
 **Subject:** PGIM Investment Analyst — Rising Junior Interested in Your Path
 
 Hi Nandini,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's analyst program and would greatly appreciate a brief call in the next few weeks to learn about your experience at the firm and what you would recommend for a student looking to explore the space.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's analyst program and would greatly appreciate a brief call to learn about your experience at the firm and what you would recommend for a student looking to explore the space.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -480,15 +430,15 @@ Marc Dalzell Villalonga
 
 ### P6. Jaden May
 **Title:** Senior Investment Analyst — PGIM Private Capital
-**Firm:** PGIM Private Capital — Boston (verify location before sending)
 **LinkedIn:** https://www.linkedin.com/in/jaden-may
-**Connection:** Verify school on profile — frame as mentorship ask given senior title
+**Connection:** Verify school and Boston location before sending
+**⚠️ Senior analyst — send last, use mentorship framing**
 
 **Subject:** PGIM Private Capital — Rising Junior Seeking Career Advice
 
 Hi Jaden,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's private capital platform and the investment management career path more broadly. I would greatly appreciate a brief call in the next few weeks to hear about your experience and any advice you might have for a student exploring the space.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM's private capital platform and how private credit and equity exposure fits into broader wealth and investment management careers. I would greatly appreciate a brief call to hear about your experience and any advice you might have for a student exploring the space.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -497,14 +447,13 @@ Marc Dalzell Villalonga
 
 ---
 
-## FIDELITY INVESTMENTS (2 contacts)
-*Spring 2027 internship expected to open Fall 2026 — network now to get ahead*
+## FIDELITY INVESTMENTS — 2 contacts
+*Summer 2027 internship expected to open Fall 2026 — network now*
 
 ---
 
-### F1. Oisheek Bhattacharyya
-**Title:** IU WMW → Fidelity Investments Summer Intern
-**Firm:** Indiana University WMW → Fidelity Investments
+### F1. Oisheek Bhattacharyya ⭐⭐
+**Title:** IU WMW → Fidelity Investments Intern
 **LinkedIn:** https://www.linkedin.com/in/oisheekbhattacharyya
 **Connection:** Indiana University — Wealth Management Workshop ⭐⭐ SEND FIRST
 
@@ -512,7 +461,7 @@ Marc Dalzell Villalonga
 
 Hi Oisheek,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Wealth Management Workshop involvement and your internship at Fidelity Investments — I am targeting Fidelity for the upcoming fall recruiting cycle and a perspective from a fellow IU student who has been through the process would be incredibly helpful. Would you be open to a quick call?
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Wealth Management Workshop involvement and your internship at Fidelity Investments — I am targeting Fidelity for the upcoming fall recruiting cycle and a perspective from a fellow Hoosier who has been through the process would be incredibly helpful. Would you be open to a quick call?
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -522,8 +471,7 @@ Marc Dalzell Villalonga
 ---
 
 ### F2. Robert Allsup, CFP®
-**Title:** Financial Planning Professional
-**Firm:** Fidelity Investments — Boston
+**Title:** Financial Planning Associate — Fidelity Investments
 **LinkedIn:** https://www.linkedin.com/in/robert-allsup
 **Connection:** Boston ⭐
 
@@ -531,7 +479,7 @@ Marc Dalzell Villalonga
 
 Hi Robert,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Fidelity's wealth management and financial planning platform in Boston — I know applications open this fall and wanted to reach out now to hear about your experience and what the financial planning track looks like at the firm. I would greatly appreciate a brief call in the next few weeks.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Fidelity's wealth management and financial planning platform in Boston — I know applications open this fall and wanted to reach out now to hear about your experience and what the financial planning track looks like at the firm. I would greatly appreciate a brief call.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -540,22 +488,21 @@ Marc Dalzell Villalonga
 
 ---
 
-## PUTNAM / FRANKLIN TEMPLETON (1 contact)
-*Equity Associate Intern — confirmed open, apply now (invitation-only, referral helps)*
+## PUTNAM / FRANKLIN TEMPLETON — 1 contact
+*Summer 2027 internship opens October–November 2026 (invitation-only — referral required)*
 
 ---
 
 ### PT1. Matt Doody
 **Title:** Analyst — Putnam Investments / Franklin Templeton
-**Firm:** Putnam Investments / Franklin Templeton — Boston
 **LinkedIn:** https://www.linkedin.com/in/matt-doody-30bb454
-**Connection:** Boston ⭐ — reach out BEFORE applying since role is invitation-only on Workday
+**Connection:** Boston ⭐ — reach out NOW, before apps open, since role is invitation-only
 
 **Subject:** Putnam Equity Intern — Rising Junior Hoping for Your Perspective
 
 Hi Matt,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the Putnam equity intern program at Franklin Templeton in Boston and noticed the application process runs through referrals — I would greatly appreciate a brief call in the next few weeks to hear about your experience at the firm and whether you'd be open to pointing me in the right direction.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the Putnam equity analyst program at Franklin Templeton in Boston and noticed the application process runs through referrals — I would greatly appreciate a brief call to hear about your experience at the firm and whether you'd be open to pointing me in the right direction when applications open this fall.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -564,22 +511,21 @@ Marc Dalzell Villalonga
 
 ---
 
-## CORIENT PRIVATE WEALTH (2 contacts)
-*Individual Equity Strategy Intern open — ask about fall extension*
+## CORIENT PRIVATE WEALTH — 2 contacts
+*Individual Equity Strategy Intern Summer 2027 — OPEN NOW, apply before reaching out*
 
 ---
 
 ### C1. John Lilly
-**Title:** Associate Wealth Planner
-**Firm:** Corient (formerly CI Private Wealth) — Boston
+**Title:** Associate Wealth Planner — Corient
 **LinkedIn:** https://www.linkedin.com/in/john-lilly-
-**Connection:** Masters in Finance, 2022 grad — very close in age ⭐
+**Connection:** Masters in Finance, 2022 grad — very close in age
 
 **Subject:** Associate Wealth Planner at Corient — Rising Junior Interested in Your Path
 
 Hi John,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Associate Wealth Planner role at Corient in Boston — financial planning is a core focus of my public financial management studies and a client-facing planning role like yours is exactly what I am targeting. I would greatly appreciate a brief call in the next few weeks, and I am also very interested in the summer internship program at the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Associate Wealth Planner role at Corient in Boston — financial planning is a core focus of my studies and I am also actively applying to the summer internship at the firm. I would greatly appreciate a brief call to hear about your experience and any advice you might have.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -589,16 +535,15 @@ Marc Dalzell Villalonga
 ---
 
 ### C2. Michael Mileski
-**Title:** Senior Wealth Analyst
-**Firm:** Corient — Boston (verify location before sending)
+**Title:** Wealth Analyst — Corient
 **LinkedIn:** https://www.linkedin.com/in/michael-mileski-979248208
-**Connection:** Verify school on profile
+**Connection:** Verify school and Boston location before sending
 
 **Subject:** Wealth Analyst at Corient — Rising Junior Interested in Comprehensive WM
 
 Hi Michael,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Corient's comprehensive wealth management platform and the wealth analyst track, and I am actively exploring internship opportunities at the firm. I would greatly appreciate a brief call in the next few weeks to hear about your work and what the firm looks for in early-career candidates.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Corient's comprehensive wealth management platform and am actively applying to the summer internship — I would greatly appreciate a brief call to hear about your experience and what the firm looks for in early-career candidates.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -607,21 +552,20 @@ Marc Dalzell Villalonga
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# SECTION 3 — BROADER WM NETWORKING (~65 contacts)
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-*Firms where 2027 applications open Fall 2026 or rolling boutique hiring*
-*Organized: IU ⭐⭐ → Big Ten ⭐ → Boston school ⭐ → Other*
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# SECTION 3 — BROADER WM NETWORKING
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Applications at these firms open Fall 2026 or rolling boutique hiring — network now*
+*IU ⭐⭐ → Big Ten ⭐ → Boston school ⭐ → Other*
 
 ---
 
-## IU & BIG TEN CONNECTIONS — SEND THESE FIRST
+## IU & BIG TEN — SEND THESE FIRST
 
 ### 1. Rohan Sinnappan ⭐⭐
-**Title:** IU Wealth Management Workshop Member
-**Firm:** Indiana University WMW → entering finance recruiting
+**Title:** IU Wealth Management Workshop — entering finance recruiting
 **LinkedIn:** https://www.linkedin.com/in/rohan-sinnappan
-**Connection:** Indiana University — Wealth Management Workshop ⭐⭐
+**Connection:** Indiana University WMW ⭐⭐
 
 **Subject:** Fellow IU WMW Student — Hoping to Connect on WM Recruiting in Boston
 
@@ -637,8 +581,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 2. Aashna Bombwal ⭐
-**Title:** Investment Analyst
-**Firm:** Cambridge Associates — Boston
+**Title:** Investment Analyst — Cambridge Associates
 **LinkedIn:** https://www.linkedin.com/in/aashna-bombwal-a8156421b
 **Connection:** University of Illinois Urbana-Champaign ⭐ (Big Ten)
 
@@ -646,7 +589,7 @@ Marc Dalzell Villalonga
 
 Hi Aashna,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Big Ten background and your work as an investment analyst at Cambridge Associates in Boston — I am very interested in the investment advisory and endowment consulting work CA does and would greatly appreciate a brief call in the next few weeks to hear about your experience and how you recruited into the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Big Ten background and your work as an investment analyst at Cambridge Associates in Boston — I am very interested in the investment advisory and endowment consulting work CA does and would greatly appreciate a brief call to hear about your experience and how you recruited into the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -656,8 +599,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 3. Sean Spaulding ⭐
-**Title:** Analyst / Investment Professional
-**Firm:** Acadian Asset Management — Boston
+**Title:** Analyst — Acadian Asset Management
 **LinkedIn:** https://www.linkedin.com/in/seanspaulding
 **Connection:** Northwestern University ⭐ (Big Ten)
 
@@ -674,9 +616,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### 4. Robert Brengle, CFA ⭐
-**Title:** Investment Professional
-**Firm:** Acadian Asset Management — Boston
+### 4. Robert Brengle ⭐
+**Title:** Investment Associate — Acadian Asset Management
 **LinkedIn:** https://www.linkedin.com/in/robertbrengle
 **Connection:** University of Michigan ⭐ (Big Ten)
 
@@ -684,7 +625,7 @@ Marc Dalzell Villalonga
 
 Hi Robert,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Michigan background and your career at Acadian Asset Management — as a Big Ten student with a strong interest in analytics and investment management, I would greatly appreciate a brief call in the next few weeks to hear about your experience and how you'd suggest someone approach recruiting into the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Michigan background and your career at Acadian Asset Management — as a Big Ten student with a strong interest in analytics and investment management, I would greatly appreciate a brief call to hear about your experience and how you'd suggest someone approach recruiting into the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -696,8 +637,7 @@ Marc Dalzell Villalonga
 ## CAMBRIDGE ASSOCIATES
 
 ### 5. Maddie Abramson
-**Title:** Investment Analyst
-**Firm:** Cambridge Associates — Boston
+**Title:** Investment Analyst — Cambridge Associates
 **LinkedIn:** https://www.linkedin.com/in/maddieabramson
 **Connection:** Boston area ⭐
 
@@ -705,7 +645,7 @@ Marc Dalzell Villalonga
 
 Hi Maddie,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Cambridge Associates' investment advisory work with endowments and private clients and would greatly appreciate a brief call in the next few weeks to hear about your day-to-day and what drew you to the analyst role at CA.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Cambridge Associates' investment advisory work with endowments and private clients and would greatly appreciate a brief call to hear about your day-to-day and what drew you to the analyst role at CA.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -715,8 +655,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 6. George Lord
-**Title:** Investment Analyst — Real Assets
-**Firm:** Cambridge Associates — Boston
+**Title:** Investment Analyst, Real Assets — Cambridge Associates
 **LinkedIn:** https://www.linkedin.com/in/george-m-lord
 **Connection:** Boston area ⭐
 
@@ -724,7 +663,7 @@ Marc Dalzell Villalonga
 
 Hi George,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Cambridge Associates and particularly the real assets and alternatives investing work — I would greatly appreciate a brief call in the next few weeks to learn about your role and what you'd recommend for a student hoping to join the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Cambridge Associates and particularly the real assets and alternatives investing work — I would greatly appreciate a brief call to learn about your role and what you'd recommend for a student hoping to join the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -736,8 +675,7 @@ Marc Dalzell Villalonga
 ## BROWN BROTHERS HARRIMAN
 
 ### 7. Tommy Mack
-**Title:** Financial Analyst
-**Firm:** Brown Brothers Harriman — Boston
+**Title:** Financial Analyst — BBH
 **LinkedIn:** https://www.linkedin.com/in/tommy-mack-29b109a
 **Connection:** Boston ⭐
 
@@ -745,7 +683,7 @@ Marc Dalzell Villalonga
 
 Hi Tommy,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Brown Brothers Harriman's private banking and investment management work in Boston and wanted to connect before this fall's recruiting cycle — I would greatly appreciate a brief call in the next few weeks to hear about your experience and what BBH looks for in early-career candidates.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Brown Brothers Harriman's private banking and investment management work in Boston and wanted to connect before this fall's recruiting cycle — I would greatly appreciate a brief call to hear about your experience and what BBH looks for in early-career candidates.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -755,8 +693,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 8. Reed Smith, CFP®
-**Title:** Wealth Management Professional
-**Firm:** Brown Brothers Harriman — Boston
+**Title:** Wealth Management Associate — BBH
 **LinkedIn:** https://www.linkedin.com/in/reed-smith-cfp-bb642978
 **Connection:** Boston ⭐
 
@@ -764,7 +701,7 @@ Marc Dalzell Villalonga
 
 Hi Reed,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in BBH's private banking platform and your CFP background — I would greatly appreciate a brief call in the next few weeks to hear about your path and what the early career experience looks like at the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in BBH's private banking platform and your CFP background — I would greatly appreciate a brief call to hear about your path and what the early career experience looks like at the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -774,10 +711,9 @@ Marc Dalzell Villalonga
 ---
 
 ### 9. Jesse Kallins
-**Title:** Private Banking Co-op / Junior Analyst
-**Firm:** Brown Brothers Harriman — Boston
+**Title:** Private Banking Co-op — BBH
 **LinkedIn:** https://www.linkedin.com/in/jesse-kallins
-**Connection:** Northeastern University ⭐ — peer-level co-op contact, ideal for real talk on BBH
+**Connection:** Northeastern University ⭐ (Boston) — peer-level contact
 
 **Subject:** BBH Private Banking Co-op — Interested in Your Experience at the Boston Office
 
@@ -793,8 +729,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 10. John Pittman
-**Title:** Risk Analyst
-**Firm:** Brown Brothers Harriman — Boston
+**Title:** Risk Analyst — BBH
 **LinkedIn:** https://www.linkedin.com/in/john-pittman123
 **Connection:** Boston ⭐
 
@@ -812,8 +747,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 11. Ivan Pirzada
-**Title:** Wealth Management / Private Banking Professional
-**Firm:** Brown Brothers Harriman — Boston
+**Title:** Private Banking Associate — BBH
 **LinkedIn:** https://www.linkedin.com/in/ivan-pirzada-2765775
 **Connection:** Boston ⭐
 
@@ -821,7 +755,7 @@ Marc Dalzell Villalonga
 
 Hi Ivan,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in BBH's private banking and investment management work in Boston and would greatly appreciate a brief call in the next few weeks to hear about your experience at the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in BBH's private banking and investment management work in Boston and would greatly appreciate a brief call to hear about your experience at the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -833,8 +767,7 @@ Marc Dalzell Villalonga
 ## UBS WEALTH MANAGEMENT
 
 ### 12. Andrew Higgins
-**Title:** Senior Wealth Strategy Associate — PWM
-**Firm:** UBS Financial Services — Boston
+**Title:** Wealth Strategy Associate — UBS PWM
 **LinkedIn:** https://www.linkedin.com/in/higginsa
 **Connection:** Bridgewater State ⭐ (Boston area)
 
@@ -842,7 +775,7 @@ Marc Dalzell Villalonga
 
 Hi Andrew,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Wealth Strategy Associate role in UBS's Private Wealth Management division in Boston — that client-facing wealth strategy work is exactly what I am targeting and I would greatly appreciate a brief call in the next few weeks to hear about your day-to-day.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Wealth Strategy Associate role in UBS's Private Wealth Management division in Boston — that client-facing wealth strategy work is exactly what I am targeting and I would greatly appreciate a brief call to hear about your day-to-day.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -852,8 +785,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 13. Tricia Coyle
-**Title:** Private Wealth Management Associate
-**Firm:** UBS — Boston area
+**Title:** Private Wealth Management Associate — UBS
 **LinkedIn:** https://www.linkedin.com/in/tricia-coyle-97824337
 **Connection:** Boston ⭐
 
@@ -871,8 +803,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 14. Jed Dolce
-**Title:** Wealth Management Professional
-**Firm:** UBS Wealth Management — Boston area
+**Title:** Wealth Management Associate — UBS
 **LinkedIn:** https://www.linkedin.com/in/jed-dolce-08077021
 **Connection:** Boston College ⭐ (Boston area)
 
@@ -880,7 +811,7 @@ Marc Dalzell Villalonga
 
 Hi Jed,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in UBS's wealth management platform in the Boston area and would greatly appreciate a brief call in the next few weeks to hear about your experience and what you enjoy most about the client-facing work.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in UBS's wealth management platform in the Boston area and would greatly appreciate a brief call to hear about your experience and what you enjoy most about the client-facing work.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -889,17 +820,16 @@ Marc Dalzell Villalonga
 
 ---
 
-### 15. Brian W. Formento, CAIA
-**Title:** Private Wealth Management Professional
-**Firm:** UBS Private Wealth Management — Boston area
+### 15. Brian Formento
+**Title:** Private Wealth Management Associate — UBS
 **LinkedIn:** https://www.linkedin.com/in/brian-w-formento-caia-3317275
 **Connection:** Boston ⭐
 
-**Subject:** UBS Private Wealth — Rising Junior Interested in the CAIA/WM Track
+**Subject:** UBS Private Wealth — Rising Junior Interested in the WM Track
 
 Hi Brian,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in UBS's private wealth management work in Boston and noticed your CAIA designation — the alternatives and private wealth focus is an area I find particularly compelling. I would greatly appreciate a brief call in the next few weeks.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in UBS's private wealth management work in Boston and the alternatives and private wealth focus — I would greatly appreciate a brief call in the next few weeks.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -911,8 +841,7 @@ Marc Dalzell Villalonga
 ## CITI GLOBAL WEALTH
 
 ### 16. Alexander Liu
-**Title:** Global Wealth Management Analyst
-**Firm:** Citi — Global Wealth Management
+**Title:** Global Wealth Management Analyst — Citi
 **LinkedIn:** https://www.linkedin.com/in/alexander-liu-a67a97211
 **Connection:** Boston/Northeast ⭐
 
@@ -920,7 +849,7 @@ Marc Dalzell Villalonga
 
 Hi Alexander,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Citi's Global Wealth Management analyst track — I know applications open this fall and I wanted to reach out now to hear about your experience and what you'd recommend for someone targeting the wealth management side of Citi. I would greatly appreciate a brief call in the next few weeks.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Citi's Global Wealth Management analyst track — I know applications open this fall and I wanted to reach out now to hear about your experience and what you'd recommend for someone targeting the wealth management side of Citi. I would greatly appreciate a brief call.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -932,8 +861,7 @@ Marc Dalzell Villalonga
 ## BOSTON TRUST WALDEN
 
 ### 17. Jenny Liebelt
-**Title:** Senior Fund Services Analyst
-**Firm:** Boston Trust Walden — Boston
+**Title:** Fund Services Analyst — Boston Trust Walden
 **LinkedIn:** https://www.linkedin.com/in/jenny-liebelt-01a5a010
 **Connection:** Boston ⭐
 
@@ -941,7 +869,7 @@ Marc Dalzell Villalonga
 
 Hi Jenny,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am drawn to Boston Trust Walden's combination of wealth management and responsible investing — my public financial management background gives me a strong interest in mission-driven finance. I would greatly appreciate a brief call in the next few weeks.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am drawn to Boston Trust Walden's combination of wealth management and responsible investing — my public financial management background gives me a strong interest in mission-driven finance. I would greatly appreciate a brief call.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -951,8 +879,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 18. Ann Ward
-**Title:** Wealth Management Professional
-**Firm:** Boston Trust Walden — Boston
+**Title:** Wealth Management Associate — Boston Trust Walden
 **LinkedIn:** https://www.linkedin.com/in/ann-ward-8aa3aa7
 **Connection:** Boston ⭐
 
@@ -960,7 +887,7 @@ Marc Dalzell Villalonga
 
 Hi Ann,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Boston Trust Walden's responsible wealth management approach and would greatly appreciate a brief call in the next few weeks to learn about your work and how the firm thinks about early-career talent.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Boston Trust Walden's responsible wealth management approach and would greatly appreciate a brief call to learn about your work and how the firm thinks about early-career talent.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -971,18 +898,16 @@ Marc Dalzell Villalonga
 
 ## THE COLONY GROUP
 
-### 19. Robin Patinkin, CFA, CFP®
-**Title:** Managing Director, Senior Wealth Advisor
-**Firm:** The Colony Group — Boston
-**LinkedIn:** https://www.linkedin.com/in/robinpatinkin
-**Connection:** Boston ⭐
-**⚠️ Senior contact — send LAST after younger contacts, use mentorship framing**
+### 19. Indrika Arnold, MSFP, CFP®
+**Title:** Wealth Management Associate — The Colony Group
+**LinkedIn:** https://www.linkedin.com/in/indrika-arnold
+**Connection:** Boston ⭐ — MSFP aligns with Marc's public financial management focus
 
-**Subject:** The Colony Group — Rising Junior Seeking Career Advice in Boston WM
+**Subject:** Financial Planning at Colony Group — Rising Junior Interested in Your Path
 
-Hi Robin,
+Hi Indrika,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the wealth advisory space in Boston and greatly admire The Colony Group's independent model. I would greatly appreciate even 15 minutes of your time to hear your perspective on how you built your career in wealth management and what you look for in early-career candidates.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. Your financial planning background and work in Boston's independent wealth management space really caught my attention — I am very interested in the CFP track and would greatly appreciate a brief call in the next few weeks.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -991,17 +916,17 @@ Marc Dalzell Villalonga
 
 ---
 
-### 20. Indrika Arnold, MSFP, CFP®
-**Title:** Wealth Management Professional
-**Firm:** The Colony Group — Boston area
-**LinkedIn:** https://www.linkedin.com/in/indrika-arnold
-**Connection:** Boston ⭐ | MSFP aligns directly with Marc's public financial management focus
+### 20. Robin Patinkin, CFA, CFP®
+**Title:** Managing Director, Senior Wealth Advisor — The Colony Group
+**LinkedIn:** https://www.linkedin.com/in/robinpatinkin
+**Connection:** Boston ⭐
+**⚠️ Senior contact — send last, use mentorship framing**
 
-**Subject:** Financial Planning Focus at Colony Group — Rising Junior Interested in Your Path
+**Subject:** The Colony Group — Rising Junior Seeking Career Advice in Boston WM
 
-Hi Indrika,
+Hi Robin,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. Your financial planning background and work in Boston's independent wealth management space really caught my attention — I am very interested in the CFP track in wealth management and would greatly appreciate a brief call in the next few weeks.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the wealth advisory space in Boston and greatly admire The Colony Group's independent model. I would greatly appreciate even 15 minutes to hear your perspective on how you built your career in wealth management and what you look for in early-career candidates.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1012,29 +937,8 @@ Marc Dalzell Villalonga
 
 ## WELLINGTON MANAGEMENT
 
-### 21. Allen Wilson
-**Title:** AVP, Lead — Client Service Operations
-**Firm:** Wellington Management — Boston
-**LinkedIn:** https://www.linkedin.com/in/allenjwilson
-**Connection:** Boston ⭐
-**⚠️ Skip if already sent via Wellington standalone list**
-
-**Subject:** Client Service at Wellington — Rising Junior Interested in Your Perspective
-
-Hi Allen,
-
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Wellington Management's client service and relationship management platform and would greatly appreciate a brief call before applications open this fall to hear about what you find most valuable in early-career candidates.
-
-My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
-
-Best,
-Marc Dalzell Villalonga
-
----
-
-### 22. Bryan Valenciano
-**Title:** Relationship Analyst
-**Firm:** Wellington Management — Boston
+### 21. Bryan Valenciano
+**Title:** Relationship Analyst — Wellington Management
 **LinkedIn:** https://www.linkedin.com/in/bryanvalenciano
 **Connection:** Boston ⭐
 **⚠️ Skip if already sent via Wellington standalone list**
@@ -1052,11 +956,29 @@ Marc Dalzell Villalonga
 
 ---
 
+### 22. Allen Wilson
+**Title:** Client Service Lead — Wellington Management
+**LinkedIn:** https://www.linkedin.com/in/allenjwilson
+**Connection:** Boston ⭐
+**⚠️ Skip if already sent via Wellington standalone list**
+
+**Subject:** Client Service at Wellington — Rising Junior Interested in Your Perspective
+
+Hi Allen,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Wellington Management's client service and relationship management platform and would greatly appreciate a brief call before applications open this fall to hear about what you find most valuable in early-career candidates.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
 ## COLUMBIA THREADNEEDLE INVESTMENTS
 
 ### 23. Katie Bui
-**Title:** Associate Equity Analyst
-**Firm:** Columbia Threadneedle Investments — Boston
+**Title:** Associate Equity Analyst — Columbia Threadneedle
 **LinkedIn:** https://www.linkedin.com/in/katie-bui-b42b92ab
 **Connection:** Boston ⭐
 
@@ -1064,7 +986,7 @@ Marc Dalzell Villalonga
 
 Hi Katie,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Columbia Threadneedle's investment management work in Boston and the equity analyst track — I would greatly appreciate a brief call in the next few weeks to hear about your experience and what drew you to the role.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Columbia Threadneedle's investment management work in Boston and the equity analyst track — I would greatly appreciate a brief call to hear about your experience and what drew you to the role.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1074,8 +996,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 24. Taylor Tenn
-**Title:** Business Analyst — Global Trading
-**Firm:** Columbia Threadneedle Investments — Boston
+**Title:** Business Analyst, Global Trading — Columbia Threadneedle
 **LinkedIn:** https://www.linkedin.com/in/taylor-tenn-b258a015b
 **Connection:** Northeastern University ⭐ (Boston area)
 
@@ -1083,7 +1004,7 @@ Marc Dalzell Villalonga
 
 Hi Taylor,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Northeastern background and your work as a business analyst at Columbia Threadneedle in Boston — I would greatly appreciate a brief call in the next few weeks to hear about your experience and how you found your way into the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Northeastern background and your work as a business analyst at Columbia Threadneedle in Boston — I would greatly appreciate a brief call to hear about your experience and how you found your way into the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1093,8 +1014,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 25. Anna Lee
-**Title:** IDP Associate (Investment Development Program)
-**Firm:** Columbia Threadneedle Investments — Boston
+**Title:** IDP Associate (Investment Development Program) — Columbia Threadneedle
 **LinkedIn:** https://www.linkedin.com/in/anna-a-lee
 **Connection:** Vassar College
 
@@ -1102,7 +1022,7 @@ Marc Dalzell Villalonga
 
 Hi Anna,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Columbia Threadneedle's Investment Development Program — a rotational entry program is exactly the structured early-career experience I am targeting. I would greatly appreciate a brief call to hear about your experience in the program.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Columbia Threadneedle's Investment Development Program — a structured rotational entry program is exactly the kind of early-career experience I am targeting. I would greatly appreciate a brief call to hear about your experience in the program.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1112,8 +1032,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 26. Carson Franks
-**Title:** Equities Portfolio Analyst
-**Firm:** Columbia Threadneedle Investments — Boston
+**Title:** Equities Portfolio Analyst — Columbia Threadneedle
 **LinkedIn:** https://www.linkedin.com/in/carson-franks-a86b45224
 **Connection:** Dartmouth College
 
@@ -1131,18 +1050,18 @@ Marc Dalzell Villalonga
 ---
 
 ## COMMONWEALTH FINANCIAL NETWORK (Waltham, MA)
+*3 active internship roles — apply at commonwealth.com/about-us/careers*
 
 ### 27. Ally Tellstone
-**Title:** Compliance Consulting Associate
-**Firm:** Commonwealth Financial Network — Waltham, MA
+**Title:** Compliance Consulting Associate — Commonwealth Financial Network
 **LinkedIn:** https://www.linkedin.com/in/ally-tellstone
-**Connection:** Boston University ⭐ (Boston area — active internships, apply at commonwealth.com/careers)
+**Connection:** Boston University ⭐ (Boston area)
 
 **Subject:** BU → Commonwealth Financial Network — Rising Junior Interested in Your Path
 
 Hi Ally,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your BU background and your compliance associate role at Commonwealth Financial Network in Waltham — the regulatory side of wealth management intersects well with my public financial management background and I would greatly appreciate a brief call in the next few weeks.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your BU background and your associate role at Commonwealth Financial Network in Waltham — the regulatory side of wealth management intersects well with my public financial management background and I would greatly appreciate a brief call in the next few weeks.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1152,8 +1071,7 @@ Marc Dalzell Villalonga
 ---
 
 ### 28. Deep Patel
-**Title:** Associate
-**Firm:** Commonwealth Financial Network — Waltham, MA
+**Title:** Associate — Commonwealth Financial Network
 **LinkedIn:** https://www.linkedin.com/in/deeprpatel1
 **Connection:** UMass Boston ⭐ (Boston area)
 
@@ -1161,7 +1079,7 @@ Marc Dalzell Villalonga
 
 Hi Deep,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Commonwealth Financial Network as one of the largest independent broker-dealers and would greatly appreciate a brief call in the next few weeks to learn about your experience and the associate path at the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Commonwealth Financial Network as one of the largest independent broker-dealers and would greatly appreciate a brief call to learn about your experience and the associate path at the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1170,17 +1088,16 @@ Marc Dalzell Villalonga
 
 ---
 
-### 28b. Briana Beverly
-**Title:** Associate — Client Services
-**Firm:** Commonwealth Financial Network — Waltham, MA
+### 29. Briana Beverly
+**Title:** Client Services Associate — Commonwealth Financial Network
 **LinkedIn:** https://www.linkedin.com/in/briana-beverly
-**Connection:** Boston area ⭐
+**Connection:** Boston area ⭐ — verify profile before sending
 
-**Subject:** Commonwealth Financial Network — Rising Junior Interested in Client Services Track
+**Subject:** Commonwealth Financial Network — Rising Junior Interested in Client Services
 
 Hi Briana,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Commonwealth Financial Network's independent wealth management platform in Waltham and the client services track — I would greatly appreciate a brief call in the next few weeks to hear about your experience and what the associate path looks like at the firm.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Commonwealth Financial Network's independent wealth management platform in Waltham and the client services track — I would greatly appreciate a brief call to hear about your experience and what the associate path looks like at the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1191,9 +1108,8 @@ Marc Dalzell Villalonga
 
 ## CHOATE INVESTMENT ADVISORS
 
-### 29. Hideyoshi Watanabe
-**Title:** Investment Analyst
-**Firm:** Choate Investment Advisors — Boston
+### 30. Hideyoshi Watanabe
+**Title:** Investment Analyst — Choate Investment Advisors
 **LinkedIn:** https://www.linkedin.com/in/hideyoshiwatanabe
 **Connection:** Boston University Questrom ⭐ (Boston area)
 
@@ -1210,9 +1126,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### 30. Andrew Burnside
-**Title:** Research & Operations Analyst
-**Firm:** Choate Investment Advisors — Boston
+### 31. Andrew Burnside
+**Title:** Research & Operations Analyst — Choate Investment Advisors
 **LinkedIn:** https://www.linkedin.com/in/andrew-burnside-b7365988
 **Connection:** Boston ⭐
 
@@ -1231,9 +1146,8 @@ Marc Dalzell Villalonga
 
 ## FIDUCIARY TRUST COMPANY
 
-### 31. Grace Ruvelson
-**Title:** Senior Custody & Trust Client Associate
-**Firm:** Fiduciary Trust Company — Boston
+### 32. Grace Ruvelson
+**Title:** Custody & Trust Client Associate — Fiduciary Trust
 **LinkedIn:** https://www.linkedin.com/in/grace-ruvelson-a150a5140
 **Connection:** University of Vermont — Northeast ⭐
 
@@ -1241,7 +1155,7 @@ Marc Dalzell Villalonga
 
 Hi Grace,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Fiduciary Trust Company's client services and trust administration work in Boston — the intersection of trust, custody, and wealth management aligns well with my public financial management background. I would greatly appreciate a brief call in the next few weeks.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Fiduciary Trust Company's client services and trust administration work in Boston — the intersection of trust, custody, and wealth management aligns well with my public financial management background. I would greatly appreciate a brief call.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1250,9 +1164,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### 32. Jamie Allison
-**Title:** Senior Client Associate
-**Firm:** Fiduciary Trust Company — Boston
+### 33. Jamie Allison
+**Title:** Client Associate — Fiduciary Trust
 **LinkedIn:** https://www.linkedin.com/in/jamie-allison-brown
 **Connection:** Boston ⭐
 
@@ -1271,9 +1184,8 @@ Marc Dalzell Villalonga
 
 ## RBC WEALTH MANAGEMENT
 
-### 33. Liam Hurley
-**Title:** Senior Financial Associate
-**Firm:** RBC Wealth Management — Boston
+### 34. Liam Hurley
+**Title:** Financial Associate — RBC Wealth Management
 **LinkedIn:** https://www.linkedin.com/in/liam--hurley
 **Connection:** Boston ⭐
 
@@ -1290,9 +1202,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### 34. Rob Kuehn
-**Title:** Registered Client Associate
-**Firm:** RBC Wealth Management — Boston
+### 35. Rob Kuehn
+**Title:** Registered Client Associate — RBC Wealth Management
 **LinkedIn:** https://www.linkedin.com/in/rob-kuehn-aab2269
 **Connection:** Boston ⭐
 
@@ -1311,9 +1222,8 @@ Marc Dalzell Villalonga
 
 ## RAYMOND JAMES — WEALTH MANAGEMENT
 
-### 35. Laura Field
-**Title:** Client Service Associate
-**Firm:** Raymond James — Wealth Management, Boston
+### 36. Laura Field
+**Title:** Client Service Associate — Raymond James WM
 **LinkedIn:** https://www.linkedin.com/in/laura-field
 **Connection:** Bryant University ⭐ (New England)
 
@@ -1332,9 +1242,8 @@ Marc Dalzell Villalonga
 
 ## SILVERCREST ASSET MANAGEMENT
 
-### 36. Avery Meyer
-**Title:** Client Associate
-**Firm:** Silvercrest Asset Management — Boston
+### 37. Avery Meyer
+**Title:** Client Associate — Silvercrest Asset Management
 **LinkedIn:** https://www.linkedin.com/in/avery-meyer-2b5650247
 **Connection:** Washington and Lee University — recent grad ⭐
 
@@ -1351,9 +1260,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### 36b. Olivia Richards
-**Title:** Wealth Management Associate
-**Firm:** Silvercrest Asset Management — Boston
+### 38. Olivia Richards
+**Title:** Wealth Management Associate — Silvercrest Asset Management
 **LinkedIn:** https://www.linkedin.com/in/olivia-richards-silvercrest
 **Connection:** Boston area ⭐ — verify profile before sending
 
@@ -1361,7 +1269,7 @@ Marc Dalzell Villalonga
 
 Hi Olivia,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Silvercrest's wealth management platform in Boston and the associate track — I would greatly appreciate a brief call to hear about your day-to-day and what you'd recommend for a student targeting an independent RIA.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Silvercrest's wealth management platform in Boston and would greatly appreciate a brief call to hear about your day-to-day and what you'd recommend for a student targeting an independent RIA.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1370,9 +1278,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### 36c. Lindsey Harrison
-**Title:** Associate — Client Services
-**Firm:** Silvercrest Asset Management — Boston
+### 39. Lindsey Harrison
+**Title:** Client Services Associate — Silvercrest Asset Management
 **LinkedIn:** https://www.linkedin.com/in/lindsey-harrison-silvercrest
 **Connection:** Boston area ⭐ — verify profile before sending
 
@@ -1380,7 +1287,7 @@ Marc Dalzell Villalonga
 
 Hi Lindsey,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Silvercrest's client services and wealth management work in Boston — I would greatly appreciate a brief call in the next few weeks to hear about your experience and what you've found most rewarding in the role.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Silvercrest's client services and wealth management work in Boston — I would greatly appreciate a brief call to hear about your experience and what you've found most rewarding in the role.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1391,17 +1298,16 @@ Marc Dalzell Villalonga
 
 ## NATIXIS INVESTMENT MANAGERS
 
-### 37. Julia Prescott
-**Title:** Compliance Co-op
-**Firm:** Natixis Investment Managers — Boston
+### 40. Julia Prescott
+**Title:** Compliance Co-op — Natixis Investment Managers
 **LinkedIn:** https://www.linkedin.com/in/julia-prescott-812726268
-**Connection:** Northeastern University ⭐ (Boston) — peer-level, Dean's List
+**Connection:** Northeastern University ⭐ (Boston) — peer-level contact
 
 **Subject:** Natixis Co-op Experience — Rising Junior Interested in Boston Asset Management
 
 Hi Julia,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your co-op experience at Natixis Investment Managers in Boston — I am very interested in the firm and think a peer perspective on what the culture and recruiting process looks like would be incredibly helpful. Would you be open to a brief call?
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your co-op experience at Natixis Investment Managers in Boston — I am very interested in the firm and think a peer perspective on the culture and recruiting process would be incredibly helpful. Would you be open to a brief call?
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1411,10 +1317,10 @@ Marc Dalzell Villalonga
 ---
 
 ## EATON VANCE / MORGAN STANLEY INVESTMENT MANAGEMENT
+*Spring 2027 co-op opens January 2027 — set calendar reminder NOW*
 
-### 38. Timothy Brown, CFA
-**Title:** Sr. Associate — Investment Management
-**Firm:** Eaton Vance / Morgan Stanley IM — Boston
+### 41. Timothy Brown
+**Title:** Associate — Eaton Vance / Morgan Stanley IM
 **LinkedIn:** https://www.linkedin.com/in/timothy-brown-2019
 **Connection:** Boston ⭐
 
@@ -1422,7 +1328,7 @@ Marc Dalzell Villalonga
 
 Hi Timothy,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Eaton Vance's investment management platform under Morgan Stanley in Boston and the associate track — I would greatly appreciate a brief call to hear about your experience and what the CFA has added to your career.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Eaton Vance's investment management platform under Morgan Stanley in Boston — I would greatly appreciate a brief call to hear about your experience and what the associate track looks like at the firm.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1431,12 +1337,10 @@ Marc Dalzell Villalonga
 
 ---
 
-### 38b. Stephen Kasabula
-**Title:** Associate — Investment Management
-**Firm:** Eaton Vance / Morgan Stanley Investment Management — Boston
+### 42. Stephen Kasabula
+**Title:** Associate — Eaton Vance / Morgan Stanley IM
 **LinkedIn:** https://www.linkedin.com/in/stephen-kasabula
 **Connection:** Boston area ⭐ — verify profile before sending
-**Note:** Morgan Stanley IM Spring 2027 co-op opens January 2027 — reach out now to get ahead
 
 **Subject:** Morgan Stanley IM / Eaton Vance Boston — Rising Junior Interested in Your Path
 
@@ -1453,9 +1357,8 @@ Marc Dalzell Villalonga
 
 ## MARINER WEALTH ADVISORS
 
-### 39. Daniel Sharkey, CFP®
-**Title:** Advisor / Associate
-**Firm:** Mariner Wealth Advisors — Boston
+### 43. Daniel Sharkey, CFP®
+**Title:** Associate Wealth Advisor — Mariner Wealth Advisors
 **LinkedIn:** https://www.linkedin.com/in/danielsharkeycfp
 **Connection:** Greater Boston ⭐
 
@@ -1472,9 +1375,8 @@ Marc Dalzell Villalonga
 
 ---
 
-### 39b. Matthew Hanson
-**Title:** Associate Wealth Advisor
-**Firm:** Mariner Wealth Advisors — Boston
+### 44. Matthew Hanson
+**Title:** Associate Wealth Advisor — Mariner Wealth Advisors
 **LinkedIn:** https://www.linkedin.com/in/matthew-hanson-mariner
 **Connection:** Greater Boston ⭐ — verify profile before sending
 
@@ -1493,18 +1395,17 @@ Marc Dalzell Villalonga
 
 ## BALLENTINE PARTNERS (Waltham, MA)
 
-### 40. Elliot Rotstein
-**Title:** Partner & Senior Client Advisor
-**Firm:** Ballentine Partners — Waltham, MA
+### 45. Elliot Rotstein
+**Title:** Partner & Senior Client Advisor — Ballentine Partners
 **LinkedIn:** https://www.linkedin.com/in/elliot-rotstein-3047a47
 **Connection:** Boston ⭐
-**⚠️ Senior contact (Partner level) — send LAST, use mentorship framing**
+**⚠️ Senior contact (Partner) — send last, use mentorship framing**
 
-**Subject:** Ballentine Partners Multi-Family Office — Rising Junior Seeking Career Advice
+**Subject:** Ballentine Partners — Rising Junior Seeking Career Advice in Multi-Family Office
 
 Hi Elliot,
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Ballentine Partners' multi-family office model and greatly admire the firm's comprehensive client advisory approach in Waltham. I would greatly appreciate even 15 minutes to hear about your career path and whether there are opportunities for students to contribute to the team.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I greatly admire Ballentine Partners' multi-family office model and the comprehensive client advisory work your team does in Waltham. I would greatly appreciate even 15 minutes to hear about your career path and whether there are opportunities for students to contribute to the team.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -1515,9 +1416,8 @@ Marc Dalzell Villalonga
 
 ## FOREST HILLS FINANCIAL GROUP
 
-### 41. Michael Librett
-**Title:** Wealth Management Professional
-**Firm:** Forest Hills Financial Group — Boston area
+### 46. Michael Librett
+**Title:** Wealth Management Associate — Forest Hills Financial Group
 **LinkedIn:** https://www.linkedin.com/in/michael-librett-8779ba7
 **Connection:** Boston ⭐
 
@@ -1536,11 +1436,10 @@ Marc Dalzell Villalonga
 
 ## WINGATE WEALTH ADVISORS (Needham, MA)
 
-### 42. Mark Greco
-**Title:** Associate
-**Firm:** Wingate Wealth Advisors — Needham, MA
+### 47. Mark Greco
+**Title:** Associate — Wingate Wealth Advisors
 **LinkedIn:** https://www.linkedin.com/in/markfgreco
-**Connection:** Greater Boston ⭐ — very small firm = highest cold outreach response rate
+**Connection:** Greater Boston ⭐ — small firm = highest cold outreach response rate
 
 **Subject:** Wingate Wealth Advisors — Rising Junior Interested in Boutique WM
 
@@ -1557,9 +1456,8 @@ Marc Dalzell Villalonga
 
 ## BAYSTATE WEALTH MANAGEMENT
 
-### 43. Andrew Chandler
-**Title:** Associate
-**Firm:** Baystate Wealth Management — Greater Boston
+### 48. Andrew Chandler
+**Title:** Associate — Baystate Wealth Management
 **LinkedIn:** https://www.linkedin.com/in/andrew-chandler-6a029456
 **Connection:** Greater Boston ⭐
 
@@ -1576,6 +1474,7 @@ Marc Dalzell Villalonga
 
 ---
 
-*Master file — ~100 contacts | Sections: (1) Apply Now Co-ops with links | (2) Contacts at Co-op Firms | (3) Broader WM Networking*
-*Zero overlap with Waves 1–4 | All WM/investment management — no investment banking | All analyst/associate level (senior contacts flagged ⚠️)*
-*Send order: Section 2 IU/Big Ten first → Section 2 Boston school → Section 3 IU/Big Ten first → Section 3 broader → ⚠️ senior contacts last*
+*~100 contacts total | Section 1: apply now + monitor | Section 2: co-op firm contacts (26) | Section 3: broader WM networking (48)*
+*All analyst/associate level — senior contacts flagged ⚠️ send last*
+*Zero overlap with Waves 1–4 | All wealth management — no investment banking*
+*Send order: F1 (IU WMW Fidelity) → S1 (Big Ten SSGA) → Section 2 IU/Big Ten → Section 3 #1–4 (IU/Big Ten) → Section 3 broader → ⚠️ flagged senior contacts last*
