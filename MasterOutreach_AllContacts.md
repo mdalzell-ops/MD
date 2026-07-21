@@ -2,6 +2,7 @@
 **mdalzell@iu.edu | (617) 480-6715**
 **Rising Junior | Public Financial Management + Business & Informatics Minors | Indiana University O'Neill School | GPA 3.68**
 *~100 contacts | Zero overlap with Waves 1–4 | All WM/investment management — no IB | All analyst/associate level*
+*Target: Spring 2027 (January start) + Summer 2027 (June/July start) — no fall co-ops*
 *Updated July 21, 2026*
 
 ---
@@ -15,64 +16,55 @@
 ---
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# SECTION 1 — CO-OPS & INTERNSHIPS
+# SECTION 1 — SPRING 2027 & SUMMER 2027 INTERNSHIPS
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+*Target: Spring 2027 (January start) and Summer 2027 (June/July start) only — no fall co-ops*
 
 ---
 
-## 🟢 OPEN NOW — APPLY IMMEDIATELY
+## 🟢 OPEN NOW — APPLY TODAY (Summer 2027)
 
 ### 1. Corient Private Wealth — Individual Equity Strategy Intern ⭐ #1 PRIORITY
-- **Program:** Summer 2027 Internship
-- **Start:** June 2027
-- **Location:** Boston, MA — on-site
-- **Pay:** $37.50+/hr
-- **Posted:** July 8, 2026 — confirmed active
+- **Season:** Summer 2027
+- **Start:** June 2027 — Boston, MA (on-site)
+- **Pay:** $37.50+/hr — confirmed active as of July 8, 2026
 - **Apply:** https://www.linkedin.com/jobs/view/individual-equity-strategy-intern-summer-2027-at-corient-4435628729
-- **Also:** corient.com/careers → search "Individual Equity Strategy Intern"
+- **Also:** corient.com/careers → search "Individual Equity Strategy Intern Summer 2027"
 - **Then:** Email C1 & C2 (Section 2) to get a warm contact at the firm
 
 ### 2. Commonwealth Financial Network — Wealth Management Intern ⭐
-- **Program:** Internship (fall 2026 or spring 2027 — verify timing)
+- **Season:** Spring or Summer 2027 — verify timing on careers page
 - **Location:** Waltham, MA (20 min from Boston)
 - **Apply:** https://www.commonwealth.com/about-us/careers → search "Intern"
-- **Also check:** "Events Intern" and "Field Outreach Intern" at same page — 3 total active roles
-- **Then:** Email contacts 27–28b (Section 3) at Commonwealth
-
-### 3. MFS Investment Management — Fall 2026 Co-op (Rolling — check now)
-- **Program:** Co-op, July 7 – December 18, 2026 (started July 7 but may still be open)
-- **Location:** Boston, MA — hybrid, 111 Huntington Ave
-- **Pay:** ~$20–24/hr
-- **Tracks:** Financial Sales (most WM-aligned), Corporate Finance, Marketing
-- **Apply:** https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "co-op" or "fall 2026"
-- **⚠️ Note:** MFS requires a formal university co-op program enrollment — call IU Career Services first to verify eligibility
-
-### 4. State Street — PIC Internship 2026
-- **Program:** Internship, July–December 2026
-- **Location:** Boston, MA
-- **Pay:** ~$42K–$65K annualized
-- **Apply:** https://careers.statestreet.com → search "PIC Internship 2026"
-- **⚠️ Verify it's still open** — started July 2026, may have filled; check the portal directly
+- **Also check:** "Events Intern" and "Field Outreach Intern" — 3 total active roles
+- **Then:** Email contacts 27–29 (Section 3) at Commonwealth
 
 ---
 
-## 🔵 NOT OPEN YET — MONITOR & APPLY WHEN LIVE
+## 🔵 SPRING 2027 — Apply September–January (January start)
 
-| # | Firm | Program | Apps Open | Apply Link |
+| Priority | Firm | Program | Apps Open | Apply Link |
 |---|---|---|---|---|
-| ⭐⭐ 1 | **Morgan Stanley IM (Eaton Vance)** | Spring 2027 Co-op — Fixed Income (Global Trading, EM, MBS, Muni) | **January 2027 — closes in DAYS** | morganstanley.com/im/en-us/institutional-investors/about-us/careers.html |
-| ⭐⭐ 2 | **MFS Investment Management** | Spring 2027 Co-op — all tracks | September 2026 | mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers |
-| ⭐⭐ 3 | **State Street** | Spring 2027 Co-op (January start) | September–October 2026 | careers.statestreet.com |
-| ⭐ 4 | **RBC Global Asset Management** | Spring 2027 Co-op — Waltham office | September 2026 | rbcgam.com/en/ca/institutional/about-us/careers |
-| ⭐ 5 | **Fidelity Investments** | Summer 2027 Equity Research Associate Intern | Fall 2026 | jobs.fidelity.com/en/students/asset-management |
-| ⭐ 6 | **PGIM** | Summer 2027 Analyst Program (Real Estate, Fixed Income, Investments) | October 2026 | careers.pgim.com |
-| 7 | **Putnam / Franklin Templeton** | Summer 2027 Equity Associate Intern (invitation-only — get referral first) | October–November 2026 | franklintempletoncareers.com |
-| 8 | **Goldman Sachs** | 2027 Boston WM & Financial Planning Summer Analyst | Fall 2026 | goldmansachs.com/careers/students/programs |
-| 9 | **BBH** | 2027 Private Banking Internship | Fall 2026 | bbh.com/en-us/careers |
-| 10 | **Cambridge Associates** | 2027 Investment Analyst Program | Fall 2026 | cambridgeassociates.com/careers |
-| 11 | **Wellington Management** | 2027 Business Associate Program | October 2026 | wellington.com/en-us/careers |
+| ⭐⭐ #1 | **Morgan Stanley IM (Eaton Vance)** | Spring 2027 Co-op — Fixed Income (Global Trading, EM, MBS, Muni Bond) | **January 2027 — closes in 3–5 DAYS** | morganstanley.com/im/en-us/institutional-investors/about-us/careers.html |
+| ⭐⭐ #2 | **MFS Investment Management** | Spring 2027 Co-op — Financial Sales, Finance, Marketing | September 2026 | mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers |
+| ⭐⭐ #3 | **State Street** | Spring 2027 Co-op (January start) | September–October 2026 | careers.statestreet.com → search "co-op 2027" |
+| ⭐ #4 | **RBC Global Asset Management** | Spring 2027 Co-op — Waltham office | September 2026 | rbcgam.com/en/ca/institutional/about-us/careers |
 
-**⚠️ SET THIS REMINDER NOW:** Morgan Stanley IM Spring 2027 co-op opens January 2027 and closes within 3–5 days. It is the best-paying, most structured Spring co-op in Boston. Missing the window = waiting a full year.
+**⚠️ SET A CALENDAR REMINDER FOR JANUARY 1, 2027:** Morgan Stanley IM opens and closes within days. It is the highest-paying, most structured Spring 2027 co-op in Boston. Missing the window means waiting a full year.
+
+---
+
+## 🔵 SUMMER 2027 — Apply Fall 2026 (June/July start)
+
+| Priority | Firm | Program | Apps Open | Apply Link |
+|---|---|---|---|---|
+| ⭐ #1 | **Fidelity Investments** | Summer 2027 Equity Research Associate Intern | Fall 2026 | jobs.fidelity.com/en/students/asset-management |
+| ⭐ #2 | **PGIM** | Summer 2027 Analyst Program — Real Estate, Fixed Income, Investments, Private Capital | October 2026 | careers.pgim.com |
+| #3 | **Goldman Sachs** | 2027 Boston WM & Financial Planning Summer Analyst | Fall 2026 | goldmansachs.com/careers/students/programs |
+| #4 | **BBH** | 2027 Private Banking Summer Internship | Fall 2026 | bbh.com/en-us/careers |
+| #5 | **Cambridge Associates** | 2027 Investment Analyst Program | Fall 2026 | cambridgeassociates.com/careers |
+| #6 | **Wellington Management** | 2027 Business Associate Program | October 2026 | wellington.com/en-us/careers |
+| #7 | **Putnam / Franklin Templeton** | Summer 2027 Equity Associate Intern (referral required — email PT1 first) | October–November 2026 | franklintempletoncareers.com |
 
 ---
 
@@ -85,7 +77,7 @@
 ---
 
 ## STATE STREET GLOBAL ADVISORS — 10 contacts
-*PIC Internship Fall 2026 open (verify) | Spring 2027 co-op opens September–October 2026*
+*Spring 2027 co-op opens September–October 2026 | Network now, apply at careers.statestreet.com when it goes live*
 
 ---
 
@@ -273,7 +265,7 @@ Marc Dalzell Villalonga
 ---
 
 ## MFS INVESTMENT MANAGEMENT — 3 contacts
-*Fall 2026 co-op open (check Workday now) | Spring 2027 co-op opens September 2026*
+*Spring 2027 co-op opens September 2026 | Network now, apply at mfs.wd1.myworkdayjobs.com when live | Verify IU co-op program eligibility with career office*
 
 ---
 
