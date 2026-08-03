@@ -22,6 +22,16 @@
 
 ---
 
+**CONTACT PRIORITY ORDER — apply to every program below, then email contacts in this order:**
+1. ⭐⭐ IU alumni at the firm — highest response rate, fellow Hoosier hook
+2. ⭐ Big Ten alumni at the firm — shared conference identity, strong hook
+3. Young associate/analyst (1–3 years out) at the firm — peer-level, most likely to reply
+4. Senior contacts last — use mentorship framing only
+
+**For every program: search LinkedIn for "[Firm Name] Boston Indiana University" before sending the contacts listed below. If you find an IU or Big Ten alum not listed here, email them FIRST.**
+
+---
+
 ## 🟢 OPEN NOW — APPLY TODAY (Summer 2027)
 
 ---
@@ -31,10 +41,13 @@
 - **Apply NOW:** https://www.linkedin.com/jobs/view/individual-equity-strategy-intern-summer-2027-at-corient-4435628729
 - **Also:** corient.com/careers → search "Individual Equity Strategy Intern Summer 2027"
 
-**Contact — Apply first, then send this email:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "Corient Boston Indiana University" then "Corient Boston [Big Ten school]" — if you find an IU or Big Ten alum, email them first using the template below with their name and details swapped in.**
+
+**Contact #1 — Apply first, then send (young associate, most likely to reply):**
 
 **John Lilly — Associate Wealth Planner, Corient Boston**
 LinkedIn: https://www.linkedin.com/in/john-lilly-
+Connection: Masters in Finance, 2022 grad — close in age ⭐
 
 **Subject:** Corient Summer 2027 Intern — Rising Junior Who Just Applied, Would Love Your Perspective
 
@@ -49,9 +62,11 @@ Marc Dalzell Villalonga
 
 ---
 
+**Contact #2:**
+
 **Michael Mileski — Wealth Analyst, Corient Boston**
 LinkedIn: https://www.linkedin.com/in/michael-mileski-979248208
-⚠️ Verify Boston location on profile before sending
+Connection: Verify school and Boston location before sending
 
 **Subject:** Corient Boston — Rising Junior Interested in the Wealth Analyst Track
 
@@ -71,7 +86,9 @@ Marc Dalzell Villalonga
 - **Location:** Waltham, MA | **3 active roles:** Wealth Management Intern, Events Intern, Field Outreach Intern
 - **Apply NOW:** https://www.commonwealth.com/about-us/careers → search "Intern"
 
-**Contact — Send alongside your application:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "Commonwealth Financial Network Indiana University" then "Commonwealth Financial Network [Big Ten school]" — email any IU/Big Ten alum you find before the contacts below.**
+
+**Contact #1 — BU, young associate, Boston area:**
 
 **Ally Tellstone — Compliance Consulting Associate, Commonwealth Financial Network**
 LinkedIn: https://www.linkedin.com/in/ally-tellstone
@@ -89,6 +106,8 @@ Best,
 Marc Dalzell Villalonga
 
 ---
+
+**Contact #2 — UMass Boston, young associate:**
 
 **Deep Patel — Associate, Commonwealth Financial Network**
 LinkedIn: https://www.linkedin.com/in/deeprpatel1
@@ -118,7 +137,9 @@ Marc Dalzell Villalonga
 - **Apply:** morganstanley.com/im/en-us/institutional-investors/about-us/careers.html
 - **⚠️ SET A CALENDAR REMINDER FOR JANUARY 1, 2027 — do not miss this window**
 
-**Contact — Reach out NOW so you have a warm contact before January:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "Eaton Vance Boston Indiana University" and "Morgan Stanley Investment Management Boston [Big Ten school]" — email any IU/Big Ten alum you find before the contacts below.**
+
+**Contact #1 — Boston associate, reach out now:**
 
 **Timothy Brown — Associate, Eaton Vance / Morgan Stanley IM Boston**
 LinkedIn: https://www.linkedin.com/in/timothy-brown-2019
@@ -137,9 +158,11 @@ Marc Dalzell Villalonga
 
 ---
 
+**Contact #2 — verify Boston location before sending:**
+
 **Stephen Kasabula — Associate, Eaton Vance / Morgan Stanley IM Boston**
 LinkedIn: https://www.linkedin.com/in/stephen-kasabula
-⚠️ Verify Boston location on profile before sending
+Connection: Verify Boston location before sending
 
 **Subject:** Eaton Vance / Morgan Stanley IM Spring 2027 Co-op — Rising Junior Interested in Your Path
 
@@ -161,11 +184,13 @@ Marc Dalzell Villalonga
 - **Apply:** https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "Spring 2027 co-op"
 - **⚠️ Verify IU co-op program eligibility with career office before applying**
 
-**Contact — Reach out now, apply in September:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "MFS Investment Management Boston Indiana University" then "MFS Investment Management Boston [Big Ten school]" — if you find an IU/Big Ten alum, email them first. MFS has a large Boston office so this is very likely.**
+
+**Contact #1 — Financial Sales associate, most WM-aligned track:**
 
 **Thomas Smith — Financial Sales Associate, MFS Investment Management**
 LinkedIn: https://www.linkedin.com/in/thomas-smith-mfs
-⚠️ Verify profile before sending
+Connection: Boston ⭐ — verify profile before sending
 
 **Subject:** MFS Spring 2027 Financial Sales Co-op — Rising Junior Reaching Out Early
 
@@ -180,9 +205,11 @@ Marc Dalzell Villalonga
 
 ---
 
+**Contact #2:**
+
 **James Horkan — Associate, MFS Investment Management**
 LinkedIn: https://www.linkedin.com/in/james-horkan
-⚠️ Verify profile before sending
+Connection: Boston ⭐ — verify profile before sending
 
 **Subject:** MFS Investment Management — Rising Junior Interested in the Spring 2027 Co-op
 
@@ -202,7 +229,9 @@ Marc Dalzell Villalonga
 - **Apps Open:** September–October 2026
 - **Apply:** https://careers.statestreet.com → search "co-op 2027"
 
-**Contact — Reach out now, apply in September:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "State Street Global Advisors Boston Indiana University" — State Street is huge, IU alums are very likely. Email them before the contacts below.**
+
+**Contact #1 — Big Ten (Maryland) ⭐ — SEND FIRST:**
 
 **Gregory Press — Risk Analyst, State Street Global Advisors**
 LinkedIn: https://www.linkedin.com/in/gregpress
@@ -220,6 +249,8 @@ Best,
 Marc Dalzell Villalonga
 
 ---
+
+**Contact #2 — BC analyst, Boston area:**
 
 **David Kim — Analyst, State Street Global Advisors**
 LinkedIn: https://www.linkedin.com/in/dik1
@@ -244,34 +275,19 @@ Marc Dalzell Villalonga
 - **Apply:** https://rbcgam.com/en/ca/institutional/about-us/careers
 - **Note:** RBC GAM is the institutional asset management arm — separate from RBC Wealth Management
 
-**Contact — Reach out now, apply in September:**
+**⭐⭐ HOW TO FIND YOUR CONTACTS HERE (do this before anything else):**
+1. Go to LinkedIn → search **"RBC Global Asset Management Waltham"**
+2. Filter by **"Indiana University"** → email any result first
+3. Then filter by **Big Ten schools** (Illinois, Michigan, Northwestern, Ohio State, Maryland, Penn State, Minnesota, Wisconsin, Iowa, Nebraska, Rutgers, Purdue, Michigan State) → email any result
+4. If no IU/Big Ten found → filter by graduation year **2021–2024** → pick the youngest analyst/associate
 
-**Chloe Arsenault — Investment Analyst, RBC Global Asset Management**
-LinkedIn: https://www.linkedin.com/in/chloe-arsenault-rbcgam
-⚠️ Verify Waltham/Boston location and current role on profile before sending
+**Use this email template for whoever you find:**
 
 **Subject:** RBC Global Asset Management Waltham — Rising Junior Interested in Spring 2027 Co-op
 
-Hi Chloe,
+Hi [First Name],
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in RBC Global Asset Management's investment platform in Waltham and the Spring 2027 co-op program — I would greatly appreciate a brief call to hear about your experience at the firm and any advice you might have for a student targeting the program when applications open in September.
-
-My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
-
-Best,
-Marc Dalzell Villalonga
-
----
-
-**Tyler Nguyen — Associate Analyst, RBC Global Asset Management**
-LinkedIn: https://www.linkedin.com/in/tyler-nguyen-rbcgam
-⚠️ Verify Waltham/Boston location and current role on profile before sending
-
-**Subject:** RBC GAM Waltham — Rising Junior Interested in Your Investment Management Path
-
-Hi Tyler,
-
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in RBC Global Asset Management's investment platform in Waltham and plan to apply to the Spring 2027 co-op when applications open in September — I would greatly appreciate a brief call to hear about your experience at the firm and what the analyst track looks like early in a career.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. [If IU/Big Ten: I noticed we share a connection through [school] and] I am very interested in RBC Global Asset Management's investment platform in Waltham and the Spring 2027 co-op program — I would greatly appreciate a brief call to hear about your experience at the firm and any advice you might have for a student targeting the program when applications open in September.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -289,7 +305,7 @@ Marc Dalzell Villalonga
 - **Apps Open:** Fall 2026
 - **Apply:** https://jobs.fidelity.com/en/students/asset-management
 
-**Contact — Reach out now, apply when posting goes live:**
+**Contact #1 — IU Wealth Management Workshop ⭐⭐ — SEND FIRST, highest response rate:**
 
 **Oisheek Bhattacharyya — IU WMW → Fidelity Investments Intern ⭐⭐**
 LinkedIn: https://www.linkedin.com/in/oisheekbhattacharyya
@@ -307,6 +323,8 @@ Best,
 Marc Dalzell Villalonga
 
 ---
+
+**Contact #2 — CFP associate, Boston ⭐:**
 
 **Robert Allsup, CFP® — Financial Planning Associate, Fidelity Investments Boston**
 LinkedIn: https://www.linkedin.com/in/robert-allsup
@@ -331,11 +349,13 @@ Marc Dalzell Villalonga
 - **Apps Open:** October 2026
 - **Apply:** https://careers.pgim.com
 
-**Contact — Reach out now, apply October 2026:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "PGIM Boston Indiana University" then "PGIM Boston [Big Ten school]" — email any IU/Big Ten alum first.**
+
+**Contact #1 — Recent grad, most WM-aligned role at PGIM — SEND FIRST:**
 
 **Jack Quinn — Regional Internal Consultant, PGIM Investments Boston**
 LinkedIn: https://www.linkedin.com/in/jack-quinn1
-Connection: Recent grad, Finance major — most WM-aligned role at PGIM — SEND FIRST
+Connection: Recent grad, Finance major — most WM-aligned role at PGIM
 
 **Subject:** PGIM Investments Distribution — Rising Junior Interested in Summer 2027 Analyst Program
 
@@ -349,6 +369,8 @@ Best,
 Marc Dalzell Villalonga
 
 ---
+
+**Contact #2 — BC analyst, recent grad ⭐:**
 
 **Drew Kenn — Incoming Investment Analyst, PGIM Fixed Income Boston**
 LinkedIn: https://www.linkedin.com/in/drew-kenn-3b7018247
@@ -371,36 +393,22 @@ Marc Dalzell Villalonga
 - **Season:** Summer 2027 | **Location:** Boston, MA
 - **Apps Open:** Fall 2026
 - **Apply:** https://goldmansachs.com/careers/students/programs
-- **Note:** Highly competitive — network contact is essential before applying
+- **Note:** Highly competitive — a warm contact before applying is essential
 
-**Contact — Reach out now, apply when posting goes live this fall:**
+**⭐⭐ HOW TO FIND YOUR CONTACTS HERE (do this before anything else):**
+1. Go to LinkedIn → search **"Goldman Sachs Wealth Management Boston"**
+2. Filter by **"Indiana University"** → email any result first ⭐⭐
+3. Then filter by **Big Ten schools** → email any result ⭐
+4. Then filter by graduation year **2021–2024** → pick youngest analyst/associate
+5. Filter by title keywords: "Analyst", "Associate", "Financial Planning" — avoid VP and above
 
-**Sophia Chen — Wealth Management Analyst, Goldman Sachs Boston**
-LinkedIn: https://www.linkedin.com/in/sophia-chen-gs
-⚠️ Verify current Boston WM role and graduation year on profile before sending
+**Use this email template for whoever you find:**
 
 **Subject:** Goldman Sachs WM Boston — Rising Junior Interested in the 2027 Summer Analyst Program
 
-Hi Sophia,
+Hi [First Name],
 
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Goldman Sachs's wealth management and financial planning platform in Boston and plan to apply to the Summer 2027 Analyst Program when applications open this fall — I would greatly appreciate a brief call to hear about your experience and any advice you might have for an incoming applicant.
-
-My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
-
-Best,
-Marc Dalzell Villalonga
-
----
-
-**Marcus Rivera — Financial Planning Analyst, Goldman Sachs Wealth Management Boston**
-LinkedIn: https://www.linkedin.com/in/marcus-rivera-goldman
-⚠️ Verify current Boston WM role and graduation year on profile before sending
-
-**Subject:** GS Wealth Management Boston — Rising Junior Hoping to Connect Before Apps Open
-
-Hi Marcus,
-
-I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Goldman Sachs's wealth management and financial planning work in Boston and am targeting the 2027 Summer Analyst Program — I would greatly appreciate a brief call to hear about your day-to-day and what you would recommend for a student hoping to break into the program.
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. [If IU/Big Ten: I noticed we share a connection through [school] — ] I am very interested in Goldman Sachs's wealth management and financial planning platform in Boston and plan to apply to the Summer 2027 Analyst Program when applications open this fall. I would greatly appreciate a brief call to hear about your experience and any advice you might have for an incoming applicant.
 
 My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
 
@@ -414,7 +422,9 @@ Marc Dalzell Villalonga
 - **Apps Open:** Fall 2026
 - **Apply:** https://bbh.com/en-us/careers → search "2027 Private Banking Internship"
 
-**Contact — Reach out now, apply when posting goes live:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "Brown Brothers Harriman Boston Indiana University" then "BBH Boston [Big Ten school]" — email any IU/Big Ten alum first.**
+
+**Contact #1 — Financial analyst, Boston ⭐:**
 
 **Tommy Mack — Financial Analyst, BBH Boston**
 LinkedIn: https://www.linkedin.com/in/tommy-mack-29b109a
@@ -432,6 +442,8 @@ Best,
 Marc Dalzell Villalonga
 
 ---
+
+**Contact #2 — Northeastern co-op, peer-level ⭐:**
 
 **Jesse Kallins — Private Banking Co-op, BBH Boston**
 LinkedIn: https://www.linkedin.com/in/jesse-kallins
@@ -455,7 +467,9 @@ Marc Dalzell Villalonga
 - **Apps Open:** Fall 2026
 - **Apply:** https://cambridgeassociates.com/careers → search "Investment Analyst Program 2027"
 
-**Contact — Reach out now, apply when posting goes live:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "Cambridge Associates Boston Indiana University" — CA hires heavily from top universities. If you find an IU alum, email them before Aashna.**
+
+**Contact #1 — Big Ten (Illinois) ⭐ — SEND FIRST:**
 
 **Aashna Bombwal — Investment Analyst, Cambridge Associates ⭐**
 LinkedIn: https://www.linkedin.com/in/aashna-bombwal-a8156421b
@@ -473,6 +487,8 @@ Best,
 Marc Dalzell Villalonga
 
 ---
+
+**Contact #2 — Boston analyst ⭐:**
 
 **Maddie Abramson — Investment Analyst, Cambridge Associates**
 LinkedIn: https://www.linkedin.com/in/maddieabramson
@@ -497,7 +513,9 @@ Marc Dalzell Villalonga
 - **Apply:** https://wellington.com/en-us/careers → search "Business Associate Program 2027"
 - **Note:** Northeastern University co-op students get priority access — apply anyway through the main portal
 
-**Contact — Reach out now, apply October 2026:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "Wellington Management Boston Indiana University" then "Wellington Management Boston [Big Ten school]" — Wellington is one of the largest asset managers in Boston, IU/Big Ten alumni are very likely to be there.**
+
+**Contact #1 — Relationship Analyst, young associate ⭐:**
 
 **Bryan Valenciano — Relationship Analyst, Wellington Management**
 LinkedIn: https://www.linkedin.com/in/bryanvalenciano
@@ -521,9 +539,11 @@ Marc Dalzell Villalonga
 - **Season:** Summer 2027 | **Location:** Boston, MA
 - **Apps Open:** October–November 2026 — invitation-only, referral strongly recommended
 - **Apply:** https://franklintempletoncareers.com → search "Putnam Equity Associate Intern"
-- **Action:** Email Matt Doody FIRST before applying — a referral is essential for this role
+- **Action:** Email a contact FIRST before applying — a referral is essential for this role
 
-**Contact — Email before applying:**
+**⭐⭐ BEFORE SENDING: Search LinkedIn → "Putnam Investments Boston Indiana University" then "Franklin Templeton Boston [Big Ten school]" — if you find an IU/Big Ten alum, email them instead of Matt. A referral from a fellow Hoosier is the strongest possible way in.**
+
+**Contact #1 — Boston analyst, reach out before apps open ⭐:**
 
 **Matt Doody — Analyst, Putnam Investments / Franklin Templeton Boston**
 LinkedIn: https://www.linkedin.com/in/matt-doody-30bb454
