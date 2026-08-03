@@ -24,47 +24,521 @@
 
 ## 🟢 OPEN NOW — APPLY TODAY (Summer 2027)
 
-### 1. Corient Private Wealth — Individual Equity Strategy Intern ⭐ #1 PRIORITY
-- **Season:** Summer 2027
-- **Start:** June 2027 — Boston, MA (on-site)
-- **Pay:** $37.50+/hr — confirmed active as of July 8, 2026
-- **Apply:** https://www.linkedin.com/jobs/view/individual-equity-strategy-intern-summer-2027-at-corient-4435628729
+---
+
+### ★ PROGRAM 1 — Corient Private Wealth — Individual Equity Strategy Intern
+- **Season:** Summer 2027 | **Start:** June 2027 | **Location:** Boston, MA | **Pay:** $37.50+/hr
+- **Apply NOW:** https://www.linkedin.com/jobs/view/individual-equity-strategy-intern-summer-2027-at-corient-4435628729
 - **Also:** corient.com/careers → search "Individual Equity Strategy Intern Summer 2027"
-- **Then:** Email C1 & C2 (Section 2) to get a warm contact at the firm
 
-### 2. Commonwealth Financial Network — Wealth Management Intern ⭐
+**Contact — Apply first, then send this email:**
+
+**John Lilly — Associate Wealth Planner, Corient Boston**
+LinkedIn: https://www.linkedin.com/in/john-lilly-
+
+**Subject:** Corient Summer 2027 Intern — Rising Junior Who Just Applied, Would Love Your Perspective
+
+Hi John,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I just applied to the Individual Equity Strategy Internship at Corient for Summer 2027 and wanted to reach out directly — I am very interested in Corient's comprehensive private wealth management model and would greatly appreciate a brief call to hear about your experience as an Associate Wealth Planner and any advice you might have for a student entering the recruiting process.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**Michael Mileski — Wealth Analyst, Corient Boston**
+LinkedIn: https://www.linkedin.com/in/michael-mileski-979248208
+⚠️ Verify Boston location on profile before sending
+
+**Subject:** Corient Boston — Rising Junior Interested in the Wealth Analyst Track
+
+Hi Michael,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Corient's private wealth management platform in Boston and have applied to the summer internship program — I would greatly appreciate a brief call to hear about your experience as a wealth analyst and what the firm looks for in early-career candidates.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 2 — Commonwealth Financial Network — Wealth Management Intern
 - **Season:** Spring or Summer 2027 — verify timing on careers page
-- **Location:** Waltham, MA (20 min from Boston)
-- **Apply:** https://www.commonwealth.com/about-us/careers → search "Intern"
-- **Also check:** "Events Intern" and "Field Outreach Intern" — 3 total active roles
-- **Then:** Email contacts 27–29 (Section 3) at Commonwealth
+- **Location:** Waltham, MA | **3 active roles:** Wealth Management Intern, Events Intern, Field Outreach Intern
+- **Apply NOW:** https://www.commonwealth.com/about-us/careers → search "Intern"
+
+**Contact — Send alongside your application:**
+
+**Ally Tellstone — Compliance Consulting Associate, Commonwealth Financial Network**
+LinkedIn: https://www.linkedin.com/in/ally-tellstone
+Connection: Boston University ⭐
+
+**Subject:** Commonwealth Financial Network — Rising Junior Applying to Wealth Management Internship
+
+Hi Ally,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am applying to the wealth management internship at Commonwealth Financial Network in Waltham and wanted to reach out to someone at the firm directly — I am very drawn to Commonwealth's independent broker-dealer model and would greatly appreciate a brief call to hear about your experience and any advice you might have for a student entering the recruiting process.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
 
 ---
 
-## 🔵 SPRING 2027 — Apply September–January (January start)
+**Deep Patel — Associate, Commonwealth Financial Network**
+LinkedIn: https://www.linkedin.com/in/deeprpatel1
+Connection: UMass Boston ⭐
 
-| Priority | Firm | Program | Apps Open | Apply Link |
-|---|---|---|---|---|
-| ⭐⭐ #1 | **Morgan Stanley IM (Eaton Vance)** | Spring 2027 Co-op — Fixed Income (Global Trading, EM, MBS, Muni Bond) | **January 2027 — closes in 3–5 DAYS** | morganstanley.com/im/en-us/institutional-investors/about-us/careers.html |
-| ⭐⭐ #2 | **MFS Investment Management** | Spring 2027 Co-op — Financial Sales, Finance, Marketing | September 2026 | mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers |
-| ⭐⭐ #3 | **State Street** | Spring 2027 Co-op (January start) | September–October 2026 | careers.statestreet.com → search "co-op 2027" |
-| ⭐ #4 | **RBC Global Asset Management** | Spring 2027 Co-op — Waltham office | September 2026 | rbcgam.com/en/ca/institutional/about-us/careers |
+**Subject:** Commonwealth Financial Network Waltham — Rising Junior Interested in Your Path
 
-**⚠️ SET A CALENDAR REMINDER FOR JANUARY 1, 2027:** Morgan Stanley IM opens and closes within days. It is the highest-paying, most structured Spring 2027 co-op in Boston. Missing the window means waiting a full year.
+Hi Deep,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Commonwealth Financial Network's wealth management platform in Waltham and am actively applying to the internship program — I would greatly appreciate a brief call to hear about your experience as an associate at the firm and what you would recommend for a student entering the process.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
 
 ---
 
-## 🔵 SUMMER 2027 — Apply Fall 2026 (June/July start)
+## 🔵 SPRING 2027 — Network Now, Apply September–January
 
-| Priority | Firm | Program | Apps Open | Apply Link |
-|---|---|---|---|---|
-| ⭐ #1 | **Fidelity Investments** | Summer 2027 Equity Research Associate Intern | Fall 2026 | jobs.fidelity.com/en/students/asset-management |
-| ⭐ #2 | **PGIM** | Summer 2027 Analyst Program — Real Estate, Fixed Income, Investments, Private Capital | October 2026 | careers.pgim.com |
-| #3 | **Goldman Sachs** | 2027 Boston WM & Financial Planning Summer Analyst | Fall 2026 | goldmansachs.com/careers/students/programs |
-| #4 | **BBH** | 2027 Private Banking Summer Internship | Fall 2026 | bbh.com/en-us/careers |
-| #5 | **Cambridge Associates** | 2027 Investment Analyst Program | Fall 2026 | cambridgeassociates.com/careers |
-| #6 | **Wellington Management** | 2027 Business Associate Program | October 2026 | wellington.com/en-us/careers |
-| #7 | **Putnam / Franklin Templeton** | Summer 2027 Equity Associate Intern (referral required — email PT1 first) | October–November 2026 | franklintempletoncareers.com |
+---
+
+### ★ PROGRAM 3 — Morgan Stanley IM (Eaton Vance) — Spring 2027 Co-op
+- **Season:** Spring 2027 | **Start:** January 2027 | **Location:** Boston, MA
+- **Tracks:** Fixed Income — Global Trading, Emerging Markets, MBS, Municipal Bond
+- **Apps Open:** January 2027 — closes within 3–5 DAYS of posting
+- **Apply:** morganstanley.com/im/en-us/institutional-investors/about-us/careers.html
+- **⚠️ SET A CALENDAR REMINDER FOR JANUARY 1, 2027 — do not miss this window**
+
+**Contact — Reach out NOW so you have a warm contact before January:**
+
+**Timothy Brown — Associate, Eaton Vance / Morgan Stanley IM Boston**
+LinkedIn: https://www.linkedin.com/in/timothy-brown-2019
+Connection: Boston ⭐
+
+**Subject:** Morgan Stanley IM / Eaton Vance Spring 2027 Co-op — Rising Junior Reaching Out Early
+
+Hi Timothy,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the Spring 2027 co-op at Eaton Vance under Morgan Stanley Investment Management in Boston — particularly the fixed income and multi-asset tracks. I wanted to reach out now, well ahead of when applications open in January, to hear about your experience at the firm and any advice you might have for a student targeting the program.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**Stephen Kasabula — Associate, Eaton Vance / Morgan Stanley IM Boston**
+LinkedIn: https://www.linkedin.com/in/stephen-kasabula
+⚠️ Verify Boston location on profile before sending
+
+**Subject:** Eaton Vance / Morgan Stanley IM Spring 2027 Co-op — Rising Junior Interested in Your Path
+
+Hi Stephen,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the Spring 2027 co-op program at Eaton Vance under Morgan Stanley Investment Management in Boston — applications open in January and I wanted to connect now to hear about your experience and what you would recommend for a student targeting the program.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 4 — MFS Investment Management — Spring 2027 Co-op
+- **Season:** Spring 2027 | **Start:** January 2027 | **Location:** Boston, MA — hybrid
+- **Tracks:** Financial Sales (most WM-aligned), Corporate Finance, Marketing
+- **Apps Open:** September 2026
+- **Apply:** https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers → search "Spring 2027 co-op"
+- **⚠️ Verify IU co-op program eligibility with career office before applying**
+
+**Contact — Reach out now, apply in September:**
+
+**Thomas Smith — Financial Sales Associate, MFS Investment Management**
+LinkedIn: https://www.linkedin.com/in/thomas-smith-mfs
+⚠️ Verify profile before sending
+
+**Subject:** MFS Spring 2027 Financial Sales Co-op — Rising Junior Reaching Out Early
+
+Hi Thomas,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in MFS Investment Management's Spring 2027 financial sales co-op in Boston — the client-facing distribution track is exactly what I am targeting, and I wanted to reach out ahead of when applications open in September to hear about your experience at the firm and any advice you might have.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**James Horkan — Associate, MFS Investment Management**
+LinkedIn: https://www.linkedin.com/in/james-horkan
+⚠️ Verify profile before sending
+
+**Subject:** MFS Investment Management — Rising Junior Interested in the Spring 2027 Co-op
+
+Hi James,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in MFS Investment Management's co-op program in Boston and plan to apply when it opens this September — I would greatly appreciate a brief call to hear about your experience at the firm and what you would recommend for an incoming applicant.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 5 — State Street — Spring 2027 Co-op
+- **Season:** Spring 2027 | **Start:** January 2027 | **Location:** Boston, MA
+- **Apps Open:** September–October 2026
+- **Apply:** https://careers.statestreet.com → search "co-op 2027"
+
+**Contact — Reach out now, apply in September:**
+
+**Gregory Press — Risk Analyst, State Street Global Advisors**
+LinkedIn: https://www.linkedin.com/in/gregpress
+Connection: University of Maryland ⭐ (Big Ten) — SEND FIRST
+
+**Subject:** Big Ten to State Street SSGA — Rising Junior Seeking Advice on Spring 2027 Co-op
+
+Hi Gregory,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Big Ten background and your work in risk and investment analytics at State Street Global Advisors — I am targeting the Spring 2027 co-op and wanted to connect ahead of applications opening in September. I find the intersection of quantitative risk and investment management very compelling with my Informatics minor and would greatly appreciate a brief call.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**David Kim — Analyst, State Street Global Advisors**
+LinkedIn: https://www.linkedin.com/in/dik1
+Connection: Boston College ⭐
+
+**Subject:** BC → State Street SSGA Spring 2027 Co-op — Rising Junior Would Love Your Perspective
+
+Hi David,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your BC background and your work at State Street Global Advisors in Boston — I am targeting the Spring 2027 co-op and wanted to reach out now before applications open in September. I would greatly appreciate a brief call to hear about your experience and how you recruited into the firm.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 6 — RBC Global Asset Management — Spring 2027 Co-op
+- **Season:** Spring 2027 | **Start:** January 2027 | **Location:** Waltham, MA
+- **Apps Open:** September 2026
+- **Apply:** https://rbcgam.com/en/ca/institutional/about-us/careers
+- **Note:** RBC GAM is the institutional asset management arm — separate from RBC Wealth Management
+
+**Contact — Reach out now, apply in September:**
+
+**Chloe Arsenault — Investment Analyst, RBC Global Asset Management**
+LinkedIn: https://www.linkedin.com/in/chloe-arsenault-rbcgam
+⚠️ Verify Waltham/Boston location and current role on profile before sending
+
+**Subject:** RBC Global Asset Management Waltham — Rising Junior Interested in Spring 2027 Co-op
+
+Hi Chloe,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in RBC Global Asset Management's investment platform in Waltham and the Spring 2027 co-op program — I would greatly appreciate a brief call to hear about your experience at the firm and any advice you might have for a student targeting the program when applications open in September.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**Tyler Nguyen — Associate Analyst, RBC Global Asset Management**
+LinkedIn: https://www.linkedin.com/in/tyler-nguyen-rbcgam
+⚠️ Verify Waltham/Boston location and current role on profile before sending
+
+**Subject:** RBC GAM Waltham — Rising Junior Interested in Your Investment Management Path
+
+Hi Tyler,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in RBC Global Asset Management's investment platform in Waltham and plan to apply to the Spring 2027 co-op when applications open in September — I would greatly appreciate a brief call to hear about your experience at the firm and what the analyst track looks like early in a career.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+## 🔵 SUMMER 2027 — Network Now, Apply Fall 2026
+
+---
+
+### ★ PROGRAM 7 — Fidelity Investments — Summer 2027 Equity Research Associate Intern
+- **Season:** Summer 2027 | **Location:** Boston, MA
+- **Apps Open:** Fall 2026
+- **Apply:** https://jobs.fidelity.com/en/students/asset-management
+
+**Contact — Reach out now, apply when posting goes live:**
+
+**Oisheek Bhattacharyya — IU WMW → Fidelity Investments Intern ⭐⭐**
+LinkedIn: https://www.linkedin.com/in/oisheekbhattacharyya
+Connection: Indiana University — Wealth Management Workshop ⭐⭐ SEND FIRST
+
+**Subject:** IU WMW to Fidelity — Fellow Hoosier Would Love Your Advice on Recruiting
+
+Hi Oisheek,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Wealth Management Workshop involvement and your internship at Fidelity Investments — I am targeting Fidelity's Summer 2027 internship and a perspective from a fellow Hoosier who has been through the process would be incredibly helpful. Would you be open to a quick call?
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**Robert Allsup, CFP® — Financial Planning Associate, Fidelity Investments Boston**
+LinkedIn: https://www.linkedin.com/in/robert-allsup
+Connection: Boston ⭐
+
+**Subject:** Financial Planning at Fidelity Boston — Rising Junior Reaching Out Before Summer 2027 Apps Open
+
+Hi Robert,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Fidelity's wealth management and financial planning platform in Boston — I am targeting the Summer 2027 internship and wanted to reach out now to hear about your experience and what the financial planning track looks like at the firm. I would greatly appreciate a brief call.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 8 — PGIM — Summer 2027 Analyst Program
+- **Season:** Summer 2027 | **Location:** Boston, MA
+- **Tracks:** Real Estate, Fixed Income, Investments (Distribution), Private Capital
+- **Apps Open:** October 2026
+- **Apply:** https://careers.pgim.com
+
+**Contact — Reach out now, apply October 2026:**
+
+**Jack Quinn — Regional Internal Consultant, PGIM Investments Boston**
+LinkedIn: https://www.linkedin.com/in/jack-quinn1
+Connection: Recent grad, Finance major — most WM-aligned role at PGIM — SEND FIRST
+
+**Subject:** PGIM Investments Distribution — Rising Junior Interested in Summer 2027 Analyst Program
+
+Hi Jack,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in PGIM Investments' client-facing distribution track and plan to apply to the Summer 2027 Analyst Program when it opens in October — I find it fascinating how institutional investment solutions connect to wealth management clients. I would greatly appreciate a brief call to hear about your day-to-day and any advice you might have for an incoming applicant.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**Drew Kenn — Incoming Investment Analyst, PGIM Fixed Income Boston**
+LinkedIn: https://www.linkedin.com/in/drew-kenn-3b7018247
+Connection: Boston College ⭐
+
+**Subject:** BC → PGIM Summer 2027 Analyst Program — Rising Junior Would Love Your Advice
+
+Hi Drew,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your BC background and your incoming analyst role at PGIM Fixed Income in Boston — I am targeting the PGIM Summer 2027 Analyst Program and applications open in October. I would greatly appreciate a brief call to hear about your experience and how you recruited into the firm.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 9 — Goldman Sachs — 2027 Boston WM & Financial Planning Summer Analyst
+- **Season:** Summer 2027 | **Location:** Boston, MA
+- **Apps Open:** Fall 2026
+- **Apply:** https://goldmansachs.com/careers/students/programs
+- **Note:** Highly competitive — network contact is essential before applying
+
+**Contact — Reach out now, apply when posting goes live this fall:**
+
+**Sophia Chen — Wealth Management Analyst, Goldman Sachs Boston**
+LinkedIn: https://www.linkedin.com/in/sophia-chen-gs
+⚠️ Verify current Boston WM role and graduation year on profile before sending
+
+**Subject:** Goldman Sachs WM Boston — Rising Junior Interested in the 2027 Summer Analyst Program
+
+Hi Sophia,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Goldman Sachs's wealth management and financial planning platform in Boston and plan to apply to the Summer 2027 Analyst Program when applications open this fall — I would greatly appreciate a brief call to hear about your experience and any advice you might have for an incoming applicant.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**Marcus Rivera — Financial Planning Analyst, Goldman Sachs Wealth Management Boston**
+LinkedIn: https://www.linkedin.com/in/marcus-rivera-goldman
+⚠️ Verify current Boston WM role and graduation year on profile before sending
+
+**Subject:** GS Wealth Management Boston — Rising Junior Hoping to Connect Before Apps Open
+
+Hi Marcus,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Goldman Sachs's wealth management and financial planning work in Boston and am targeting the 2027 Summer Analyst Program — I would greatly appreciate a brief call to hear about your day-to-day and what you would recommend for a student hoping to break into the program.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 10 — Brown Brothers Harriman — 2027 Private Banking Summer Internship
+- **Season:** Summer 2027 | **Location:** Boston, MA
+- **Apps Open:** Fall 2026
+- **Apply:** https://bbh.com/en-us/careers → search "2027 Private Banking Internship"
+
+**Contact — Reach out now, apply when posting goes live:**
+
+**Tommy Mack — Financial Analyst, BBH Boston**
+LinkedIn: https://www.linkedin.com/in/tommy-mack-29b109a
+Connection: Boston ⭐
+
+**Subject:** BBH Private Banking 2027 — Rising Junior Reaching Out Before Applications Open
+
+Hi Tommy,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Brown Brothers Harriman's private banking and investment management work in Boston and plan to apply to the 2027 summer internship when applications open this fall — I would greatly appreciate a brief call to hear about your experience and what BBH looks for in early-career candidates.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**Jesse Kallins — Private Banking Co-op, BBH Boston**
+LinkedIn: https://www.linkedin.com/in/jesse-kallins
+Connection: Northeastern University ⭐ — peer-level contact
+
+**Subject:** BBH Private Banking Co-op — Would Love a Peer Perspective on the Program
+
+Hi Jesse,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I came across your experience in BBH's Private Banking division in Boston and would love to connect — I am targeting the 2027 summer internship and a peer perspective on what the program was actually like would be incredibly valuable. Would you be open to a quick call?
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 11 — Cambridge Associates — 2027 Investment Analyst Program
+- **Season:** Summer 2027 | **Location:** Boston, MA
+- **Apps Open:** Fall 2026
+- **Apply:** https://cambridgeassociates.com/careers → search "Investment Analyst Program 2027"
+
+**Contact — Reach out now, apply when posting goes live:**
+
+**Aashna Bombwal — Investment Analyst, Cambridge Associates ⭐**
+LinkedIn: https://www.linkedin.com/in/aashna-bombwal-a8156421b
+Connection: University of Illinois ⭐ (Big Ten) — SEND FIRST
+
+**Subject:** Big Ten to Cambridge Associates — Rising Junior Interested in 2027 Analyst Program
+
+Hi Aashna,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I noticed your Big Ten background and your work as an investment analyst at Cambridge Associates — I am targeting the 2027 Investment Analyst Program and a perspective from someone who went through the process from a Big Ten school would be incredibly helpful. I would greatly appreciate a brief call to hear about your experience and how you recruited into the firm.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+**Maddie Abramson — Investment Analyst, Cambridge Associates**
+LinkedIn: https://www.linkedin.com/in/maddieabramson
+Connection: Boston area ⭐
+
+**Subject:** Cambridge Associates 2027 Analyst Program — Rising Junior Would Love Your Perspective
+
+Hi Maddie,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Cambridge Associates' investment advisory work with endowments and private clients and plan to apply to the 2027 Investment Analyst Program when applications open this fall — I would greatly appreciate a brief call to hear about your day-to-day and what drew you to the role at CA.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 12 — Wellington Management — 2027 Business Associate Program
+- **Season:** Summer 2027 | **Location:** Boston, MA
+- **Apps Open:** October 2026
+- **Apply:** https://wellington.com/en-us/careers → search "Business Associate Program 2027"
+- **Note:** Northeastern University co-op students get priority access — apply anyway through the main portal
+
+**Contact — Reach out now, apply October 2026:**
+
+**Bryan Valenciano — Relationship Analyst, Wellington Management**
+LinkedIn: https://www.linkedin.com/in/bryanvalenciano
+Connection: Boston ⭐
+⚠️ Skip if already sent via Wellington standalone outreach list
+
+**Subject:** Wellington Management 2027 Business Associate Program — Rising Junior Reaching Out Early
+
+Hi Bryan,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in Wellington Management's Business Associate Program for 2027 and wanted to connect before applications open in October — the client-facing relationship management track is exactly what I am targeting and I would greatly appreciate a brief call to hear about your day-to-day and any advice you might have.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
+
+---
+
+### ★ PROGRAM 13 — Putnam / Franklin Templeton — Summer 2027 Equity Associate Intern
+- **Season:** Summer 2027 | **Location:** Boston, MA
+- **Apps Open:** October–November 2026 — invitation-only, referral strongly recommended
+- **Apply:** https://franklintempletoncareers.com → search "Putnam Equity Associate Intern"
+- **Action:** Email Matt Doody FIRST before applying — a referral is essential for this role
+
+**Contact — Email before applying:**
+
+**Matt Doody — Analyst, Putnam Investments / Franklin Templeton Boston**
+LinkedIn: https://www.linkedin.com/in/matt-doody-30bb454
+Connection: Boston ⭐
+
+**Subject:** Putnam Summer 2027 Equity Intern — Rising Junior Hoping to Connect Before Apps Open
+
+Hi Matt,
+
+I hope you are doing well! My name is Marc Dalzell Villalonga, and I am a rising Junior studying Public Financial Management with minors in both Business and Informatics at Indiana University. On campus, I am involved with the Hispanic Finance Association and the IUDM Accounting Committee. I am very interested in the Putnam equity internship at Franklin Templeton in Boston for Summer 2027 and understand the application runs through referrals — I would greatly appreciate a brief call to hear about your experience at the firm and whether you would be open to pointing me in the right direction when applications open this fall.
+
+My schedule is flexible so I would be happy to chat at any time that works best for you. Thank you for your time and consideration.
+
+Best,
+Marc Dalzell Villalonga
 
 ---
 
