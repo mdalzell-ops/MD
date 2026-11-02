@@ -1,0 +1,738 @@
+<title>V202 Midterm 2 Prep</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: graph-paper study notebook — sticky tab bar, one reading column, problems set like worked exam answers */
+:root{
+  --bg:#f5f6f2; --paper:#ffffff; --grid:#e3e8e4; --ink:#1c2530; --muted:#5b6672;
+  --line:#d5dbd8; --accent:#2b5c8a; --accent-soft:#e3edf6; --mark:#f6e27a;
+  --good:#22744a; --good-soft:#e2f2e8; --bad:#b0342a; --bad-soft:#f8e4e1;
+  --demand:#1c2530; --supply:#2b5c8a; --soc:#b0342a; --fill1:#cfe0f0; --fill2:#f3c9c2;
+  --f-display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --f-body:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-mono:"JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#12171c; --paper:#1a2027; --grid:#1f262e; --ink:#e4e8ec; --muted:#9aa5b1;
+  --line:#2e3740; --accent:#7fb0de; --accent-soft:#1e2d3c; --mark:#5c5220;
+  --good:#6fcf97; --good-soft:#173226; --bad:#f08a7e; --bad-soft:#3a1f1c;
+  --demand:#e4e8ec; --supply:#7fb0de; --soc:#f08a7e; --fill1:#24405a; --fill2:#4a2a27; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12171c; --paper:#1a2027; --grid:#1f262e; --ink:#e4e8ec; --muted:#9aa5b1;
+  --line:#2e3740; --accent:#7fb0de; --accent-soft:#1e2d3c; --mark:#5c5220;
+  --good:#6fcf97; --good-soft:#173226; --bad:#f08a7e; --bad-soft:#3a1f1c;
+  --demand:#e4e8ec; --supply:#7fb0de; --soc:#f08a7e; --fill1:#24405a; --fill2:#4a2a27; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.6;
+  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:28px 28px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+.wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3,h4{font-family:var(--f-display);line-height:1.2;text-wrap:balance;margin:0}
+h1{font-size:clamp(1.9rem,5vw,2.8rem);font-weight:700;letter-spacing:-.01em}
+h2{font-size:1.6rem;font-weight:700}
+h3{font-size:1.2rem;font-weight:700}
+p{margin:0}
+.mono,code{font-family:var(--f-mono);font-size:.88em}
+.eyebrow{font-family:var(--f-display);font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:500}
+
+header.top{background:var(--paper);border-bottom:1px solid var(--line)}
+header.top .wrap{padding-block:28px 22px;display:grid;gap:14px}
+.facts{display:flex;flex-wrap:wrap;gap:8px}
+.fact{font-family:var(--f-mono);font-size:.8rem;border:1px solid var(--line);border-radius:4px;padding:3px 9px;background:var(--bg)}
+.fact b{color:var(--accent)}
+
+nav.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:1px solid var(--line)}
+nav.tabs .wrap{display:flex;gap:4px;overflow-x:auto;padding-block:6px}
+nav.tabs a{font-family:var(--f-display);font-weight:500;font-size:.95rem;color:var(--muted);text-decoration:none;padding:7px 12px;border-radius:6px;white-space:nowrap}
+nav.tabs a:hover{color:var(--ink);background:var(--bg)}
+nav.tabs a[aria-current="page"]{color:var(--accent);background:var(--accent-soft)}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+main .wrap{padding-block:28px 80px}
+section.view{display:grid;gap:22px}
+.intro{display:grid;gap:8px}
+.intro p{color:var(--muted);max-width:65ch}
+
+.lesson{background:var(--paper);border:1px solid var(--line);border-radius:8px}
+.lesson>summary{list-style:none;cursor:pointer;padding:16px 18px;display:flex;gap:14px;align-items:baseline}
+.lesson>summary::-webkit-details-marker{display:none}
+.lesson>summary .num{font-family:var(--f-mono);color:var(--accent);font-weight:600;min-width:2ch}
+.lesson>summary .sub{display:block;font-family:var(--f-body);font-size:.92rem;color:var(--muted);font-weight:400;margin-top:2px}
+.lesson>summary::after{content:"+";margin-left:auto;font-family:var(--f-mono);color:var(--muted)}
+.lesson[open]>summary::after{content:"−"}
+.lesson .body{padding:0 18px 20px 18px;display:grid;gap:14px;border-top:1px solid var(--line);padding-top:16px}
+.body p,.body li{max-width:68ch}
+.body ul,.body ol{margin:0;padding-left:1.3em;display:grid;gap:4px}
+.big{background:var(--mark);padding:1px 4px;border-radius:2px}
+.callout{border-left:3px solid var(--accent);background:var(--accent-soft);padding:10px 14px;border-radius:0 6px 6px 0}
+.callout.trap{border-left-color:var(--bad);background:var(--bad-soft)}
+.callout .eyebrow{display:block;margin-bottom:2px}
+.recipe{counter-reset:s;list-style:none;padding:0!important}
+.recipe li{counter-increment:s;padding-left:2.2em;position:relative}
+.recipe li::before{content:counter(s);position:absolute;left:0;top:.1em;width:1.5em;height:1.5em;border-radius:50%;background:var(--accent);color:var(--paper);font-family:var(--f-mono);font-size:.8em;display:grid;place-items:center}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{border:1px solid var(--line);padding:7px 10px;text-align:left;vertical-align:top}
+th{font-family:var(--f-display);font-weight:500;background:var(--bg)}
+.fig{overflow-x:auto}
+.fig svg{display:block;max-width:420px;width:100%;height:auto}
+.fig figcaption{font-size:.85rem;color:var(--muted)}
+figure{margin:0}
+
+.formula{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:12px}
+.fcard{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:14px 16px;display:grid;gap:6px;align-content:start}
+.fcard h3{font-size:1rem}
+.fcard p{font-family:var(--f-mono);font-size:.82rem;line-height:1.55}
+
+.toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.toolbar .spacer{flex:1}
+button{font-family:var(--f-display);font-weight:500;font-size:.95rem;border:1px solid var(--accent);background:var(--accent);color:var(--paper);border-radius:6px;padding:8px 14px;cursor:pointer}
+button.ghost{background:transparent;color:var(--accent)}
+button:disabled{opacity:.5;cursor:not-allowed}
+.timer{font-family:var(--f-mono);font-size:1.1rem;font-weight:600;font-variant-numeric:tabular-nums}
+.score{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+select{font:inherit;font-size:.9rem;padding:6px 8px;border-radius:6px;border:1px solid var(--line);background:var(--bg);color:var(--ink)}
+
+.q{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:16px 18px;display:grid;gap:10px}
+.q .meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.chip{font-family:var(--f-mono);font-size:.72rem;padding:2px 8px;border-radius:99px;border:1px solid var(--line);color:var(--muted)}
+.chip.topic{color:var(--accent);border-color:var(--accent)}
+.q .stem{font-weight:600}
+.q .opts{display:grid;gap:6px}
+.opt{display:flex;gap:10px;text-align:left;width:100%;background:var(--bg);color:var(--ink);border:1px solid var(--line);font-family:var(--f-body);font-weight:400;font-size:.96rem;padding:8px 12px}
+.opt .L{font-family:var(--f-mono);font-weight:600;color:var(--muted)}
+.opt:hover:not(:disabled){border-color:var(--accent)}
+.opt.picked{border-color:var(--accent);background:var(--accent-soft)}
+.opt.right{border-color:var(--good);background:var(--good-soft)}
+.opt.wrong{border-color:var(--bad);background:var(--bad-soft)}
+.opt:disabled{opacity:1;cursor:default}
+.why{border-top:1px dashed var(--line);padding-top:10px;font-size:.95rem}
+.why b.ok{color:var(--good)} .why b.no{color:var(--bad)}
+.pgrid{display:grid;gap:12px}
+
+.sa{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:16px 18px;display:grid;gap:10px}
+.sa details{border-top:1px dashed var(--line);padding-top:10px}
+.sa summary{cursor:pointer;font-family:var(--f-display);font-weight:500;color:var(--accent)}
+.steps{display:grid;gap:6px;margin-top:10px}
+.steps p{font-size:.96rem}
+.ans{font-family:var(--f-mono);font-size:.88rem;background:var(--good-soft);border-radius:4px;padding:2px 6px}
+.plan{display:grid;gap:12px}
+.day{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:16px 18px;display:grid;gap:8px}
+.day h3 span{font-family:var(--f-mono);font-size:.8rem;color:var(--muted);font-weight:400;margin-left:8px}
+.result{background:var(--paper);border:2px solid var(--accent);border-radius:8px;padding:16px 18px;display:grid;gap:8px}
+@media (prefers-reduced-motion:no-preference){.opt,button{transition:background .12s,border-color .12s}}
+</style>
+
+<header class="top"><div class="wrap">
+  <span class="eyebrow">SPEA V202 · Contemporary Economic Issues · Midterm Exam 2</span>
+  <h1>Midterm 2, from zero</h1>
+  <div class="facts">
+    <span class="fact"><b>Wed, Nov 4</b> · usual class time & room</span>
+    <span class="fact"><b>60 min</b></span>
+    <span class="fact"><b>25</b> multiple choice + <b>5</b> short answer = <b>30</b></span>
+    <span class="fact">Closed book · on paper · bubble sheet</span>
+    <span class="fact">Simple calculator only (no phone)</span>
+    <span class="fact">Bring a pencil</span>
+  </div>
+</div></header>
+
+<nav class="tabs" aria-label="Sections"><div class="wrap">
+  <a href="#learn">1 · Learn</a>
+  <a href="#formulas">2 · Cheat sheet</a>
+  <a href="#written">3 · Short answers</a>
+  <a href="#mock">4 · Mock exam (30)</a>
+  <a href="#bank">5 · Practice bank</a>
+  <a href="#plan">Game plan</a>
+</div></nav>
+
+<main><div class="wrap">
+
+<!-- ===================== LEARN ===================== -->
+<section class="view" id="v-learn">
+  <div class="intro">
+    <h2>Learn it from the ground up</h2>
+    <p>Eleven short lessons in the order the ideas build on each other. Each one says what the idea is in plain words, gives you a recipe for the math, and warns you about the trap the exam sets. Open them in order the first time.</p>
+  </div>
+
+  <details class="lesson" open>
+    <summary><span class="num">0</span><h3>The toolkit you need for everything else<span class="sub">Supply, demand, equilibrium, surplus, triangles</span></h3></summary>
+    <div class="body">
+      <p><b>Demand</b> is a list of how much people want to buy at each price. Higher price → they buy less, so the line slopes <b>down</b>. <b>Supply</b> is how much sellers want to sell at each price. Higher price → they sell more, so it slopes <b>up</b>.</p>
+      <p><b>Equilibrium</b> is where the two lines cross: the price at which the amount people want to buy equals the amount sellers want to sell.</p>
+      <ol class="recipe">
+        <li>If both equations are written <code>Q = …</code>, set them equal: <code>Qd = Qs</code>, solve for P, then plug P back in to get Q.</li>
+        <li>If both are written <code>P = …</code>, set the two right-hand sides equal, solve for Q, then plug Q back in to get P.</li>
+      </ol>
+      <div class="callout"><span class="eyebrow">Example</span>Qd = 120 − 2P and Qs = 3P − 30. Set equal: 120 − 2P = 3P − 30 → 150 = 5P → <span class="big">P = 30</span>. Then Q = 120 − 60 = <span class="big">60</span>.</div>
+      <p><b>Surplus</b> means "the extra value people get":</p>
+      <ul>
+        <li><b>Consumer surplus (CS)</b>: the area <i>below</i> the demand curve and <i>above</i> the price. Buyers would have paid more than they did.</li>
+        <li><b>Producer surplus (PS)</b>: the area <i>above</i> the supply (or MC) curve and <i>below</i> the price.</li>
+        <li><b>Deadweight loss (DWL)</b>: value that disappears because some worthwhile trades stop happening. On a graph it is almost always a <b>triangle</b>.</li>
+      </ul>
+      <div class="callout"><span class="eyebrow">The only geometry you need</span>Triangle = ½ × base × height. Rectangle = base × height. Most exam math comes down to these two.</div>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">1</span><h3>Kinds of taxes<span class="sub">Payroll vs income, sales vs excise, property vs estate, progressive vs regressive</span></h3></summary>
+    <div class="body">
+      <p><b>Why governments tax:</b> to pay for government itself, to provide goods and services, for law enforcement, to redistribute wealth, and to <b>change behavior</b>. A tax changes prices, so people buy less of the taxed thing.</p>
+      <div class="tbl"><table>
+        <tr><th></th><th>Payroll tax</th><th>Individual income tax</th></tr>
+        <tr><td>Taxes what</td><td>Wages and salaries only</td><td>All income: wages, investments, interest, business profit</td></tr>
+        <tr><td>Pays for</td><td>Specific social insurance (Social Security, Medicare)</td><td>General government (defense, education…)</td></tr>
+        <tr><td>Who pays</td><td><b>Shared</b>: worker's part withheld, employer pays a matching amount</td><td>The worker alone. Employer only withholds it.</td></tr>
+        <tr><td>Level</td><td>Federal</td><td>Federal (plus states)</td></tr>
+      </table></div>
+      <div class="tbl"><table>
+        <tr><th></th><th>General sales tax</th><th>Excise tax</th></tr>
+        <tr><td>Scope</td><td>Broad: most retail goods and services</td><td>Targeted: tobacco, alcohol, gas, luxuries ("sin" or environmental tax)</td></tr>
+        <tr><td>Purpose</td><td>General revenue for state and local government</td><td>Revenue <b>and</b> discouraging consumption</td></tr>
+        <tr><td>Visibility</td><td>Separate line on the receipt</td><td>Usually built into the price</td></tr>
+        <tr><td>Level</td><td>State and local. <b>The U.S. has no national sales tax.</b></td><td>Federal, state, or local</td></tr>
+      </table></div>
+      <div class="tbl"><table>
+        <tr><th></th><th>Property tax</th><th>Estate tax</th></tr>
+        <tr><td>Taxes what</td><td>Assessed value of real property, every year</td><td>Net value of a dead person's estate, <b>once</b></td></tr>
+        <tr><td>Purpose</td><td>Local services (schools, roads)</td><td>Redistributing wealth, regulating transfers</td></tr>
+        <tr><td>Levied by</td><td><b>Local</b> (counties, cities, school districts)</td><td>Federal and some states</td></tr>
+      </table></div>
+      <p><b>Two ways to structure a tax.</b> An <b>ad valorem</b> tax is a <i>percentage</i> of price, like Indiana's 7% sales tax or property tax. A <b>per-unit</b> tax is a <i>fixed dollar amount</i> per item, like excise taxes ($1 per pack of cigarettes, cents per gallon of gas).</p>
+      <p><b>Fairness.</b> The key number is the <span class="big">effective rate = tax paid ÷ total income</span>.</p>
+      <ul>
+        <li><b>Progressive</b>: the effective rate rises as income rises (income tax, estate tax).</li>
+        <li><b>Regressive</b>: the effective rate falls as income rises (sales, excise, VAT). Poorer people spend a bigger share of their income.</li>
+        <li><b>Proportional</b>: everyone pays the same share of income.</li>
+      </ul>
+      <div class="callout"><span class="eyebrow">Example: brackets</span>10% on the first $20,000 and 30% above that. On $50,000: 0.10 × 20,000 = 2,000, plus 0.30 × 30,000 = 9,000, so the tax is <span class="big">$11,000</span>. The rate goes up as income goes up, so the system is progressive. Only the dollars <i>above</i> $20k get 30%.</div>
+      <div class="callout trap"><span class="eyebrow">Exam trap</span>A 5% sales tax has the same sticker rate for everyone, but it is still <b>regressive</b>. Compare tax to <i>income</i>. $20k household: 5% × 15,000 = $750, or 3.75% of income. $100k household: 5% × 40,000 = $2,000, or 2% of income.</div>
+      <p><b>Tax credit vs tax deduction.</b> A <b>credit</b> cuts your tax bill dollar for dollar (EITC, Child Tax Credit, Adoption Credit). A <b>deduction</b> lowers the income that gets taxed (student loan interest, medical expenses). Hint: if the name has "credit" in it, it's a credit.</p>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">2</span><h3>Who really pays a tax, and how much is wasted<span class="sub">Tax incidence, tax revenue, deadweight loss, elasticity, Laffer curve</span></h3></summary>
+    <div class="body">
+      <p>A per-unit tax drives a <b>wedge</b> between what the buyer pays (<b>Pb</b>) and what the seller keeps (<b>Ps</b>): <span class="big">Pb = Ps + t</span>. Fewer units get traded.</p>
+      <figure class="fig">
+        <svg viewBox="0 0 330 240" role="img" aria-label="Tax wedge diagram: revenue rectangle and deadweight loss triangle">
+          <rect x="40" y="90" width="83.3" height="50" fill="var(--fill1)"/>
+          <polygon points="123.3,90 123.3,140 161.2,117.3" fill="var(--fill2)"/>
+          <line x1="40" y1="20" x2="40" y2="210" stroke="var(--muted)" stroke-width="1.5"/>
+          <line x1="40" y1="210" x2="310" y2="210" stroke="var(--muted)" stroke-width="1.5"/>
+          <line x1="40" y1="30" x2="290" y2="210" stroke="var(--demand)" stroke-width="2.5"/>
+          <line x1="40" y1="190" x2="290" y2="40" stroke="var(--supply)" stroke-width="2.5"/>
+          <line x1="123.3" y1="90" x2="123.3" y2="210" stroke="var(--muted)" stroke-dasharray="3 3"/>
+          <line x1="161.2" y1="117.3" x2="161.2" y2="210" stroke="var(--muted)" stroke-dasharray="3 3"/>
+          <text x="294" y="206" font-size="12" fill="var(--demand)" font-family="var(--f-mono)">D</text>
+          <text x="294" y="44" font-size="12" fill="var(--supply)" font-family="var(--f-mono)">S</text>
+          <text x="4" y="94" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">Pb</text>
+          <text x="4" y="144" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">Ps</text>
+          <text x="56" y="120" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">Revenue</text>
+          <text x="165" y="104" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">DWL</text>
+          <text x="113" y="226" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">Qt</text>
+          <text x="155" y="226" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">Q*</text>
+          <text x="290" y="226" font-size="11" fill="var(--muted)" font-family="var(--f-mono)">Q</text>
+          <text x="22" y="22" font-size="11" fill="var(--muted)" font-family="var(--f-mono)">P</text>
+        </svg>
+        <figcaption>Revenue = the blue rectangle (t × Qt). DWL = the red triangle, ½ × t × (Q* − Qt).</figcaption>
+      </figure>
+      <ol class="recipe">
+        <li>Find the no-tax equilibrium (P*, Q*).</li>
+        <li>Write <code>Pb = Ps + t</code>. Plug Pb into demand and Ps into supply, then set them equal.</li>
+        <li>Solve for Ps, then Pb = Ps + t, then the new quantity Qt.</li>
+        <li><b>Revenue</b> = t × Qt. <b>DWL</b> = ½ × t × (Q* − Qt).</li>
+      </ol>
+      <div class="callout"><span class="eyebrow">Worked: Vodka, $5 tax</span>No tax: P = 30, Q = 60. With the tax: 120 − 2Pb = 3(Pb − 5) − 30 → 120 − 2Pb = 3Pb − 45 → Pb = 33, Ps = 28, Qt = 120 − 66 = 54.<br>Revenue = 5 × 54 = <span class="big">$270</span>. DWL = ½ × 5 × (60 − 54) = <span class="big">$15</span>.</div>
+      <p><b>It doesn't matter who legally pays.</b> Taxing the seller or the buyer gives the same Pb, Ps, quantity, revenue, and DWL. Who writes the check to the government (<i>statutory incidence</i>) differs from who actually bears the cost (<i>economic incidence</i>).</p>
+      <p><b>The burden falls on whoever is less flexible (more inelastic).</b></p>
+      <ul>
+        <li>Inelastic demand (people <i>must</i> buy it, like insulin) → <b>buyers</b> bear most of the tax.</li>
+        <li>Inelastic supply → <b>sellers</b> bear most of the tax.</li>
+        <li>When demand or supply is inelastic, quantity barely drops, so the <b>DWL is small</b>.</li>
+      </ul>
+      <p><b>Laffer curve:</b> start at a 0% tax and revenue rises as the rate goes up. Past some rate, quantity traded shrinks so much that revenue <i>falls</i>. At a 100% rate nobody trades and revenue is 0.</p>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">3</span><h3>Externalities<span class="sub">Spillover costs and benefits, the Pigouvian tax, the Coase theorem, cap-and-trade</span></h3></summary>
+    <div class="body">
+      <p>An <b>externality</b> is a cost or benefit that lands on a <i>bystander</i> who isn't part of the deal. The market ignores it, so it gets the quantity wrong.</p>
+      <div class="tbl"><table>
+        <tr><th></th><th>Negative (harms others)</th><th>Positive (helps others)</th></tr>
+        <tr><td>From production</td><td>Factory smoke, river pollution</td><td>Beekeeper's bees pollinate the neighbor's orchard</td></tr>
+        <tr><td>From consumption</td><td>Secondhand smoke, loud dog</td><td>Vaccines, education</td></tr>
+        <tr><td>Market result</td><td><b>Too much</b> gets made</td><td><b>Too little</b> gets made</td></tr>
+      </table></div>
+      <p>Vocabulary: M = marginal (one more unit), P = private, S = social, E = external, C = cost, B = benefit.</p>
+      <ul>
+        <li><span class="big">MSC = MPC + MEC</span>. Social cost = the seller's own cost plus the harm to others.</li>
+        <li><span class="big">MSB = MPB + MEB</span>. With a negative <i>consumption</i> externality the MEB is negative, so MSB sits <i>below</i> demand.</li>
+        <li><b>Market</b> outcome: private benefit = private cost (D meets S).</li>
+        <li><b>Social optimum</b>: MSB = MSC.</li>
+      </ul>
+      <ol class="recipe">
+        <li>Market: set demand = MPC and solve for Q_market.</li>
+        <li>Optimum: set MSB = MSC (add the MEC to the cost side, or subtract it from the benefit side) and solve for Q_opt.</li>
+        <li><b>Pigouvian tax</b> = the MEC (the harm per unit). It forces the market to "feel" the harm.</li>
+        <li>With the tax: buyers pay the price at Q_opt read off the <i>demand</i> curve. Sellers keep that price minus the tax. Revenue = tax × Q_opt.</li>
+        <li>DWL of doing nothing = ½ × MEC × (Q_market − Q_opt).</li>
+      </ol>
+      <div class="callout"><span class="eyebrow">Worked: T-shirts, $8 harm per shirt</span>Market: 60 − Q = 20 + Q → Q = 20. Optimum: 60 − Q = 28 + Q → Q = 16. DWL = ½ × 8 × 4 = <span class="big">$16</span>. Tax = $8, revenue = 8 × 16 = <span class="big">$128</span>.</div>
+      <p><b>Coase theorem.</b> If property rights are clear and bargaining is cheap, the people involved negotiate to the <b>efficient</b> outcome themselves, and it's the <b>same outcome no matter who holds the right</b>. The right only decides <b>who pays whom</b>. Example: the dog is worth $500 to Dick and does $800 of harm to Jane. Since 800 &gt; 500, the dog goes either way. If Dick has the right, Jane pays him somewhere between $500 and $800. If Jane has the right, Dick can't afford to pay her enough to keep the dog.</p>
+      <p><b>Government tools:</b></p>
+      <ul>
+        <li><b>Pigouvian tax</b> (or a subsidy for positive externalities) <b>fixes the price</b> of polluting. The amount of pollution adjusts.</li>
+        <li><b>Cap-and-trade</b> <b>fixes the total quantity</b> of pollution (the cap). Firms trade permits, and trading sets the permit price. Firms don't all cut by the same amount; the firms that can cut cheaply cut more.</li>
+        <li>Both are <b>market-based</b>, and both internalize the externality.</li>
+      </ul>
+      <div class="callout"><span class="eyebrow">Abatement with a tax</span>A firm cuts emissions as long as cutting is cheaper than paying the tax, so it stops where <span class="big">MCA = tax</span>. For MCA = 300 − 2E and a $50 tax: 300 − 2E = 50 → E = <b>125 tons</b>.</div>
+      <div class="callout trap"><span class="eyebrow">Exam trap</span>A Pigouvian tax set equal to the harm <b>removes</b> DWL. It doesn't create it. Also, the price buyers pay usually rises by <i>less</i> than the tax, because the burden is split.</div>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">4</span><h3>Four kinds of goods<span class="sub">Rival and excludable, public goods, the tragedy of the commons</span></h3></summary>
+    <div class="body">
+      <p>Ask two yes/no questions about the good:</p>
+      <ul>
+        <li><b>Rival?</b> If I use it, is there less for you? (A pizza slice: yes. A tornado siren: no.)</li>
+        <li><b>Excludable?</b> Can someone stop people who don't pay? (Netflix: yes. National defense: no.)</li>
+      </ul>
+      <div class="tbl"><table>
+        <tr><th></th><th>Rival</th><th>Non-rival</th></tr>
+        <tr><th>Excludable</th><td><b>Private good</b>: clothes, pizza</td><td><b>Club good</b>: password Wi-Fi, fire protection, internet, an uncrowded toll road</td></tr>
+        <tr><th>Non-excludable</th><td><b>Common resource</b>: ocean fish, the environment, free street parking</td><td><b>Public good</b>: tornado siren, national defense, an uncrowded free park</td></tr>
+      </table></div>
+      <p><b>Public goods → free-rider problem.</b> People enjoy the good without paying, so markets make <b>too little</b> of it (under-provision). Think of it as a positive externality. Fixes: the government provides it, public-private partnerships, donations.</p>
+      <p><b>Common resources → tragedy of the commons.</b> Everyone thinks "one more fish for me is fine" and ignores the cost to others (a negative externality), so the resource is <b>overused</b> until it collapses. "Everyone owns the lake, so no one takes care of it." Examples: overfishing, polluted Lake Erie, climate change, a messy shared lounge, glass on a public beach.</p>
+      <p><b>Fixes for the commons:</b> limit access, create property rights (make it excludable), permits and licenses (fishing licenses), taxes and fees (a carbon tax), visitor caps (national parks).</p>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">5</span><h3>Game theory<span class="sub">Dominant strategy, Nash equilibrium, prisoner's dilemma</span></h3></summary>
+    <div class="body">
+      <p>A game has <b>players</b>, <b>strategies</b> (their choices), <b>payoffs</b> (what each gets), and <b>rules</b> (who moves when). Everyone is assumed to be rational and selfish. In a payoff pair (a, b), <b>a belongs to the row player</b> and <b>b to the column player</b>.</p>
+      <ol class="recipe">
+        <li><b>Row player:</b> for each column, circle the row player's bigger number (the first number).</li>
+        <li><b>Column player:</b> for each row, circle the column player's bigger number (the second number).</li>
+        <li>A box where <b>both</b> numbers are circled is a <b>Nash equilibrium</b>: nobody wants to switch on their own.</li>
+        <li>If a player picks the same strategy no matter what the other does, that is a <b>dominant strategy</b>.</li>
+      </ol>
+      <div class="callout"><span class="eyebrow">Prisoner's dilemma</span>Each player has a dominant strategy to "cheat" (low price, don't reduce pollution, produce over quota), but if both had cooperated, both would be better off. The equilibrium is (Low, Low) even though (High, High) pays more to each.</div>
+      <p><b>Coordination game:</b> (3,3) and (1,1) on the diagonal, 0 elsewhere. There are <b>two</b> Nash equilibria and no dominant strategy. Your best move is to copy the other player.</p>
+      <p><b>Ways out of the dilemma:</b> change the payoffs (taxes, fines, subsidies), binding agreements with enforcement (treaties such as the Montreal Protocol), and repeated play.</p>
+      <div class="callout"><span class="eyebrow">Penalty example</span>Subtract 4 from every "Not reduce" payoff. The table becomes Reduce: (6,6) and (1,4); Not reduce: (4,1) and (−1,−1). Now Reduce is dominant for both, so the equilibrium is <b>(Reduce, Reduce) = (6,6)</b>.</div>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">6</span><h3>Market structures and perfect competition<span class="sub">Price takers, P = MR = MC, profit, AVC</span></h3></summary>
+    <div class="body">
+      <div class="tbl"><table>
+        <tr><th></th><th>Perfect competition</th><th>Monopolistic competition</th><th>Oligopoly</th><th>Monopoly</th></tr>
+        <tr><td>Firms</td><td>Many</td><td>Many</td><td>Few (2–3)</td><td>One</td></tr>
+        <tr><td>Product</td><td>Identical</td><td>Differentiated</td><td>Identical or differentiated</td><td>Unique</td></tr>
+        <tr><td>Entry</td><td>Free</td><td>Fairly easy</td><td>Restricted</td><td>Blocked</td></tr>
+        <tr><td>Price</td><td>Price <b>taker</b></td><td>Price maker (limited)</td><td>Price setter, strategic</td><td>Price maker</td></tr>
+        <tr><td>Example</td><td>Corn, flour</td><td>Fast food, clothing</td><td>Phones, cars</td><td>Local utilities, USPS</td></tr>
+      </table></div>
+      <p>Definitions to memorize:</p>
+      <ul>
+        <li>Profit = TR − TC. TR = P × Q. TC = FC + VC.</li>
+        <li>AR = TR/Q (which equals P). MR = ΔTR/ΔQ. MC = ΔTC/ΔQ.</li>
+        <li>ATC = TC/Q. AVC = VC/Q. AFC = FC/Q. So <span class="big">ATC = AVC + AFC</span>.</li>
+      </ul>
+      <p>A competitive firm is too small to affect the price, so selling one more unit always brings in the market price: <span class="big">P = AR = MR</span>. It maximizes profit where <span class="big">P = MC</span>.</p>
+      <ol class="recipe">
+        <li>Set P = MC and solve for q.</li>
+        <li>TR = P × q, TC = plug q into the cost function, profit = TR − TC. Or use profit = (P − ATC) × q.</li>
+      </ol>
+      <div class="callout"><span class="eyebrow">Worked: AR $15, ATC $12, 200 units, FC $600</span>Profit = (15 − 12) × 200 = <b>$600</b>. MC = P = <b>$15</b>. AFC = 600/200 = 3, so AVC = 12 − 3 = <b>$9</b>.</div>
+      <p><b>Break-even</b> happens when P = minimum ATC (profit is 0). The firm <b>shuts down</b> when P falls below minimum AVC. In Figure C2, if P drops to $20, q = 10 and ATC = 20, so profit is $0.</p>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">7</span><h3>Monopoly<span class="sub">MR = MC, then read the price off demand; deadweight loss; barriers to entry</span></h3></summary>
+    <div class="body">
+      <p>A monopolist is the only seller, so to sell one more unit it has to lower the price on <i>every</i> unit. That makes MR fall <b>below</b> the demand curve.</p>
+      <div class="callout"><span class="eyebrow">The MR shortcut</span>If demand is <code>P = a − bQ</code>, then <code>MR = a − 2bQ</code>. Same starting point, twice as steep. Example: P = 150 − 2Q → MR = 150 − 4Q.</div>
+      <figure class="fig">
+        <svg viewBox="0 0 330 240" role="img" aria-label="Monopoly diagram showing MR equals MC quantity, monopoly price on demand, and deadweight loss triangle">
+          <polygon points="127.6,93.1 127.6,156.2 179.3,130.3" fill="var(--fill2)"/>
+          <line x1="40" y1="20" x2="40" y2="210" stroke="var(--muted)" stroke-width="1.5"/>
+          <line x1="40" y1="210" x2="310" y2="210" stroke="var(--muted)" stroke-width="1.5"/>
+          <line x1="40" y1="30" x2="290" y2="210" stroke="var(--demand)" stroke-width="2.5"/>
+          <line x1="40" y1="30" x2="165" y2="210" stroke="var(--accent)" stroke-width="2" stroke-dasharray="6 4"/>
+          <line x1="40" y1="200" x2="290" y2="75" stroke="var(--soc)" stroke-width="2.5"/>
+          <line x1="40" y1="93.1" x2="127.6" y2="93.1" stroke="var(--muted)" stroke-dasharray="3 3"/>
+          <line x1="127.6" y1="93.1" x2="127.6" y2="210" stroke="var(--muted)" stroke-dasharray="3 3"/>
+          <line x1="179.3" y1="130.3" x2="179.3" y2="210" stroke="var(--muted)" stroke-dasharray="3 3"/>
+          <circle cx="127.6" cy="156.2" r="3.5" fill="var(--ink)"/>
+          <circle cx="127.6" cy="93.1" r="3.5" fill="var(--ink)"/>
+          <text x="294" y="206" font-size="12" fill="var(--demand)" font-family="var(--f-mono)">D</text>
+          <text x="168" y="206" font-size="12" fill="var(--accent)" font-family="var(--f-mono)">MR</text>
+          <text x="294" y="79" font-size="12" fill="var(--soc)" font-family="var(--f-mono)">MC</text>
+          <text x="6" y="97" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">Pm</text>
+          <text x="160" y="124" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">DWL</text>
+          <text x="117" y="226" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">Qm</text>
+          <text x="172" y="226" font-size="11" fill="var(--ink)" font-family="var(--f-mono)">Qc</text>
+          <text x="131" y="170" font-size="10" fill="var(--muted)" font-family="var(--f-mono)">MR=MC</text>
+        </svg>
+        <figcaption>Go up from MR = MC to the demand curve to get the monopoly price. The DWL triangle sits between demand and MC, from Qm to Qc.</figcaption>
+      </figure>
+      <ol class="recipe">
+        <li>Write MR (same intercept, double the slope).</li>
+        <li>Set MR = MC and solve for <b>Qm</b>.</li>
+        <li>Plug Qm into <b>demand</b>, not MR, to get <b>Pm</b>.</li>
+        <li>Competitive outcome for comparison: P = MC on demand gives Qc.</li>
+        <li>DWL = ½ × (Pm − MC at Qm) × (Qc − Qm).</li>
+      </ol>
+      <div class="callout"><span class="eyebrow">Worked: P = 100 − 2Q, MC = 20</span>MR = 100 − 4Q = 20 → Qm = 20, Pm = 100 − 40 = <b>$60</b>. Competitive: 100 − 2Q = 20 → Qc = 40. DWL = ½ × (60 − 20) × (40 − 20) = <b>$400</b>.</div>
+      <p><b>Compared with competition</b>, a monopoly sells a <b>lower quantity</b> at a <b>higher price</b>, with P &gt; MC, and creates DWL.</p>
+      <p><b>Barriers to entry</b> (how monopolies form):</p>
+      <ul>
+        <li>Control of a key resource.</li>
+        <li><b>Government</b>: patents, licenses (a taxi medallion means fewer taxis and higher prices).</li>
+        <li><b>Economies of scale</b>, which create a <b>natural monopoly</b>: one firm can serve the whole market more cheaply than two (water, electricity).</li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">8</span><h3>Price discrimination<span class="sub">First, second, and third degree</span></h3></summary>
+    <div class="body">
+      <p>Price discrimination means charging different people different prices for the <b>same</b> good, to collect more of what each one is willing to pay (WTP).</p>
+      <ul>
+        <li><b>First degree (perfect):</b> each person pays exactly their own WTP (auctions, personalized pricing). <b>All consumer surplus becomes profit.</b> The firm sells the competitive quantity, so there is <b>no DWL</b>.</li>
+        <li><b>Second degree:</b> offer a menu and let customers sort themselves (airline classes, bulk discounts).</li>
+        <li><b>Third degree:</b> different prices for groups you can identify (student, senior, happy hour). The <b>more elastic (price-sensitive) group gets the lower price.</b></li>
+      </ul>
+      <p><b>Three conditions:</b> (1) some market power, (2) a way to separate customers by WTP, (3) a way to <b>prevent resale</b>. If students could resell cheap tickets to non-students, the price gap would collapse.</p>
+      <div class="callout"><span class="eyebrow">Perfect PD profit = the whole triangle between demand and MC</span>P = 100 − 2Q with MC = 20: the firm sells to Q = 40, and profit = ½ × 40 × (100 − 20) = <b>$1,600</b>.</div>
+      <div class="callout"><span class="eyebrow">Third degree: run MR = MC separately for each group</span>Group 1: P = 50 − Q, MR = 50 − 2Q = 10 → Q = 20, P = 30, profit = 20 × 20 = 400.<br>Group 2: P = 30 − Q, MR = 30 − 2Q = 10 → Q = 10, P = 20, profit = 10 × 10 = 100.<br>Total = <b>$500</b>.</div>
+      <div class="callout"><span class="eyebrow">Discrete customers</span>WTP of 90, 80, 70, 60, 50 and MC = 40. Perfect PD: 50 + 40 + 30 + 20 + 10 = 150. Best single price: try each one. At $70, 3 tickets sell, so profit = 3 × 30 = <b>90</b>, the best. The difference is <b>$60</b>.</div>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">9</span><h3>Oligopoly, cartels, antitrust, integration</h3></summary>
+    <div class="body">
+      <p>In an <b>oligopoly</b> there are a few firms, each one's decision affects the others, so they behave strategically (game theory).</p>
+      <p><b>Cartels</b> (like OPEC) agree to limit output and keep prices high. Each member is tempted to cheat secretly, which makes it a prisoner's dilemma. In a one-time game, cooperation breaks down. In a <b>repeated</b> game, <b>tit-for-tat</b> (cooperate first, then copy what the other player did last round) can sustain cooperation, because cheating gets punished later.</p>
+      <p><b>Antitrust laws</b> (Sherman Act 1890, Clayton Act 1914) ban:</p>
+      <ul>
+        <li><b>Price-fixing</b>: competitors agreeing on prices.</li>
+        <li><b>Resale price maintenance</b>: a <i>manufacturer</i> sets a <i>minimum retail price</i> ("stores must sell our sneakers for at least $150").</li>
+        <li><b>Predatory pricing</b>: cutting prices to drive rivals out of the market.</li>
+        <li><b>Tying</b>: selling two products only as a bundle.</li>
+      </ul>
+      <p><b>Integration:</b></p>
+      <ul>
+        <li><b>Horizontal</b>: buying a direct competitor at the same stage (United + Continental, Facebook + Instagram, GrubHub + Just Eat, Disney + Fox).</li>
+        <li><b>Vertical</b>: buying a supplier or distributor at a different stage (an oil driller buys refineries and gas stations; Apple, ExxonMobil).</li>
+      </ul>
+    </div>
+  </details>
+
+  <details class="lesson">
+    <summary><span class="num">10</span><h3>Poverty and welfare<span class="sub">Absolute vs relative, the Official Poverty Measure, income vs substitution effect</span></h3></summary>
+    <div class="body">
+      <ul>
+        <li><b>Absolute poverty</b>: below a fixed cost of basic needs. The U.S. OPM and the World Bank's $3.00 a day are both absolute.</li>
+        <li><b>Relative poverty</b>: below some share of what others have, such as 50% or 60% of median income.</li>
+      </ul>
+      <p><b>U.S. Official Poverty Measure (OPM):</b> created in the 1960s, when a poor family spent about ⅓ of its income on food. So it takes the <b>cost of a minimal diet × 3</b>, adjusts for family size, and updates every year with the CPI.</p>
+      <div class="tbl"><table>
+        <tr><th>Counted as income (pre-tax cash)</th><th>NOT counted</th></tr>
+        <tr><td>Earnings (wages); cash government transfers (Social Security, unemployment, TANF); educational aid; interest, dividends, rents</td><td>Non-cash benefits (<b>SNAP</b>, <b>Medicaid</b>, housing aid); <b>tax credits (EITC)</b>; private health insurance</td></tr>
+      </table></div>
+      <p><b>OPM limitations:</b> it leaves out big transfers like the EITC, ignores unmarried partners who share resources, uses a 1960s food-based formula, and is the same everywhere (NYC and New Mexico get the same line).</p>
+      <p><b>Designing a welfare program:</b> eligibility (who), aid type (what), generosity (how much), duration (how long). The goal is to "graduate" people into work.</p>
+      <ul>
+        <li><b>Cash transfer</b>: TANF, SSI.</li>
+        <li><b>In-kind transfer</b>: SNAP, housing vouchers, Medicaid and Medicare.</li>
+      </ul>
+      <p><b>The two effects (the most-tested idea in this unit):</b></p>
+      <ul>
+        <li><b>Income effect:</b> extra money lets people afford to work less, so labor supply goes <b>down</b>. Any free money does this, like a UBI or lump-sum payment.</li>
+        <li><b>Substitution effect:</b> how the program changes the <i>reward for one more hour of work</i>. If working pays more (EITC in its <b>phase-in</b> range, where the credit grows as you earn), labor supply goes <b>up</b>. If the benefit is taken away as you earn (TANF phase-out, benefits only for people who don't work), labor supply goes down.</li>
+      </ul>
+      <div class="callout trap"><span class="eyebrow">Exam trap</span>A UBI is unconditional, so it doesn't change the reward per hour, and there is no substitution effect. It lowers labor supply through the <b>income effect</b>.</div>
+    </div>
+  </details>
+</section>
+
+<!-- ===================== FORMULAS ===================== -->
+<section class="view" id="v-formulas" hidden>
+  <div class="intro">
+    <h2>Cheat sheet</h2>
+    <p>The exam is closed book, so this has to live in your head. Rewrite this page from memory on scratch paper Wednesday morning.</p>
+  </div>
+  <div class="formula">
+    <div class="fcard"><h3>Equilibrium</h3><p>Qd = Qs → P*, Q*<br>Triangle = ½·b·h<br>CS: under D, above P<br>PS: above S, below P</p></div>
+    <div class="fcard"><h3>Per-unit tax t</h3><p>Pb = Ps + t<br>Qd(Pb) = Qs(Ps)<br>Revenue = t × Qt<br>DWL = ½ × t × (Q* − Qt)<br>Burden → inelastic side</p></div>
+    <div class="fcard"><h3>Externality</h3><p>MSC = MPC + MEC<br>Market: D = MPC<br>Optimum: MSB = MSC<br>Pigou tax = MEC<br>DWL = ½ × MEC × ΔQ</p></div>
+    <div class="fcard"><h3>Pigou tax outcome</h3><p>Q = Q_opt<br>Buyers pay = D at Q_opt<br>Sellers keep = that − tax<br>Revenue = tax × Q_opt</p></div>
+    <div class="fcard"><h3>Abatement</h3><p>Emit where MCA = tax<br>Tax fixes price<br>Cap-and-trade fixes quantity</p></div>
+    <div class="fcard"><h3>Perfect competition</h3><p>P = AR = MR = MC<br>Profit = (P − ATC) × q<br>AVC = ATC − FC/q<br>Shutdown: P &lt; min AVC</p></div>
+    <div class="fcard"><h3>Monopoly</h3><p>P = a − bQ → MR = a − 2bQ<br>MR = MC → Qm<br>Pm from DEMAND<br>DWL = ½(Pm − MC)(Qc − Qm)</p></div>
+    <div class="fcard"><h3>Price discrimination</h3><p>1st: profit = area D above MC to Qc, DWL 0<br>3rd: MR = MC per group<br>Elastic group → lower price<br>Needs: power, sorting, no resale</p></div>
+    <div class="fcard"><h3>Game theory</h3><p>(row, column)<br>Circle best replies<br>Both circled = Nash<br>Same choice always = dominant</p></div>
+    <div class="fcard"><h3>Goods</h3><p>Rival + Excl. = private<br>Non-rival + Excl. = club<br>Rival + Non-excl. = common<br>Non-rival + Non-excl. = public</p></div>
+    <div class="fcard"><h3>Tax fairness</h3><p>Effective rate = tax ÷ income<br>Progressive: rises w/ income<br>Regressive: falls (sales, excise)<br>Credit: off the bill; Deduction: off income</p></div>
+    <div class="fcard"><h3>Poverty</h3><p>OPM = diet × 3, CPI, pre-tax cash<br>Excludes SNAP, Medicaid, EITC<br>Absolute: OPM, $3/day<br>Relative: % of median</p></div>
+  </div>
+</section>
+
+<!-- ===================== WRITTEN ===================== -->
+<section class="view" id="v-written" hidden>
+  <div class="intro">
+    <h2>Short-answer problems, worked step by step</h2>
+    <p>These are the 7 short-answer problems from Practice Exam 2-2 plus the two exercises from the review slides. The real exam has 5 short answers, so expect problems shaped exactly like these. Try each one on paper first, then open the solution.</p>
+  </div>
+  <div class="pgrid" id="sa-list"></div>
+</section>
+
+<!-- ===================== MOCK ===================== -->
+<section class="view" id="v-mock" hidden>
+  <div class="intro">
+    <h2>Mock exam: 25 multiple choice + 5 short answer</h2>
+    <p>Same shape as Wednesday. Start the 60-minute timer, answer everything, then press <b>Grade</b>. Answers stay hidden until you grade. Budget about 30 minutes for the multiple choice and 30 for the short answers.</p>
+  </div>
+  <div class="toolbar">
+    <button id="mock-start">Start 60:00 timer</button>
+    <span class="timer" id="mock-timer">60:00</span>
+    <span class="spacer"></span>
+    <span class="score" id="mock-count">0 / 25 answered</span>
+    <button id="mock-grade" class="ghost">Grade</button>
+    <button id="mock-reset" class="ghost">Reset</button>
+  </div>
+  <div id="mock-result" hidden></div>
+  <h3>Part A · Multiple choice (25)</h3>
+  <div class="pgrid" id="mock-mc"></div>
+  <h3>Part B · Short answer (5)</h3>
+  <div class="pgrid" id="mock-sa"></div>
+</section>
+
+<!-- ===================== BANK ===================== -->
+<section class="view" id="v-bank" hidden>
+  <div class="intro">
+    <h2>Practice bank: 30 more questions</h2>
+    <p>The rest of the multiple-choice questions from your two practice files. You get feedback as soon as you click.</p>
+  </div>
+  <div class="toolbar">
+    <label for="bank-filter" class="eyebrow">Topic</label>
+    <select id="bank-filter"></select>
+    <span class="spacer"></span>
+    <span class="score" id="bank-score">0 correct of 0 tried</span>
+    <button id="bank-reset" class="ghost">Reset</button>
+  </div>
+  <div class="pgrid" id="bank-list"></div>
+</section>
+
+<!-- ===================== PLAN ===================== -->
+<section class="view" id="v-plan" hidden>
+  <div class="intro">
+    <h2>Game plan: Monday to Wednesday</h2>
+    <p>Two evenings plus Wednesday morning is enough if you follow this order.</p>
+  </div>
+  <div class="plan">
+    <div class="day"><h3>Monday<span>tonight · about 2.5 hrs</span></h3>
+      <ul>
+        <li>Lessons 0–5 (toolkit, taxes, incidence, externalities, goods, games).</li>
+        <li>Short answers: Vodka tax, soft drinks, aluminum, cigarettes, the game problem. Do them on paper before opening the solutions.</li>
+        <li>Practice bank, filtered to Taxes, Externalities, Public goods, and Game theory.</li>
+      </ul></div>
+    <div class="day"><h3>Tuesday<span>about 3 hrs</span></h3>
+      <ul>
+        <li>Lessons 6–10 (competition, monopoly, price discrimination, oligopoly, poverty and welfare).</li>
+        <li>Short answers: monopoly (2 &amp; 3), Figure C1, Figure C2.</li>
+        <li><b>Take the full mock exam under the 60-minute timer</b>, with your real calculator and no notes.</li>
+        <li>Reread the lesson behind every question you missed, then redo the misses.</li>
+        <li>Finish the rest of the practice bank.</li>
+      </ul></div>
+    <div class="day"><h3>Wednesday<span>morning · 30 min</span></h3>
+      <ul>
+        <li>Rewrite the cheat sheet from memory, then check it.</li>
+        <li>Redo one tax problem, one externality problem, and one monopoly problem as a warm-up.</li>
+        <li>Pack: pencil, eraser, simple calculator (no phone apps). Check which exam version you have. Find your assigned seat on the screen.</li>
+      </ul></div>
+    <div class="day"><h3>During the exam</h3>
+      <ul>
+        <li>Do the 25 multiple-choice questions first, about 1 minute each. Skip anything stuck and come back.</li>
+        <li>Short answers: write the equation you set equal, show each step, and label units. Partial credit lives in the steps.</li>
+        <li>Monopoly: after MR = MC, get the price from <b>demand</b>.</li>
+        <li>Tax and externality: DWL is a triangle, ½ × wedge × change in quantity.</li>
+        <li>"NOT" and "EXCEPT" questions: circle the word before you answer.</li>
+      </ul></div>
+  </div>
+</section>
+
+</div></main>
+
+<script>
+const T={tax:"Taxes",inc:"Tax incidence",ext:"Externalities",pub:"Public goods",game:"Game theory",comp:"Perfect competition",mono:"Monopoly",pd:"Price discrimination",olig:"Oligopoly & antitrust",pov:"Poverty & welfare"};
+const L="ABCDEFG";
+// a = index of correct option
+const MOCK=[
+{src:"Midterm Q1",t:"inc",q:"The legal obligation to remit a $2-per-unit tax shifts from sellers to buyers in a competitive market. What happens to the economic incidence?",o:["The split of the burden is essentially unchanged, because it depends on relative elasticities of supply and demand.","Sellers no longer bear any part of the tax.","Buyers now bear the entire $2 because they pay the government.","Equilibrium quantity rises because the tax is more visible.","Tax revenue doubles because both sides face the tax."],a:0,w:"Who legally pays doesn't matter. The burden is split according to elasticities, and Pb, Ps, Q, revenue, and DWL all come out the same."},
+{src:"Midterm Q4",t:"mono",q:"Chicago requires taxi drivers to purchase a special license. How does this affect the taxi market?",o:["Lower prices, fewer rides","Higher prices, fewer rides","Higher prices, more rides","Prices unchanged, fewer rides","Higher prices, rides unchanged"],a:1,w:"A license is a government barrier to entry. Fewer taxis means supply shifts left, so prices go up and fewer rides happen."},
+{src:"Midterm Q5",t:"ext",q:"A $50/ton GHG tax. The plant's marginal cost of abatement is MCA = 300 − 2E. How many tons will it emit?",o:["100","125","150","175","200","300","None of the above"],a:1,w:"The firm abates until MCA equals the tax: 300 − 2E = 50 → 2E = 250 → E = 125."},
+{src:"Midterm Q7",t:"tax",q:"A 5% sales tax. Household X: income $20,000, spends $15,000 on taxed goods. Household Y: income $100,000, spends $40,000. This tax is:",o:["Regressive, because X pays a larger share of its income in tax than Y.","Progressive, because Y pays more dollars of tax.","Proportional, because both face the same 5% statutory rate.","Progressive, because the rate rises with spending.","Lump-sum."],a:0,w:"X pays $750, which is 3.75% of income. Y pays $2,000, which is 2% of income. The share falls as income rises, so the tax is regressive."},
+{src:"Midterm Q8",t:"inc",q:"Coffee: Qd = 200 − 10P, Qs = 20P − 40, with a $3-per-cup tax. Tax revenue and DWL (in thousands)?",o:["Rev 300; DWL 15","Rev 300; DWL 30","Rev 300; DWL 60","Rev 360; DWL 30","Rev 360; DWL 60"],a:1,w:"No tax: 200 − 10P = 20P − 40 → P = 8, Q = 120. With the tax: 200 − 10Pb = 20(Pb − 3) − 40 → Pb = 10, Ps = 7, Q = 100. Revenue = 3 × 100 = 300. DWL = ½ × 3 × 20 = 30."},
+{src:"Midterm Q9",t:"inc",q:"A per-unit tax on insulin: demand is very inelastic, supply relatively elastic. Most likely outcome?",o:["Sellers bear most because they remit it.","Burden split equally regardless.","Sellers bear most, DWL small.","Buyers bear most, DWL large.","Buyers bear most, DWL small."],a:4,w:"The burden falls on the inelastic side, which is buyers. Inelastic demand means quantity barely falls, so the DWL is small."},
+{src:"Midterm Q11",t:"pub",q:"A coffee shop gives its fast, rarely congested Wi-Fi password only to paying customers. This is:",o:["Private good","Normal good","Common resource","Public good","Club good"],a:4,w:"Excludable (password) and non-rival (not congested), so it is a club good."},
+{src:"Midterm Q14",t:"ext",q:"Demand P = 60 − Q, MPC = 20 + Q, with $8 of external damage per shirt. Market quantity and socially optimal quantity?",o:["20; 16","20; 20","20; 24","16; 20","16; 12"],a:0,w:"Market: 60 − Q = 20 + Q → 20. Optimum uses MSC = 28 + Q: 60 − Q = 28 + Q → 16."},
+{src:"Midterm Q15",t:"ext",q:"Same T-shirt market. DWL of the unregulated market?",o:["$8","$16","$32","$64","$160"],a:1,w:"½ × MEC × (Qmarket − Qopt) = ½ × 8 × 4 = 16."},
+{src:"Midterm Q17",t:"ext",q:"Dick values his dog at $500. The barking harms Jane by $800. With costless bargaining and clear rights, Coase predicts:",o:["Dog stays if Dick has the right, goes if Jane does.","Dog stays regardless.","Dog goes only if Jane has the right.","Government must intervene.","Dog goes regardless of who holds the right; only the direction of payment differs."],a:4,w:"The harm ($800) is bigger than the value ($500), so the efficient outcome is that the dog goes. Under Coase, the efficient outcome happens either way. The rights only decide who pays whom."},
+{src:"Midterm Q18",t:"game",q:"Firms choose High or Low price. (A,B): HH (10,10), HL (2,14), LH (14,2), LL (6,6). Which is correct?",o:["(High, High) is NE because it maximizes total profit.","No Nash equilibrium.","(Low, Low) is NE, even though both would earn more at (High, High).","(High, Low) is NE.","Both (High, High) and (Low, Low) are NE."],a:2,w:"For A: if B is High, 14 > 10, so pick Low. If B is Low, 6 > 2, so pick Low. Low is dominant for A, and the same holds for B. The result is (Low, Low), a prisoner's dilemma."},
+{src:"Midterm Q20",t:"game",q:"Countries choose Reduce / Not reduce emissions. RR (6,6), RN (1,8), NR (8,1), NN (3,3). Which is correct?",o:["NE is (Reduce, Reduce).","Reduce is dominant.","Two NE: (R, N) and (N, R).","NE is (Not, Not) even though (Reduce, Reduce) is better for both, so it's a prisoner's dilemma.","No pure-strategy NE."],a:3,w:"Not reduce is dominant: 8 > 6 and 3 > 1. The equilibrium is (Not, Not) at (3,3), while (6,6) was possible. That's a prisoner's dilemma."},
+{src:"Midterm Q21",t:"game",q:"Same game, but a treaty fines any 'Not reduce' country 4 units. New NE?",o:["(N, N) with (−1, −1)","Two equilibria: (R, R) and (N, N)","(R, N) with (1, 4)","(N, R) with (4, 1)","(Reduce, Reduce) with (6, 6)"],a:4,w:"After subtracting 4: Not reduce now pays 4 vs Reduce's 6, and −1 vs Reduce's 1. Reduce becomes dominant for both, so the equilibrium is (6,6)."},
+{src:"Midterm Q23",t:"pov",q:"Which is NOT counted as income in the U.S. Official Poverty Measure?",o:["Wages and salaries","Unemployment compensation","EITC payments","Interest and dividends","Social Security benefits"],a:2,w:"The OPM counts pre-tax cash income only. Tax credits like the EITC and non-cash benefits are left out."},
+{src:"Midterm Q24",t:"pov",q:"A Universal Basic Income would most likely:",o:["Increase labor supply via income effect","Reduce labor supply via income effect","Increase labor supply via substitution effect","Reduce labor supply via substitution effect","Increase labor demand via substitution effect","Reduce labor demand via income effect","None of the above"],a:1,w:"Free money lets people afford to work less, which is the income effect. A UBI doesn't change the pay per hour, so there is no substitution effect."},
+{src:"Midterm Q25",t:"pov",q:"Which feature is most likely to INCREASE labor supply through a substitution effect?",o:["A refundable EITC in its phase-in range, where the credit rises as earned income rises","An unconditional lump-sum payment","Unemployment insurance paid only while not working","A benefit reduced dollar-for-dollar as earnings rise (TANF)","SSI paid only if a person does not work"],a:0,w:"In the phase-in range, each extra dollar earned also raises the credit, so work pays more per hour. That substitution effect raises labor supply. Every other option either does nothing to the hourly reward or lowers it."},
+{src:"Midterm Q27",t:"comp",q:"Competitive firm, P = $12, TC = q² + 10, MC = 2q. Profit-maximizing q and profit?",o:["q=3; $17","q=4; $22","q=6; $26","q=6; $36","q=12; −$10"],a:2,w:"P = MC: 12 = 2q → q = 6. TR = 72, TC = 36 + 10 = 46, so profit = 26."},
+{src:"Midterm Q28",t:"mono",q:"Monopolist: P = 100 − 2Q, MC = $20. Profit-maximizing Q and P?",o:["Q=20; P=20","Q=20; P=60","Q=25; P=50","Q=30; P=40","Q=40; P=20"],a:1,w:"MR = 100 − 4Q = 20 → Q = 20. Price comes from demand: 100 − 40 = 60."},
+{src:"Midterm Q29",t:"mono",q:"Same monopolist. DWL vs. perfect competition?",o:["$200","$400","$800","$1,200","$1,600"],a:1,w:"Competitive Q: 100 − 2Q = 20 → 40. DWL = ½ × (60 − 20) × (40 − 20) = 400."},
+{src:"Midterm Q36",t:"pd",q:"Five customers with WTP $90, 80, 70, 60, 50. MC = $40. By how much does perfect-PD profit exceed the best single-price profit?",o:["$30","$50","$60","$90","$150"],a:2,w:"Perfect PD: 50 + 40 + 30 + 20 + 10 = 150. Single prices: $90 → 50, $80 → 80, $70 → 90, $60 → 80, $50 → 50. Best is 90. Difference: 60."},
+{src:"Midterm Q38",t:"pd",q:"MC = $10. Group 1: P = 50 − Q1. Group 2: P = 30 − Q2. No resale. Total profit under third-degree PD?",o:["$400","$450","$500","$600","$800"],a:2,w:"Group 1: 50 − 2Q = 10 → Q = 20, P = 30, profit 400. Group 2: 30 − 2Q = 10 → Q = 10, P = 20, profit 100. Total 500."},
+{src:"Midterm Q43",t:"pov",q:"(i) U.S. OPM, (ii) World Bank $3.00/day, (iii) below 50% of national median. Classify:",o:["relative; relative; absolute","absolute; absolute; relative","absolute; relative; relative","relative; absolute; absolute","all absolute"],a:1,w:"Fixed cost-of-needs lines are absolute, so (i) and (ii) are absolute. A percent of the median depends on others' incomes, so (iii) is relative."},
+{src:"Midterm Q47",t:"tax",q:"10% on the first $20,000, 30% above. Income $50,000. Tax owed and classification?",o:["$5,000; progressive","$11,000; regressive","$11,000; progressive","$15,000; progressive","$15,000; proportional"],a:2,w:"0.1 × 20,000 + 0.3 × 30,000 = 2,000 + 9,000 = 11,000. The rate rises with income, so it's progressive."},
+{src:"Midterm Q49",t:"tax",q:"Classify as tax credit or deduction:",o:["EITC: deduction; student loan interest: credit","Child tax credit: credit; medical expense: deduction","Child tax credit: deduction; medical expense: credit","Adoption credit: deduction; student loan interest: deduction","EITC: deduction; medical expense: credit"],a:1,w:"Anything named 'credit' (EITC, Child Tax Credit, Adoption Credit) is a credit. Student loan interest and medical expenses are deductions."},
+{src:"Practice 2-2 MC2",t:"comp",q:"Competitive firm: 200 units, AR = $15, ATC = $12, FC = $600. Which is correct?",o:["Profit $600, MC $12, AVC $9","Profit $3,000, MC $15, AVC $12","Profit $600, MC $15, AVC $12","Profit $0, MC $15, AVC $9","Profit $600, MC $15, AVC $9"],a:4,w:"Profit = (15 − 12) × 200 = 600. MC = P = AR = 15. AFC = 600/200 = 3, so AVC = 12 − 3 = 9."}
+];
+const BANK=[
+{src:"Practice 2-2 MC1",t:"mono",q:"A pharma company gets a 20-year patent on an insulin pen. Which barrier to entry?",o:["Control over an essential resource","Economies of scale","Government regulation","Product differentiation","Collusion"],a:2,w:"A patent is granted by the government, so this is government regulation."},
+{src:"Practice 2-2 MC3",t:"olig",q:"Two oil-producing countries form a cartel; each is tempted to secretly overproduce. Most accurate?",o:["Cartels are easy to sustain","In a one-time game cooperating is dominant","U.S. antitrust encourages cartels","In a repeated game, tit-for-tat can sustain cooperation because cheating is punished later","Cheating never raises a member's profit"],a:3,w:"Cheating is tempting in a one-shot game. Repeated play lets members punish cheaters, which supports cooperation."},
+{src:"Practice 2-2 MC4",t:"pd",q:"Museum, MC = $8, no FC. Adults $26 (15 tickets), students $14 (25 tickets). Total profit?",o:["$420","$740","$320","$600","$480"],a:0,w:"(26 − 8) × 15 = 270 and (14 − 8) × 25 = 150. Total 420."},
+{src:"Practice 2-2 MC5",t:"olig",q:"A sneaker maker requires every store to sell its model for no less than $150. This is:",o:["Price-fixing among competitors","Predatory pricing","Resale price maintenance","Tying","Horizontal integration"],a:2,w:"A manufacturer setting a minimum retail price is resale price maintenance."},
+{src:"Midterm Q2",t:"pub",q:"Which are examples of the Tragedy of the Commons? (GHG/climate, polluted Lake Erie, messy shared lounge, glass on a public beach)",o:["GHG","Lake Erie","Lounge","Beach glass","All of the above","None of the above"],a:4,w:"Each one is a shared resource that people overuse or degrade because no one person bears the full cost."},
+{src:"Midterm Q3",t:"ext",q:"Each gallon of gas causes $1 of damage. With a $1/gallon tax, which is NOT likely to occur?",o:["Price received by gas stations falls by $1","Gas consumption falls","Pollution decreases","Price paid by consumers rises by $1","Deadweight loss will be created","All are likely","None are likely"],a:4,w:"This is a Pigouvian tax equal to the marginal damage. It corrects the externality and removes the DWL rather than creating it. Note: A and D only happen if one side is perfectly inelastic, since usually the $1 is split. E is the textbook answer, but check the official key or ask the TA."},
+{src:"Midterm Q6",t:"pub",q:"Relationship between public goods, common pool resources, and externalities?",o:["Both create negative externalities → overconsumption","Both create positive externalities → underproduction","Public goods negative; CPR positive","Public goods: positive externalities → underproduction; CPR: negative externalities → overconsumption","They don't involve externalities"],a:3,w:"Free riders benefit without paying (positive), so public goods are under-provided. Commons users harm others (negative), so common resources are overused."},
+{src:"Midterm Q10",t:"inc",q:"Which statement is consistent with the Laffer curve?",o:["From zero, revenue rises at first, but past some rate it falls because the shrinking quantity outweighs the higher tax per unit.","Revenue rises continuously up to 100%.","DWL falls as the rate rises.","Revenue is the same at every rate.","Revenue is maximized when trade is eliminated."],a:0,w:"That is the hill-shaped Laffer curve."},
+{src:"Midterm Q12",t:"pub",q:"Fish in an open-access lake are being depleted rapidly. Why?",o:["Fish are a public good","Fish are excludable","Each fisher's catch reduces fish for others, but fishers don't bear that cost, so they over-catch","Fishers collude","The lake is a club good"],a:2,w:"Fish are rival and non-excludable. Each fisher ignores the cost to others, which is the tragedy of the commons."},
+{src:"Midterm Q13",t:"ext",q:"A beekeeper's hives pollinate a neighbor's orchard for free. The honey market will have:",o:["Positive production externality; less honey than optimal","Positive consumption externality; too much","Negative production externality; too much","Positive production externality; more than optimal","No externality"],a:0,w:"The benefit comes from production and spills onto the orchard. A positive externality leads to under-production."},
+{src:"Midterm Q16",t:"ext",q:"T-shirt market ($8 damage). Pigouvian tax and revenue?",o:["$4; $64","$8; $16","$8; $160","$8; $128","$16; $256"],a:3,w:"Tax = MEC = $8. Quantity falls to the optimum of 16, so revenue = 8 × 16 = 128."},
+{src:"Midterm Q19",t:"game",q:"Coordination: LL (3,3), LR (0,0), RL (0,0), RR (1,1). Which is correct?",o:["Two NE, (L,L) and (R,R), and no dominant strategy","(R,R) unique NE","(L,L) unique NE","Two NE, each has a dominant strategy","No NE"],a:0,w:"Your best move is to match the other player, so both diagonal cells are equilibria. No strategy is best regardless of what the other player does."},
+{src:"Midterm Q22",t:"ext",q:"Pigouvian tax vs. cap-and-trade:",o:["Tax fixes quantity; cap fixes price","Under cap-and-trade every firm cuts equally","Only cap-and-trade internalizes","Cap-and-trade is direct regulation","Tax fixes the price of emitting; cap-and-trade fixes total quantity and trading sets the permit price"],a:4,w:"Tax means a fixed price. Cap means a fixed quantity."},
+{src:"Midterm Q26",t:"comp",q:"A firm in a perfectly competitive market:",o:["Faces downward demand, chooses price","MR always below price","Is a price taker, so MR = market price","Protected by barriers","Sells a differentiated product"],a:2,w:"A competitive firm is a price taker, so P = MR."},
+{src:"Midterm Q30",t:"mono",q:"Compared with perfect competition, a single-price monopoly will:",o:["Higher Q, lower P, DWL","Same P, less Q","Same Q, higher P, only a transfer","Lower Q, lower P","Lower Q, higher P, P > MC, DWL"],a:4,w:"Less output, higher price, a price above marginal cost, and a DWL triangle."},
+{src:"Midterm Q31",t:"mono",q:"Why does a natural monopoly (water utility) arise?",o:["Owns the only key input","Government patent","Collusion","Economies of scale so large one firm serves the market at lower average cost than two or more could","Perfectly inelastic demand"],a:3,w:"A natural monopoly comes from economies of scale."},
+{src:"Midterm Q32",t:"olig",q:"Which best describes an oligopoly?",o:["Many small price takers","A small number of firms whose decisions affect each other, so they behave strategically","A single seller","Many firms, differentiated, free entry","A single buyer"],a:1,w:"Few firms acting strategically. The other options describe perfect competition, monopoly, monopolistic competition, and monopsony."},
+{src:"Midterm Q33",t:"olig",q:"Which is VERTICAL integration?",o:["United + Continental","GrubHub + Just Eat","Facebook + Instagram","An oil extractor acquiring a refinery and gas stations","Two grocery chains merging"],a:3,w:"Different stages of the supply chain make it vertical. The rest are competitors merging, which is horizontal."},
+{src:"Midterm Q34",t:"pd",q:"Necessary for successful price discrimination:",o:["Perfect competition","Same WTP for everyone","Free entry","MC = 0","Market power, ability to separate customers by WTP, and ability to prevent resale"],a:4,w:"The three conditions: market power, sorting customers, and no resale."},
+{src:"Midterm Q35",t:"pd",q:"P = 100 − 2Q, MC = $20. Profit under perfect price discrimination?",o:["$800","$1,200","$1,600","$2,400","$3,200"],a:2,w:"The firm sells to where demand = MC, at Q = 40. Profit = the triangle ½ × 40 × (100 − 20) = 1,600."},
+{src:"Midterm Q37",t:"pd",q:"Students have more elastic demand than non-students; the theater can verify status and prevent resale. It should:",o:["Charge same price","Charge students more","Sell equal quantities","Set P = MC for each","Charge non-students more, because their demand is less elastic"],a:4,w:"The less elastic group gets the higher price."},
+{src:"Midterm Q39",t:"pub",q:"A city park, no gates or fees, rarely crowded. Which good?",o:["Private","Club","Common resource","Public good","Inferior"],a:3,w:"Non-excludable and non-rival, so it is a public good."},
+{src:"Midterm Q40",t:"pub",q:"Open-ocean fish: anyone can catch them, and each one caught is gone. Type and problem?",o:["Public good; free-rider","Club good; congestion","Private good; monopoly","Common resource; tragedy of the commons","Common resource; under-provision"],a:3,w:"Rival and non-excludable makes it a common resource, and the problem is overuse (the tragedy of the commons)."},
+{src:"Midterm Q41",t:"pub",q:"Which correctly matches a good with its characteristics?",o:["Tornado siren: excludable, rival","Restaurant pizza: non-excl., non-rival","National defense: non-excludable and non-rival","Busy free parking: excl., non-rival","Uncrowded toll road: non-excl., rival"],a:2,w:"National defense is the classic public good."},
+{src:"Midterm Q42",t:"pov",q:"Ranking of U.S. welfare programs by size (largest to third):",o:["SNAP – Medicaid – EITC","EITC – Medicaid – SNAP","Medicaid – EITC – SNAP","Medicaid – SNAP – EITC","TANF – Medicaid – SNAP"],a:3,w:"Medicaid is by far the largest. In recent years SNAP spending (about $100B+) has been larger than the EITC (about $60–70B). Before 2020 the EITC was slightly bigger, so check the ranking on your lecture slide in case your instructor used an older chart. Medicaid is first either way."},
+{src:"Midterm Q44",t:"tax",q:"Payroll tax vs. individual income tax:",o:["Payroll covers all income","Payroll funds Social Security and Medicare and is shared by employee and employer; income tax funds general operations and is paid by the individual, with the employer withholding","Payroll paid entirely by employee","Payroll funds defense","Payroll is state-only"],a:1,w:"This matches the review-slide table."},
+{src:"Midterm Q45",t:"tax",q:"General sales tax vs. excise tax:",o:["Sales federal, excise state","U.S. has a national sales tax","Sales: broad, state and local, shown on receipt. Excise: specific goods, built into price, discourages consumption","Sales is per-unit, excise %","Both progressive"],a:2,w:"This matches the review-slide table. Remember there is no U.S. national sales tax."},
+{src:"Midterm Q46",t:"tax",q:"Property and estate taxes:",o:["Property tax federal, on a deceased person's assets","Estate tax yearly by local government","Both on income","Property tax: local, on assessed real property, funds local services. Estate tax: one-time on a deceased person's net estate, federal and some states","Estate regressive, property progressive"],a:3,w:"This matches the review-slide table."},
+{src:"Midterm Q48",t:"tax",q:"Which level of government mainly collects (i) payroll, (ii) general sales, (iii) property tax?",o:["federal; state & local; local","state; federal; local","all federal","local; local; state","municipal; federal; state"],a:0,w:"Payroll is federal, sales is state and local, and property is local."},
+{src:"Midterm Q50",t:"pd",q:"Students pay $8, non-students $12. If students could resell at no cost:",o:["Profit rises","Non-students buy from students below $12, the gap shrinks, and the two-price strategy fails","Nothing changes","Firm becomes a perfect discriminator","Non-students pay more than $12"],a:1,w:"Without a way to block resale, price discrimination breaks down."}
+];
+const SA=[
+{title:"Vodka tax",src:"Practice 2-2 SA1 · Taxes",q:"Qd = 120 − 2P and Qs = 3P − 30. A $5 per-unit tax on sellers. Find tax revenue and DWL.",s:["<b>No tax:</b> 120 − 2P = 3P − 30 → 150 = 5P → P* = 30, Q* = 60.","<b>With the tax</b> (Ps = Pb − 5): 120 − 2Pb = 3(Pb − 5) − 30 = 3Pb − 45 → 165 = 5Pb → Pb = 33, Ps = 28.","New Q = 120 − 2(33) = 54.","Revenue = 5 × 54 = <span class='ans'>$270</span>.","DWL = ½ × 5 × (60 − 54) = <span class='ans'>$15</span>.","Incidence: buyers pay $3 more and sellers keep $2 less. Demand is the more inelastic side here."]},
+{title:"Monopoly: profit-maximizing Q and P",src:"Practice 2-2 SA2 · Monopoly",q:"Demand P = 150 − 2Q. TC = 30Q + 0.5Q², MC = 30 + Q. Find the profit-maximizing quantity and price.",s:["MR has the same intercept and twice the slope: MR = 150 − 4Q.","MR = MC: 150 − 4Q = 30 + Q → 120 = 5Q → <span class='ans'>Q = 24</span>.","Price from <b>demand</b>: P = 150 − 2(24) = <span class='ans'>$102</span>.","(Profit if asked: TR = 2,448, TC = 720 + 288 = 1,008, profit = 1,440.)"]},
+{title:"Same market if perfectly competitive",src:"Practice 2-2 SA3 · Competition",q:"Same demand and MC as above. Find Q and P under perfect competition.",s:["Competitive firms produce where P = MC: 150 − 2Q = 30 + Q → 120 = 3Q → <span class='ans'>Q = 40</span>.","P = 150 − 80 = <span class='ans'>$70</span>.","Compare with the monopoly: 24 units at $102. A monopoly means less output and a higher price. DWL = ½ × (102 − 54) × (40 − 24) = 384, where MC at Q = 24 is 54."]},
+{title:"Aluminum smoke (Figure B1)",src:"Practice 2-2 SA4 · Negative production externality",q:"D = MSB: P = 100 − Q. S = MPC: P = 20 + Q. MSC: P = 40 + Q. (a) Unregulated equilibrium and point? (b) Social optimum and point? (c) Pigouvian tax? (d) Buyer price, seller price, revenue?",s:["(a) 100 − Q = 20 + Q → <span class='ans'>Q = 40, P = $60</span>, which is <b>point a</b>.","(b) 100 − Q = 40 + Q → <span class='ans'>Q = 30, P = $70</span>, which is <b>point b</b>.","(c) Tax = MSC − MPC = (40 + Q) − (20 + Q) = <span class='ans'>$20 per unit</span>, the external cost.","(d) Buyers pay <span class='ans'>$70</span>. Sellers keep 70 − 20 = <span class='ans'>$50</span> (point d). Revenue = 20 × 30 = <span class='ans'>$600</span>.","Bonus: DWL without the tax = ½ × 20 × (40 − 30) = $100, the triangle a-b-c."]},
+{title:"Secondhand smoke (Figure B3)",src:"Practice 2-2 SA5 · Negative consumption externality",q:"D = MPB: P = 80 − Q. MSB: P = 60 − Q. S = MC = MSC: P = 10 + Q. Q in thousands of packs. (a) Social optimum? (b) Which areas are total external cost at the market outcome? (c) Which area is DWL? (d) With a $20 tax on smokers: Q, price smokers pay, price sellers receive, revenue?",s:["Market first: 80 − Q = 10 + Q → Q = 35, P = $45.","(a) MSB = MSC: 60 − Q = 10 + Q → <span class='ans'>Q = 25 (thousand), P = $35</span>.","(b) External cost = $20 per pack × 35 packs = the whole band between D and MSB from 0 to 35 = <span class='ans'>A + B + C</span> = 500 + 100 + 100 = $700 thousand.","(c) DWL is the triangle from 25 to 35 where cost (S) is above social benefit (MSB): <span class='ans'>area C</span> = ½ × 10 × 20 = $100 thousand.","(d) Q falls to <span class='ans'>25 thousand</span>. Smokers pay <span class='ans'>$55</span> including the tax (read off D at 25). Sellers receive <span class='ans'>$35</span>. Revenue = 20 × 25 = <span class='ans'>$500 thousand</span>, which equals area A."]},
+{title:"Monopoly areas (Figure C1)",src:"Practice 2-2 SA6 · Monopoly welfare",q:"Demand P = 120 − Q, MR = 120 − 2Q, MC = Q. Areas A–E. (a) Monopoly Q and P? (b) Which area is monopoly DWL, and what is the DWL under perfect competition? (c) Dollar values of CS, PS, DWL under monopoly.",s:["(a) 120 − 2Q = Q → <span class='ans'>Q = 40</span>. P = 120 − 40 = <span class='ans'>$80</span>.","(b) Monopoly DWL = <span class='ans'>C + E</span>. Under perfect competition (Q = 60, P = 60) the DWL is <span class='ans'>0</span>.","(c) CS = A = ½ × 40 × (120 − 80) = <span class='ans'>$800</span>.","PS = B + D: B = (80 − 60) × 40 = 800. D = area between 60 and MC from 0 to 40 = 40 × 60 − ½ × 40 × 40 = 1,600. PS = <span class='ans'>$2,400</span>.","DWL = C + E = ½ × (80 − 40) × (60 − 40) = <span class='ans'>$400</span>, with C = 200 and E = 200.","Check: total surplus under competition = ½ × 60 × 120 = 3,600, and 800 + 2,400 + 400 = 3,600."]},
+{title:"Competitive firm (Figure C2)",src:"Practice 2-2 SA7 · Perfect competition",q:"TC = 100 + Q², MC = 2Q, ATC = 100/Q + Q. Price = $40. (a) TR, TC, profit at the best quantity. (b) Price falls to $20: quantity and profit?",s:["(a) P = MC: 40 = 2Q → Q = 20. TR = 40 × 20 = <span class='ans'>$800</span>. TC = 100 + 400 = <span class='ans'>$500</span>. Profit = <span class='ans'>$300</span>. Check: (40 − ATC 25) × 20 = 300.","(b) 20 = 2Q → <span class='ans'>Q = 10</span>. ATC = 10 + 10 = 20 = P, so TR = 200, TC = 200, profit = <span class='ans'>$0</span>. This is the break-even point (minimum ATC).","It keeps producing because P = 20 is above AVC (Q = 10). Fixed costs don't affect the shutdown decision."]},
+{title:"Sugary-drink tax (review slides)",src:"Review slides · Taxes",q:"Qd = 500 − 20P, Qs = 100 + 10P (Q in millions of cans, P in cents). Tax t = 10¢ per can on consumers. (1) Pre-tax equilibrium. (2) Ps, Pb, new Q. (3) Revenue and DWL.",s:["(1) 500 − 20P = 100 + 10P → 400 = 30P → <span class='ans'>P ≈ 13.33¢, Q ≈ 233.3 million</span>.","(2) Pb = Ps + 10: 500 − 20(Ps + 10) = 100 + 10Ps → 300 − 20Ps = 100 + 10Ps → <span class='ans'>Ps ≈ 6.67¢, Pb ≈ 16.67¢</span>. Q = 100 + 66.7 = <span class='ans'>166.7 million</span>.","(3) Revenue = 10¢ × 166.7M ≈ <span class='ans'>$16.7 million</span>. DWL = ½ × 10¢ × (233.3 − 166.7)M ≈ <span class='ans'>$3.33 million</span>.","Sellers lose 6.67¢ and buyers pay 3.33¢ more. Supply is more inelastic here (slope 10 vs 20), so sellers bear more."]},
+{title:"Game: dominant strategy and Nash (review slides)",src:"Review slides · Game theory",q:"(P1, P2): Up/Left (6,3), Up/Right (4,5), Down/Left (5,7), Down/Right (1,3). (1) Dominant strategies? (2) Nash equilibrium? (3) Prisoner's dilemma?",s:["(1) P1: against Left, 6 > 5, so Up. Against Right, 4 > 1, so Up. <span class='ans'>Up is dominant for P1</span>. P2: against Up, 5 > 3, so Right. Against Down, 7 > 3, so Left. <span class='ans'>P2 has no dominant strategy</span>.","(2) P1 plays Up, and P2's best reply is Right. <span class='ans'>NE = (Up, Right) = (4, 5)</span>.","(3) (Down, Left) = (5, 7) would make <i>both</i> players better off, so the equilibrium is inefficient, which is the dilemma-like feature. It is not a <i>classic</i> prisoner's dilemma, because that needs both players to have a dominant strategy. Write both points on the exam."]}
+];
+const MOCK_SA=[0,1,3,5,6]; // indexes into SA
+let store={};try{store=JSON.parse(localStorage.getItem("v202m2")||"{}")}catch(e){}
+store.mock=store.mock||{};store.bank=store.bank||{};store.graded=!!store.graded;
+function save(){try{localStorage.setItem("v202m2",JSON.stringify(store))}catch(e){}}
+function esc(s){return s}
+
+function qCard(item,i,mode){
+  const d=document.createElement("div");d.className="q";
+  d.innerHTML=`<div class="meta"><span class="chip">Q${i+1}</span><span class="chip topic">${T[item.t]}</span><span class="chip">${item.src}</span></div><p class="stem">${item.q}</p><div class="opts"></div><div class="why" hidden></div>`;
+  const opts=d.querySelector(".opts"),why=d.querySelector(".why");
+  const bucket=store[mode];
+  item.o.forEach((txt,k)=>{
+    const b=document.createElement("button");b.className="opt";b.type="button";b.id=`${mode}-${i}-${k}`;
+    b.innerHTML=`<span class="L">${L[k]}</span><span>${txt}</span>`;
+    b.addEventListener("click",()=>{
+      if(mode==="mock"){ if(store.graded) return; bucket[i]=k; save(); paint(); updMock(); }
+      else { if(bucket[i]!==undefined) return; bucket[i]=k; save(); paint(); updBank(); }
+    });
+    opts.appendChild(b);
+  });
+  function paint(){
+    const pick=bucket[i];const btns=opts.querySelectorAll(".opt");
+    const reveal = mode==="bank" ? pick!==undefined : store.graded;
+    btns.forEach((b,k)=>{b.className="opt";b.disabled=reveal;
+      if(reveal){ if(k===item.a) b.classList.add("right"); else if(k===pick) b.classList.add("wrong"); }
+      else if(k===pick) b.classList.add("picked");});
+    if(reveal){why.hidden=false;
+      const ok=pick===item.a;
+      why.innerHTML=(pick===undefined?`<b class="no">Not answered.</b> `:ok?`<b class="ok">Correct.</b> `:`<b class="no">Answer: ${L[item.a]}.</b> `)+item.w;}
+    else why.hidden=true;
+  }
+  d._paint=paint;paint();return d;
+}
+function saCard(item,n,label){
+  const d=document.createElement("div");d.className="sa";
+  d.innerHTML=`<div class="meta" style="display:flex;gap:8px;flex-wrap:wrap"><span class="chip">${label}</span><span class="chip topic">${item.src}</span></div><h3>${item.title}</h3><p>${item.q}</p><details><summary>Show the worked solution</summary><div class="steps">${item.s.map(x=>`<p>${x}</p>`).join("")}</div></details>`;
+  return d;
+}
+// Written section
+const saList=document.getElementById("sa-list");
+SA.forEach((s,i)=>saList.appendChild(saCard(s,i,`Problem ${i+1}`)));
+// Mock
+const mockMc=document.getElementById("mock-mc"),mockSa=document.getElementById("mock-sa");
+const mockCards=MOCK.map((q,i)=>{const c=qCard(q,i,"mock");mockMc.appendChild(c);return c});
+MOCK_SA.forEach((k,j)=>mockSa.appendChild(saCard(SA[k],k,`Short answer ${j+1}`)));
+function updMock(){
+  const n=Object.keys(store.mock).length;document.getElementById("mock-count").textContent=`${n} / 25 answered`;
+  const r=document.getElementById("mock-result");
+  if(store.graded){
+    let right=0;const miss={};MOCK.forEach((q,i)=>{if(store.mock[i]===q.a)right++;else miss[T[q.t]]=(miss[T[q.t]]||0)+1});
+    const weak=Object.entries(miss).sort((a,b)=>b[1]-a[1]).map(([k,v])=>`${k} (${v})`).join(", ")||"none";
+    r.hidden=false;r.className="result";
+    r.innerHTML=`<span class="eyebrow">Multiple-choice score</span><h3>${right} / 25 · ${Math.round(right/25*100)}%</h3><p>Topics to review: ${weak}.</p><p>Now check Part B: compare each short answer to its worked solution and give yourself full credit only if every step matches.</p>`;
+  } else r.hidden=true;
+}
+document.getElementById("mock-grade").addEventListener("click",()=>{store.graded=true;save();stopTimer();mockCards.forEach(c=>c._paint());updMock();document.getElementById("mock-result").scrollIntoView({behavior:"smooth",block:"start"})});
+document.getElementById("mock-reset").addEventListener("click",()=>{store.mock={};store.graded=false;save();resetTimer();mockCards.forEach(c=>c._paint());updMock()});
+let tLeft=3600,tId=null;
+function fmt(s){return `${String(Math.floor(s/60)).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`}
+function stopTimer(){clearInterval(tId);tId=null;document.getElementById("mock-start").textContent="Resume timer"}
+function resetTimer(){clearInterval(tId);tId=null;tLeft=3600;document.getElementById("mock-timer").textContent=fmt(tLeft);document.getElementById("mock-start").textContent="Start 60:00 timer"}
+document.getElementById("mock-start").addEventListener("click",()=>{
+  if(tId){stopTimer();return}
+  document.getElementById("mock-start").textContent="Pause";
+  tId=setInterval(()=>{tLeft--;document.getElementById("mock-timer").textContent=fmt(Math.max(tLeft,0));if(tLeft<=0){clearInterval(tId);tId=null;document.getElementById("mock-timer").textContent="Time's up"}},1000);
+});
+updMock();
+// Bank
+const bankList=document.getElementById("bank-list"),filter=document.getElementById("bank-filter");
+const bankCards=BANK.map((q,i)=>{const c=qCard(q,i,"bank");c.dataset.t=q.t;bankList.appendChild(c);return c});
+filter.innerHTML=`<option value="">All topics (${BANK.length})</option>`+Object.keys(T).filter(k=>BANK.some(q=>q.t===k)).map(k=>`<option value="${k}">${T[k]} (${BANK.filter(q=>q.t===k).length})</option>`).join("");
+filter.addEventListener("change",()=>bankCards.forEach(c=>c.hidden=!!filter.value&&c.dataset.t!==filter.value));
+function updBank(){const ks=Object.keys(store.bank);const r=ks.filter(i=>store.bank[i]===BANK[i].a).length;document.getElementById("bank-score").textContent=`${r} correct of ${ks.length} tried`}
+document.getElementById("bank-reset").addEventListener("click",()=>{store.bank={};save();bankCards.forEach(c=>c._paint());updBank()});
+updBank();
+// Routing
+const views=["learn","formulas","written","mock","bank","plan"];
+function route(){const h=(location.hash||"#learn").slice(1);const v=views.includes(h)?h:"learn";
+  views.forEach(x=>document.getElementById("v-"+x).hidden=x!==v);
+  document.querySelectorAll("nav.tabs a").forEach(a=>a.setAttribute("aria-current",a.getAttribute("href")==="#"+v?"page":"false"));
+  window.scrollTo(0,0);}
+window.addEventListener("hashchange",route);route();
+</script>
